@@ -1,0 +1,11 @@
+{
+  "name": "diccionarioCruzado",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dbl-wemass/diccionarioCruzado.git",
+  "author": "David Berrocal <david.berrocal@wemass.com>",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  }
+}
