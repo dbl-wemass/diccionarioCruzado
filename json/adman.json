@@ -1396,5 +1396,209 @@
   "site": "xlsemanal",
   "medio": "video",
   "type": "prebid"
+ },
+ "[HB] WMGodo_mundodeportivo.com": {
+  "publisher": "godo",
+  "site": "mundodeportivo",
+  "medio": "video",
+  "type": "prebid"
+ },
+ "WM_lavozdegalicia.es Intext": {
+  "publisher": "lavozdegalicia",
+  "site": "lavozdegalicia",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_diariosur.es Intext": {
+  "publisher": "vocento",
+  "site": "diariosur",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[HB] WM_abc.es Display": {
+  "publisher": "Vocento",
+  "site": "abc",
+  "medio": "display",
+  "type": "prebid"
+ },
+ "[AMP] WMGodo_lavanguardia.com Intext": {
+  "publisher": "godo",
+  "site": "lavanguardia",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_ideal.es Intext": {
+  "publisher": "Vocento",
+  "site": "ideal",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WM_canarias7.es Intext": {
+  "publisher": "canarias7",
+  "site": "canarias7",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WM_hola.com Intext": {
+  "publisher": "hola",
+  "site": "hola",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMGodo_mundodeportivo.com Intext": {
+  "publisher": "godo",
+  "site": "mundodeportivo",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_diariovasco.com Intext": {
+  "publisher": "vocento",
+  "site": "diariovasco",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_elcomercio.es Intext": {
+  "publisher": "vocento",
+  "site": "elcomercio",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_elcorreo.com Intext": {
+  "publisher": "vocento",
+  "site": "elcorreo",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_eldiariomontanes.es Intext": {
+  "publisher": "vocento",
+  "site": "eldiariomontanes",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_elnortedecastilla.es": {
+  "publisher": "vocento",
+  "site": "elnortedecastilla",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_hoy.es Intext ": {
+  "publisher": "vocento",
+  "site": "hoy",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_larioja.com Intext": {
+  "publisher": "vocento",
+  "site": "larioja",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_lasprovincias.es Intext": {
+  "publisher": "vocento",
+  "site": "lasprovincias",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_laverdad.es Intext": {
+  "publisher": "vocento",
+  "site": "laverdad",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_leonoticias.com Intext": {
+  "publisher": "vocento",
+  "site": "leonoticias",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_mujerhoy.com Intext": {
+  "publisher": "vocento",
+  "site": "mujerhoy",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_sevilla.abc.es Intext": {
+  "publisher": "vocento",
+  "site": "abcsevilla",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[HB] WM_hola.com Display": {
+  "publisher": "hola",
+  "site": "hola",
+  "medio": "display",
+  "type": "prebid"
+ },
+ "[HB] WM_lavozdegalicia.es Display": {
+  "publisher": "lavozdegalicia",
+  "site": "lavozdegalicia",
+  "medio": "display",
+  "type": "prebid"
+ },
+ "[HB] WMCanarias7_canarias7.es Display": {
+  "publisher": "canarias7",
+  "site": "canarias7",
+  "medio": "display",
+  "type": "prebid"
+ },
+ "[HB] WMVocento_lasprovincias.es Display": {
+  "publisher": "Vocento",
+  "site": "lasprovincias",
+  "medio": "display",
+  "type": "prebid"
+ },
+ "WM_tuotrodiario.com Display Pi": {
+  "publisher": "hola",
+  "site": "tuotrodiario",
+  "medio": "display",
+  "type": "passback"
+ },
+ "WMPrisa_biwenger.as.com Display Pi": {
+  "publisher": "prisa",
+  "site": "biwenger",
+  "medio": "display",
+  "type": "passback"
+ },
+ "WMPrisa_ejerciciosencasa.as.com Display Pi": {
+  "publisher": "prisa",
+  "site": "as_ejerciciosencasa",
+  "medio": "display",
+  "type": "passback"
+ },
+ "WMPrisa_huffingtonpost.es Surf": {
+  "publisher": "prisa",
+  "site": "huffingtonpost",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_hoy.es Intext": {
+  "publisher": "vocento",
+  "site": "hoy",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_lavozdigital.es Intext": {
+  "publisher": "vocento",
+  "site": "laverdad",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_xlsemanal.com Intext": {
+  "publisher": "vocento",
+  "site": "xlsemanal",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_burgosconecta.es Intext": {
+  "publisher": "vocento",
+  "site": "burgosconecta",
+  "medio": "video",
+  "type": "passback"
+ },
+ "[AMP] WMVocento_elbierzonoticias.com Intext": {
+  "publisher": "vocento",
+  "site": "elbierzonoticias",
+  "medio": "video",
+  "type": "passback"
  }
 }

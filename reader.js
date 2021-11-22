@@ -1,7 +1,8 @@
 const ExcelJS = require('exceljs');
 const lee = async () => {
   // read from a file
-  const workbook = new ExcelJS.Workbook();
+  const workbook = new ExcelJS.Workbook()
+  workbook
   await workbook.xlsx.readFile("./excel/diccionarioCruzado.xlsx");
 
   const worksheet = workbook.getWorksheet('adman');
