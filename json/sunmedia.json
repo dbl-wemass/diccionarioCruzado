@@ -1,274 +1,274 @@
 {
- "\"\"40 Principales\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"los40\"\""
- },
- "\"\"ABC\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"abc\"\""
- },
- "\"\"ABC Sevilla\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"abcsevilla\"\""
- },
- "\"\"AS\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"as\"\""
- },
- "\"\"AS Esports\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"as_esports\"\""
- },
- "\"\"AS Meristation\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"meristation\"\""
- },
- "\"\"AS Motor\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"as_motor\"\""
- },
- "\"\"AS Tikitakas\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"as_tikitakas\"\""
- },
- "\"\"Biwenger\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"biwenger\"\""
- },
- "\"\"Burgos Conecta\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"burgosconecta\"\""
- },
- "\"\"Cadena Dial\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"cadenadial\"\""
- },
- "\"\"Cadena Ser\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"cadenaser\"\""
- },
- "\"\"Canarias7\"\"": {
-  "publisher": "\"\"Canarias7\"\"",
-  "site": "\"\"canarias7\"\""
- },
- "\"\"Cinco Dias\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_finanzas_cincodias\"\""
- },
- "\"\"Codigo Unico\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"codigounico\"\""
- },
- "\"\"Cribeo\"\"": {
-  "publisher": "\"\"Godo\"\"",
-  "site": "\"\"lavanguardia_cribeo\"\""
- },
- "\"\"Diario Montanes\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"eldiariomontanes\"\""
- },
- "\"\"Diario Sur\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"diariosur\"\""
- },
- "\"\"Diario Vasco\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"diariovasco\"\""
- },
- "\"\"Ejercicios en Casa\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"as_ejerciciosencasa\"\""
- },
- "\"\"El Bierzo Noticias\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"elbierzonoticias\"\""
- },
- "\"\"El Comercio\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"elcomercio\"\""
- },
- "\"\"El Comidista\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_comidista\"\""
- },
- "\"\"El Correo\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"elcorreo\"\""
- },
- "\"\"El Norte de Castilla\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"elnortedecastilla\"\""
- },
- "\"\"EL PAIS\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais\"\""
- },
- "\"\"EL PAIS Buena Vida\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_buenavida\"\""
- },
- "\"\"EL PAIS Cultura\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_cultura\"\""
- },
- "\"\"EL PAIS Deportes\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_deportes\"\""
- },
- "\"\"EL PAIS Economia\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_finanzas_economia\"\""
- },
- "\"\"EL PAIS en Catalan\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_cat\"\""
- },
- "\"\"EL PAIS EPS\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_eps\"\""
- },
- "\"\"EL PAIS Estilo\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_estilo\"\""
- },
- "\"\"EL PAIS Gente\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_gente\"\""
- },
- "\"\"EL PAIS Icon\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_icon\"\""
- },
- "\"\"EL PAIS Icon Desing\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_icon_design\"\""
- },
- "\"\"EL PAIS Tecnologia\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_tecnologia\"\""
- },
- "\"\"EL PAIS Tentaciones\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_tentaciones\"\""
- },
- "\"\"El Viajero\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_elviajero\"\""
- },
- "\"\"EPS\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_eps\"\""
- },
- "\"\"Esports AS\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"as_esports\"\""
- },
- "\"\"Euribor\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_finanzas_cincodias_euribor\"\""
- },
- "\"\"Hoy\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"hoy\"\""
- },
- "\"\"Huffingtonpost\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"huffingtonpost\"\""
- },
- "\"\"Ideal\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"ideal\"\""
- },
- "\"\"Kebuena\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"kebuena\"\""
- },
- "\"\"La Rioja\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"larioja\"\""
- },
- "\"\"La Vanguardia\"\"": {
-  "publisher": "\"\"Godo\"\"",
-  "site": "\"\"lavanguardia\"\""
- },
- "\"\"La Verdad\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"laverdad\"\""
- },
- "\"\"La Voz Digital\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"lavozdigital\"\""
- },
- "\"\"Las Provincias\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"lasprovincias\"\""
- },
- "\"\"Leonoticias\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"leonoticias\"\""
- },
- "\"\"Librotea\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"librotea\"\""
- },
- "\"\"Maxima FM\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"maxima\"\""
- },
- "\"\"Motor\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_motor\"\""
- },
- "\"\"Mujer Hoy\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"mujerhoy\"\""
- },
- "\"\"Mundo Deportivo\"\"": {
-  "publisher": "\"\"Godo\"\"",
-  "site": "\"\"mundodeportivo\"\""
- },
- "\"\"Rac 1\"\"": {
-  "publisher": "\"\"Godo\"\"",
-  "site": "\"\"rac1\"\""
- },
- "\"\"Radio Ole\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"radiole\"\""
- },
- "\"\"Retina\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_finanzas_retina\"\""
- },
- "\"\"SModa\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_smoda\"\""
- },
- "\"\"Strambotic\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"huffingtonpost_strambotic\"\""
- },
- "\"\"Verne\"\"": {
-  "publisher": "\"\"Prisa\"\"",
-  "site": "\"\"elpais_verne\"\""
- },
- "\"\"XL Semanal\"\"": {
-  "publisher": "\"\"Vocento\"\"",
-  "site": "\"\"xlsemanal\"\""
- },
- "\"\"Hola\"\"": {
-  "publisher": "\"\"hola\"\"",
-  "site": "\"\"hola\"\""
- },
- "\"\"HOLA\"\"": {
-  "publisher": "\"\"hola\"\"",
-  "site": "\"\"hola\"\""
- },
- "\"\"Tu otro Diario\"\"": {
-  "publisher": "\"\"hola\"\"",
-  "site": "\"\"tuotrodiario\"\""
- },
- "\"\"La voz de Galicia\"\"": {
-  "publisher": "\"\"lavozdegalicia\"\"",
-  "site": "\"\"lavozdegalicia\"\""
+ "\"\"\"40 Principales\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"los40\"\"\""
+ },
+ "\"\"\"ABC\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"abc\"\"\""
+ },
+ "\"\"\"ABC Sevilla\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"abcsevilla\"\"\""
+ },
+ "\"\"\"AS\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"as\"\"\""
+ },
+ "\"\"\"AS Esports\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"as_esports\"\"\""
+ },
+ "\"\"\"AS Meristation\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"meristation\"\"\""
+ },
+ "\"\"\"AS Motor\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"as_motor\"\"\""
+ },
+ "\"\"\"AS Tikitakas\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"as_tikitakas\"\"\""
+ },
+ "\"\"\"Biwenger\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"biwenger\"\"\""
+ },
+ "\"\"\"Burgos Conecta\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"burgosconecta\"\"\""
+ },
+ "\"\"\"Cadena Dial\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"cadenadial\"\"\""
+ },
+ "\"\"\"Cadena Ser\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"cadenaser\"\"\""
+ },
+ "\"\"\"Canarias7\"\"\"": {
+  "publisher": "\"\"\"Canarias7\"\"\"",
+  "site": "\"\"\"canarias7\"\"\""
+ },
+ "\"\"\"Cinco Dias\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_finanzas_cincodias\"\"\""
+ },
+ "\"\"\"Codigo Unico\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"codigounico\"\"\""
+ },
+ "\"\"\"Cribeo\"\"\"": {
+  "publisher": "\"\"\"Godo\"\"\"",
+  "site": "\"\"\"lavanguardia_cribeo\"\"\""
+ },
+ "\"\"\"Diario Montanes\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"eldiariomontanes\"\"\""
+ },
+ "\"\"\"Diario Sur\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"diariosur\"\"\""
+ },
+ "\"\"\"Diario Vasco\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"diariovasco\"\"\""
+ },
+ "\"\"\"Ejercicios en Casa\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"as_ejerciciosencasa\"\"\""
+ },
+ "\"\"\"El Bierzo Noticias\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"elbierzonoticias\"\"\""
+ },
+ "\"\"\"El Comercio\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"elcomercio\"\"\""
+ },
+ "\"\"\"El Comidista\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_comidista\"\"\""
+ },
+ "\"\"\"El Correo\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"elcorreo\"\"\""
+ },
+ "\"\"\"El Norte de Castilla\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"elnortedecastilla\"\"\""
+ },
+ "\"\"\"EL PAIS\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais\"\"\""
+ },
+ "\"\"\"EL PAIS Buena Vida\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_buenavida\"\"\""
+ },
+ "\"\"\"EL PAIS Cultura\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_cultura\"\"\""
+ },
+ "\"\"\"EL PAIS Deportes\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_deportes\"\"\""
+ },
+ "\"\"\"EL PAIS Economia\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_finanzas_economia\"\"\""
+ },
+ "\"\"\"EL PAIS en Catalan\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_cat\"\"\""
+ },
+ "\"\"\"EL PAIS EPS\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_eps\"\"\""
+ },
+ "\"\"\"EL PAIS Estilo\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_estilo\"\"\""
+ },
+ "\"\"\"EL PAIS Gente\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_gente\"\"\""
+ },
+ "\"\"\"EL PAIS Icon\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_icon\"\"\""
+ },
+ "\"\"\"EL PAIS Icon Desing\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_icon_design\"\"\""
+ },
+ "\"\"\"EL PAIS Tecnologia\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_tecnologia\"\"\""
+ },
+ "\"\"\"EL PAIS Tentaciones\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_tentaciones\"\"\""
+ },
+ "\"\"\"El Viajero\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_elviajero\"\"\""
+ },
+ "\"\"\"EPS\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_eps\"\"\""
+ },
+ "\"\"\"Esports AS\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"as_esports\"\"\""
+ },
+ "\"\"\"Euribor\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_finanzas_cincodias_euribor\"\"\""
+ },
+ "\"\"\"Hoy\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"hoy\"\"\""
+ },
+ "\"\"\"Huffingtonpost\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"huffingtonpost\"\"\""
+ },
+ "\"\"\"Ideal\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"ideal\"\"\""
+ },
+ "\"\"\"Kebuena\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"kebuena\"\"\""
+ },
+ "\"\"\"La Rioja\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"larioja\"\"\""
+ },
+ "\"\"\"La Vanguardia\"\"\"": {
+  "publisher": "\"\"\"Godo\"\"\"",
+  "site": "\"\"\"lavanguardia\"\"\""
+ },
+ "\"\"\"La Verdad\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"laverdad\"\"\""
+ },
+ "\"\"\"La Voz Digital\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"lavozdigital\"\"\""
+ },
+ "\"\"\"Las Provincias\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"lasprovincias\"\"\""
+ },
+ "\"\"\"Leonoticias\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"leonoticias\"\"\""
+ },
+ "\"\"\"Librotea\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"librotea\"\"\""
+ },
+ "\"\"\"Maxima FM\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"maxima\"\"\""
+ },
+ "\"\"\"Motor\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_motor\"\"\""
+ },
+ "\"\"\"Mujer Hoy\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"mujerhoy\"\"\""
+ },
+ "\"\"\"Mundo Deportivo\"\"\"": {
+  "publisher": "\"\"\"Godo\"\"\"",
+  "site": "\"\"\"mundodeportivo\"\"\""
+ },
+ "\"\"\"Rac 1\"\"\"": {
+  "publisher": "\"\"\"Godo\"\"\"",
+  "site": "\"\"\"rac1\"\"\""
+ },
+ "\"\"\"Radio Ole\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"radiole\"\"\""
+ },
+ "\"\"\"Retina\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_finanzas_retina\"\"\""
+ },
+ "\"\"\"SModa\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_smoda\"\"\""
+ },
+ "\"\"\"Strambotic\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"huffingtonpost_strambotic\"\"\""
+ },
+ "\"\"\"Verne\"\"\"": {
+  "publisher": "\"\"\"Prisa\"\"\"",
+  "site": "\"\"\"elpais_verne\"\"\""
+ },
+ "\"\"\"XL Semanal\"\"\"": {
+  "publisher": "\"\"\"Vocento\"\"\"",
+  "site": "\"\"\"xlsemanal\"\"\""
+ },
+ "\"\"\"Hola\"\"\"": {
+  "publisher": "\"\"\"hola\"\"\"",
+  "site": "\"\"\"hola\"\"\""
+ },
+ "\"\"\"HOLA\"\"\"": {
+  "publisher": "\"\"\"hola\"\"\"",
+  "site": "\"\"\"hola\"\"\""
+ },
+ "\"\"\"Tu otro Diario\"\"\"": {
+  "publisher": "\"\"\"hola\"\"\"",
+  "site": "\"\"\"tuotrodiario\"\"\""
+ },
+ "\"\"\"La voz de Galicia\"\"\"": {
+  "publisher": "\"\"\"lavozdegalicia\"\"\"",
+  "site": "\"\"\"lavozdegalicia\"\"\""
  }
 }
