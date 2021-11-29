@@ -1,164 +1,164 @@
 {
-  "QX_ES_Canarias7": {
-      "publisher": "canarias7",
-      "site": "canarias7",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Lavanguardia": {
-      "publisher": "godo",
-      "site": "lavanguardia",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Mundodeportivo": {
-      "publisher": "godo",
-      "site": "mundodeportivo",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Hola.com": {
-      "publisher": "hola",
-      "site": "tuotrodiario",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Lavozdeasturias": {
-      "publisher": "lavozdegalicia",
-      "site": "lavozdeasturias",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Lavozdegalicia": {
-      "publisher": "lavozdegalicia",
-      "site": "lavozdegalicia",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_As": {
-      "publisher": "prisa",
-      "site": "as",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Cadena ser": {
-      "publisher": "prisa",
-      "site": "cadenaser",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_El pais": {
-      "publisher": "prisa",
-      "site": "elpais",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Huffingtonpost": {
-      "publisher": "prisa",
-      "site": "huffingtonpost",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Los 40": {
-      "publisher": "prisa",
-      "site": "los40",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_ABC": {
-      "publisher": "vocento",
-      "site": "abc",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_BurgosConecta": {
-      "publisher": "vocento",
-      "site": "burgosconecta",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_DiarioSur": {
-      "publisher": "vocento",
-      "site": "diariosur",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Diariovasco": {
-      "publisher": "vocento",
-      "site": "diariovasco",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Elbierzonoticias": {
-      "publisher": "vocento",
-      "site": "elbierzonoticias",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Elcomercio": {
-      "publisher": "vocento",
-      "site": "elcomercio",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Elcorreo": {
-      "publisher": "vocento",
-      "site": "elcorreo",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Eldiariomontanes": {
-      "publisher": "vocento",
-      "site": "eldiariomontanes",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Elnortedecastilla": {
-      "publisher": "vocento",
-      "site": "elnortedecastilla",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Hoy": {
-      "publisher": "vocento",
-      "site": "hoy",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_ideal": {
-      "publisher": "vocento",
-      "site": "ideal",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Larioja": {
-      "publisher": "vocento",
-      "site": "larioja",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Lasprovincias": {
-      "publisher": "vocento",
-      "site": "lasprovincias",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Laverdad": {
-      "publisher": "vocento",
-      "site": "laverdad",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Leonoticias": {
-      "publisher": "vocento",
-      "site": "leonoticias",
-      "canal": "any",
-      "format": "native"
-  },
-  "QX_ES_Tuotrodiario": {
-      "publisher": "hola",
-      "site": "tuotrodiario",
-      "canal": "any",
-      "format": "native"
-  }
+ "QX_ES_Canarias7": {
+  "publisher": "canarias7",
+  "site": "canarias7",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Lavanguardia": {
+  "publisher": "godo",
+  "site": "lavanguardia",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Mundodeportivo": {
+  "publisher": "godo",
+  "site": "mundodeportivo",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Hola.com": {
+  "publisher": "hola",
+  "site": "tuotrodiario",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Lavozdeasturias": {
+  "publisher": "lavozdegalicia",
+  "site": "lavozdeasturias",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Lavozdegalicia": {
+  "publisher": "lavozdegalicia",
+  "site": "lavozdegalicia",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_As": {
+  "publisher": "prisa",
+  "site": "as",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Cadena ser": {
+  "publisher": "prisa",
+  "site": "cadenaser",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_El pais": {
+  "publisher": "prisa",
+  "site": "elpais",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Huffingtonpost": {
+  "publisher": "prisa",
+  "site": "huffingtonpost",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Los 40": {
+  "publisher": "prisa",
+  "site": "los40",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_ABC": {
+  "publisher": "vocento",
+  "site": "abc",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_BurgosConecta": {
+  "publisher": "vocento",
+  "site": "burgosconecta",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_DiarioSur": {
+  "publisher": "vocento",
+  "site": "diariosur",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Diariovasco": {
+  "publisher": "vocento",
+  "site": "diariovasco",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Elbierzonoticias": {
+  "publisher": "vocento",
+  "site": "elbierzonoticias",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Elcomercio": {
+  "publisher": "vocento",
+  "site": "elcomercio",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Elcorreo": {
+  "publisher": "vocento",
+  "site": "elcorreo",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Eldiariomontanes": {
+  "publisher": "vocento",
+  "site": "eldiariomontanes",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Elnortedecastilla": {
+  "publisher": "vocento",
+  "site": "elnortedecastilla",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Hoy": {
+  "publisher": "vocento",
+  "site": "hoy",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_ideal": {
+  "publisher": "vocento",
+  "site": "ideal",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Larioja": {
+  "publisher": "vocento",
+  "site": "larioja",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Lasprovincias": {
+  "publisher": "vocento",
+  "site": "lasprovincias",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Laverdad": {
+  "publisher": "vocento",
+  "site": "laverdad",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Leonoticias": {
+  "publisher": "vocento",
+  "site": "leonoticias",
+  "canal": "any",
+  "format": "native"
+ },
+ "QX_ES_Tuotrodiario": {
+  "publisher": "hola",
+  "site": "tuotrodiario",
+  "canal": "any",
+  "format": "native"
+ }
 }
