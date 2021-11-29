@@ -1,268 +1,272 @@
-coso,publisher,site,medio,type,origen
-"[AMP] WM_abc.es Intext","Vocento","abc","video","passback","adman"
-"WM_abc.es Display Pi","Vocento","abc","display","passback","adman"
-"WM_abc.es Intext","Vocento","abc","video","passback","adman"
-"WM_abc.es Stop Player","Vocento","abc","video","passback","adman"
-"[HB] WM_abc.es Video","Vocento","abc","video","prebid","adman"
-"WM_abc.es","vocento","abc","video","prebid","adman"
-"[HB] WMVocento_sevilla.abc.es Display","Vocento","abcsevilla","display","prebid","adman"
-"WMVocento_sevilla.abc.es Display Pi","Vocento","abcsevilla","display","passback","adman"
-"WMVocento_sevilla.abc.es Intext","Vocento","abcsevilla","video","passback","adman"
-"[HB] WMVocento_sevilla.abc.es Video","Vocento","abcsevilla","video","prebid","adman"
-"WMVocento_sevilla.abc.es","vocento","abcsevilla","video","prebid","adman"
-"WMPrisa_as.com Display Pi","Prisa","as","display","passback","adman"
-"WMPrisa_as.com Intext","Prisa","as","video","passback","adman"
-"[HB] WMPrisa_as.com Video","Prisa","as","video","prebid","adman"
-"WMPrisa_as.com","prisa","as","video","prebid","adman"
-"WMPrisa_ejerciciosencasa.as.com Intext","Prisa","as_ejerciciosencasa","video","passback","adman"
-"[HB] WMPrisa_ejerciciosencasa.as.com Video","Prisa","as_ejerciciosencasa","video","prebid","adman"
-"WMPrisa_ejerciciosencasa.as.com","prisa","as_ejerciciosencasa","video","prebid","adman"
-"WMPrisa_esports.as.com Display Pi","Prisa","as_esports","display","passback","adman"
-"WMPrisa_esports.as.com Intext","Prisa","as_esports","video","passback","adman"
-"[HB] WMPrisa_esports.as.com Video","Prisa","as_esports","video","prebid","adman"
-"WMPrisa_esports.as.com","prisa","as_esports","video","prebid","adman"
-"WMPrisa_AS_Motor Intext","Prisa","as_motor","video","passback","adman"
-"[HB] WMPrisa_AS_Motor Video","Prisa","as_motor","video","prebid","adman"
-"WMPrisa_as.com/motor","prisa","as_motor","video","prebid","adman"
-"WMPrisa_Tikitakas Intext","Prisa","as_tikitakas","video","passback","adman"
-"[HB] WMPrisa_Tikitakas Video","Prisa","as_tikitakas","video","prebid","adman"
-"WMPrisa_as.com_Tikitakas","prisa","as_tikitakas","video","prebid","adman"
-"WMPrisa_biwenger.as.com","prisa","biwenger","video","prebid","adman"
-"WMPrisa_biwenger.as.com Intext","prisa","biwenger","video","passback","adman"
-"[HB] WMPrisa_biwenger.as.com Video","prisa","biwenger","video","prebid","adman"
-"WMVocento_burgosconecta.es Display Pi","Vocento","burgosconecta","display","passback","adman"
-"WMVocento_burgosconecta.es Intext","Vocento","burgosconecta","video","passback","adman"
-"[HB] WMVocento_burgosconecta.es Video","Vocento","burgosconecta","video","prebid","adman"
-"WMVocento_burgosconecta.es","vocento","burgosconecta","video","prebid","adman"
-"WMPrisa_cadenaser.com Display Pi","Prisa","cadenaser","display","passback","adman"
-"WMPrisa_cadenaser.com Intext","Prisa","cadenaser","video","passback","adman"
-"[HB] WMPrisa_cadenaser.com Video","Prisa","cadenaser","video","prebid","adman"
-"WMPrisa_cadenaser.com","prisa","cadenaser","video","prebid","adman"
-"WMCanarias7_canarias7.es Display Pi","Canarias7","Canarias7","display","passback","adman"
-"WMCanarias7_canarias7.es Intext","Canarias7","Canarias7","video","passback","adman"
-"[HB] WMCanarias7_canarias7.es Video","Canarias7","canarias7","video","prebid","adman"
-"WMCanarias7_canarias7.es","canarias7","canarias7","video","prebid","adman"
-"WMVocento_codigounico.com Display Pi","Vocento","codigounico","display","passback","adman"
-"WMVocento_codigounico.com Intext","Vocento","codigounico","video","passback","adman"
-"[HB] WMVocento_codigounico.com Video","Vocento","codigounico","video","prebid","adman"
-"WMVocento_codigounico.com","vocento","codigounico","video","prebid","adman"
-"WMVocento_diariosur.es Display Pi","Vocento","diariosur","display","passback","adman"
-"WMVocento_diariosur.es Intext","Vocento","diariosur","video","passback","adman"
-"[HB] WMVocento_diariosur.es Video","Vocento","diariosur","video","prebid","adman"
-"WMVocento_diariosur.es","vocento","diariosur","video","prebid","adman"
-"WMVocento_diariovasco.com Display Pi","Vocento","diariovasco","display","passback","adman"
-"WMVocento_diariovasco.com Intext","Vocento","diariovasco","video","passback","adman"
-"[HB] WMVocento_diariovasco.com Video","Vocento","diariovasco","video","prebid","adman"
-"WMVocento_diariovasco.com","vocento","diariovasco","video","prebid","adman"
-"WMVocento_elbierzonoticias.com Display Pi","Vocento","elbierzonoticias","display","passback","adman"
-"WMVocento_elbierzonoticias.com Intext","Vocento","elbierzonoticias","video","passback","adman"
-"[HB] WMVocento_elbierzonoticias.com Video","Vocento","elbierzonoticias","video","prebid","adman"
-"WMVocento_elbierzonoticias.com","vocento","elbierzonoticias","video","prebid","adman"
-"WMVocento_elcomercio.es Display Pi","Vocento","elcomercio","display","passback","adman"
-"WMVocento_elcomercio.es Intext","Vocento","elcomercio","video","passback","adman"
-"[HB] WMVocento_elcomercio.es Video","Vocento","elcomercio","video","prebid","adman"
-"WMVocento_elcomercio.es","vocento","elcomercio","video","prebid","adman"
-"WMVocento_elcorreo.com Display Pi","Vocento","elcorreo","display","passback","adman"
-"WMVocento_elcorreo.com Intext","Vocento","elcorreo","video","passback","adman"
-"[HB] WMVocento_elcorreo.com Video","Vocento","elcorreo","video","prebid","adman"
-"WMVocento_elcorreo.com","vocento","elcorreo","video","prebid","adman"
-"WMVocento_eldiariomontanes.es Display Pi","Vocento","eldiariomontanes","display","passback","adman"
-"WMVocento_eldiariomontanes.es Intext","Vocento","eldiariomontanes","video","passback","adman"
-"[HB] WMVocento_eldiariomontanes.es Video","Vocento","eldiariomontanes","video","prebid","adman"
-"WMVocento_eldiariomontanes.es","vocento","eldiariomontanes","video","prebid","adman"
-"WMVocento_nortecastilla.es Display Pi","Vocento","elnortedecastilla","display","passback","adman"
-"WMVocento_nortecastilla.es Intext","Vocento","elnortedecastilla","video","passback","adman"
-"[HB] WMVocento_nortecastilla.es Video","Vocento","elnortedecastilla","video","prebid","adman"
-"WMVocento_nortecastilla.es","vocento","elnortedecastilla","video","prebid","adman"
-"Intext_prueba_elpais","Prisa","elpais","video","passback","adman"
-"WM_Prisa_elpais.com Stop Player","Prisa","elpais","video","passback","adman"
-"WMPrisa_elpais.com Display Pi","Prisa","elpais","display","passback","adman"
-"WMPrisa_elpais.com Intext","Prisa","elpais","video","passback","adman"
-"[HB] WMPrisa_elpais.com Video","Prisa","elpais","video","prebid","adman"
-"WMPrisa_elpais.com","prisa","elpais","video","prebid","adman"
-"Prueba_WM-elpais","prisa","elpais","video","passback","adman"
-"WMPrisa_elpais.com/elpais/buenavida Display Pi","Prisa","elpais_buenavida","display","passback","adman"
-"WMPrisa_elpais.com/elpais/buenavida Intext","Prisa","elpais_buenavida","video","passback","adman"
-"[HB] WMPrisa_elpais.com/elpais/buenavida Video","Prisa","elpais_buenavida","video","prebid","adman"
-"WMPrisa_elpais.com/elpais/buenavida","prisa","elpais_buenavida","video","prebid","adman"
-"WMPrisa_elpais.com Display Pi (Catalunya)","Prisa","elpais_cat","display","passback","adman"
-"WMPrisa_elpais.com Intext (Catalunya)","Prisa","elpais_cat","video","passback","adman"
-"[HB] WMPrisa_elpais.com_Catalunya Video","Prisa","elpais_cat","video","prebid","adman"
-"WMPrisa_elpais.com_Catalunya","prisa","elpais_cat","video","prebid","adman"
-"WMPrisa_elcomidista.elpais.com Intext","Prisa","elpais_comidista","video","passback","adman"
-"[HB] WMPrisa_elcomidista.elpais.com Video","Prisa","elpais_comidista","video","prebid","adman"
-"WMPrisa_elcomidista.elpais.com","prisa","elpais_comidista","video","prebid","adman"
-"WMPrisa_elpais.com Display Pi (Cultura)","Prisa","elpais_cultura","display","passback","adman"
-"WMPrisa_elpais.com Intext (Cultura)","Prisa","elpais_cultura","video","passback","adman"
-"[HB] WMPrisa_elpais.com_Cultura Video","Prisa","elpais_cultura","video","prebid","adman"
-"WMPrisa_elpais.com_Cultura","prisa","elpais_cultura","video","prebid","adman"
-"WMPrisa_elpais.com Display Pi (Deportes)","Prisa","elpais_deportes","display","passback","adman"
-"WMPrisa_elpais.com Intext (Deportes)","Prisa","elpais_deportes","video","passback","adman"
-"[HB] WMPrisa_elpais.com_Deportes Video","Prisa","elpais_deportes","video","prebid","adman"
-"WMPrisa_elpais.com_Deportes","prisa","elpais_deportes","video","prebid","adman"
-"WMPrisa_elviajero.elpais.com Display Pi","Prisa","elpais_elviajero","display","passback","adman"
-"WMPrisa_elviajero.elpais.com Intext","Prisa","elpais_elviajero","video","passback","adman"
-"[HB] WMPrisa_elviajero.elpais.com Video","Prisa","elpais_elviajero","video","prebid","adman"
-"WMPrisa_elviajero.elpais.com","prisa","elpais_elviajero","video","prebid","adman"
-"WMPrisa_elpais.com_estilo Display Pi","Prisa","elpais_estilo","display","passback","adman"
-"WMPrisa_elpais.com_estilo Intext","Prisa","elpais_estilo","video","passback","adman"
-"[HB] WMPrisa_elpais.com_estilo Video","Prisa","elpais_estilo","video","prebid","adman"
-"WMPrisa_elpais.com_estilo","prisa","elpais_estilo","video","prebid","adman"
-"WMPrisa_cincodias.elpais.com Display Pi","Prisa","elpais_finanzas_cincodias","display","passback","adman"
-"WMPrisa_cincodias.elpais.com Intext","Prisa","elpais_finanzas_cincodias","video","passback","adman"
-"[HB] WMPrisa_cincodias.elpais.com Video","Prisa","elpais_finanzas_cincodias","video","prebid","adman"
-"WMPrisa_cincodias.elpais.com","prisa","elpais_finanzas_cincodias","video","prebid","adman"
-"WMPrisa_elpais.com Display Pi (Econom&iacute;a)","Prisa","elpais_finanzas_economia","display","passback","adman"
-"WMPrisa_elpais.com Intext (Economia)","Prisa","elpais_finanzas_economia","video","passback","adman"
-"[HB] WMPrisa_elpais.com_Economia Video","Prisa","elpais_finanzas_economia","video","prebid","adman"
-"WMPrisa_elpais.com_Economia","prisa","elpais_finanzas_economia","video","prebid","adman"
-"WMPrisa_retina.elpais.com Display Pi","Prisa","elpais_finanzas_retina","display","passback","adman"
-"WMPrisa_retina.elpais.com Intext","Prisa","elpais_finanzas_retina","video","passback","adman"
-"[HB] WMPrisa_retina.elpais.com Video","Prisa","elpais_finanzas_retina","video","prebid","adman"
-"WMPrisa_retina.elpais.com","prisa","elpais_finanzas_retina","video","prebid","adman"
-"WMPrisa_elpais.com Display Pi (Gente)","Prisa","elpais_gente","display","passback","adman"
-"WMPrisa_elpais.com_Gente Intext","Prisa","elpais_gente","video","passback","adman"
-"[HB] WMPrisa_elpais.com_Gente Video","Prisa","elpais_gente","video","prebid","adman"
-"WMPrisa_elpais.com_Gente","prisa","elpais_gente","video","prebid","adman"
-"WMPrisa_elpais.com/elpais/icon Display Pi","Prisa","elpais_icon","display","passback","adman"
-"WMPrisa_elpais.com/elpais/icon Intext","Prisa","elpais_icon","video","passback","adman"
-"[HB] WMPrisa_elpais.com/elpais/icon Video","Prisa","elpais_icon","video","prebid","adman"
-"WMPrisa_elpais.com/elpais/icon","prisa","elpais_icon","video","prebid","adman"
-"WMPrisa_elpais.com/elpais/icon_design Display Pi","Prisa","elpais_icon_design","display","passback","adman"
-"WMPrisa_elpais.com/elpais/icon_design Intext","Prisa","elpais_icon_design","video","passback","adman"
-"[HB] WMPrisa_elpais.com/elpais/icon_design Video","Prisa","elpais_icon_design","video","prebid","adman"
-"WMPrisa_elpais.com/elpais/icon_design","prisa","elpais_icon_design","video","prebid","adman"
-"WMPrisa_motor.elpais.com Display Pi","Prisa","elpais_motor","display","passback","adman"
-"WMPrisa_motor.elpais.com Intext","Prisa","elpais_motor","video","passback","adman"
-"WMPrisa_motor.elpais.com","prisa","elpais_motor","video","prebid","adman"
-"[HB] WMPrisa_motor.elpais.com Intext","prisa","elpais_motor","video","prebid","adman"
-"[HB] WMPrisa_motor.elpais.com Video","prisa","elpais_motor","video","prebid","adman"
-"WMPrisa_smoda.elpais.com Display Pi","Prisa","elpais_smoda","display","passback","adman"
-"WMPrisa_smoda.elpais.com Intext","Prisa","elpais_smoda","video","passback","adman"
-"[HB] WMPrisa_smoda.elpais.com Video","Prisa","elpais_smoda","video","prebid","adman"
-"WMPrisa_smoda.elpais.com","prisa","elpais_smoda","video","prebid","adman"
-"WMPrisa_elpais.com Intext (Tecnologia)","Prisa","elpais_tecnologia","video","passback","adman"
-"[HB] WMPrisa_elpais.com_Tecnologia Video","Prisa","elpais_tecnologia","video","prebid","adman"
-"WMPrisa_elpais.com_Tecnologia","prisa","elpais_tecnologia","video","prebid","adman"
-"WMPrisa_elpais.com Display Pi (Tentaciones)","Prisa","elpais_tentaciones","display","passback","adman"
-"WMPrisa_elpais.com Intext (Tentaciones)","Prisa","elpais_tentaciones","video","passback","adman"
-"[HB] WMPrisa_elpais.com_Tentaciones Video","Prisa","elpais_tentaciones","video","prebid","adman"
-"WMPrisa_elpais.com_Tentaciones","prisa","elpais_tentaciones","video","prebid","adman"
-"WMPrisa_verne.elpais.com Display Pi","Prisa","elpais_verne","display","passback","adman"
-"WMPrisa_verne.elpais.com Intext","Prisa","elpais_verne","video","passback","adman"
-"[HB] WMPrisa_verne.elpais.com Video","Prisa","elpais_verne","video","prebid","adman"
-"WMPrisa_verne.elpais.com","prisa","elpais_verne","video","prebid","adman"
-"[HB] WM_hola.com Video","Hola","hola","video","prebid","adman"
-"WM_hola.com Intext","Hola","hola","video","passback","adman"
-"WM_hola.com Display Pi","Hola","hola","display","passback","adman"
-"WMHola.com","hola","hola","video","prebid","adman"
-"WMHola.com Intext","hola","hola","video","passback","adman"
-"[HB] WMHola.com Video","hola","hola","video","prebid","adman"
-"WMVocento_hoy.es Display Pi","Vocento","hoy","display","passback","adman"
-"WMVocento_hoy.es Intext","Vocento","hoy","video","passback","adman"
-"[HB] WMVocento_hoy.es Video","Vocento","hoy","video","prebid","adman"
-"WMVocento_hoy.es","vocento","hoy","video","prebid","adman"
-"WMPrisa_huffingtonpost.es Display Pi","Prisa","huffingtonpost","display","passback","adman"
-"WMPrisa_huffingtonpost.es Intext","Prisa","huffingtonpost","video","passback","adman"
-"[HB] WMPrisa_huffingtonpost.es Video","Prisa","huffingtonpost","video","prebid","adman"
-"WMPrisa_huffingtonpost.es Stop Player","Prisa","huffingtonpost","video","passback","adman"
-"WMPrisa_huffingtonpost.es","prisa","huffingtonpost","video","prebid","adman"
-"WMPrisa_strambotic.com Display","Prisa","huffingtonpost_strambotic","display","passback","adman"
-"WMPrisa_strambotic.com Intext","Prisa","huffingtonpost_strambotic","video","passback","adman"
-"[HB] WMPrisa_strambotic.com Video","Prisa","huffingtonpost_strambotic","video","prebid","adman"
-"WMPrisa_strambotic.com","prisa","huffingtonpost_strambotic","video","prebid","adman"
-"WMVocento_ideal.es Display Pi","Vocento","ideal","display","passback","adman"
-"WMVocento_ideal.es Intext","Vocento","ideal","video","passback","adman"
-"[HB]  WMVocento_ideal.es Video","Vocento","ideal","video","prebid","adman"
-"WMVocento_ideal.es","vocento","ideal","video","prebid","adman"
-"WMVocento_larioja.com Display Pi","Vocento","larioja","display","passback","adman"
-"WMVocento_larioja.com Intext","Vocento","larioja","video","passback","adman"
-"[HB] WMVocento_larioja.com Video","Vocento","larioja","video","prebid","adman"
-"WMVocento_larioja.com","vocento","larioja","video","prebid","adman"
-"WMVocento_lasprovincias.es Display Pi","Vocento","lasprovincias","display","passback","adman"
-"WMVocento_lasprovincias.es Intext","Vocento","lasprovincias","video","passback","adman"
-"[HB] WMVocento_lasprovincias.es Video","Vocento","lasprovincias","video","prebid","adman"
-"WMVocento_lasprovincias.es","vocento","lasprovincias","video","prebid","adman"
-"[HB] WMGodo_lavanguardia.com Display","Godo","lavanguardia","display","prebid","adman"
-"WMGodo_lavanguardia.com AMP","Godo","lavanguardia","video","passback","adman"
-"WMGodo_lavanguardia.com Display Pi","Godo","lavanguardia","display","passback","adman"
-"WMGodo_lavanguardia.com Intext","Godo","lavanguardia","video","passback","adman"
-"[HB] WMGodo_lavanguardia.com Video","Godo","lavanguardia","video","prebid","adman"
-"WMGodo_lavanguardia.com Stop Player","Godo","lavanguardia","video","passback","adman"
-"WMGodo_lavanguardia.com","godo","lavanguardia","video","prebid","adman"
-"WMVocento_laverdad.es Display Pi","Vocento","laverdad","display","passback","adman"
-"WMVocento_laverdad.es Intext","Vocento","laverdad","video","passback","adman"
-"[HB] WMVocento_laverdad.es Video","Vocento","laverdad","video","prebid","adman"
-"WMVocento_laverdad.es","vocento","laverdad","video","prebid","adman"
-"[HB] WM_lavozdegalicia.es Video","lavozdegalicia","lavozdegalicia","video","prebid","adman"
-"WMVocento_lavozdigital.es Display Pi","Vocento","lavozdigital","display","passback","adman"
-"WMVocento_lavozdigital.es Intext","Vocento","lavozdigital","video","passback","adman"
-"[HB] WMVocento_lavozdigital.es Video","Vocento","lavozdigital","video","prebid","adman"
-"WMVocento_lavozdigital.es","vocento","lavozdigital","video","prebid","adman"
-"WMVocento_leonoticias.com Display Pi","Vocento","leonoticias","display","passback","adman"
-"WMVocento_leonoticias.com Intext","Vocento","leonoticias","video","passback","adman"
-"[HB] WMVocento_leonoticias.com Video","Vocento","leonoticias","video","prebid","adman"
-"WMVocento_leonoticias.com","vocento","leonoticias","video","prebid","adman"
-"WMPrisa_los40.com Display Pi","Prisa","los40","display","passback","adman"
-"WMPrisa_los40.com Intext","Prisa","los40","video","passback","adman"
-"[HB] WMPrisa_los40.com Video","Prisa","los40","video","prebid","adman"
-"WMPrisa_los40.com","prisa","los40","video","prebid","adman"
-"WMPrisa_Meristation Intext","Prisa","meristation","video","passback","adman"
-"[HB] WMPrisa_Meristation Video","Prisa","meristation","video","prebid","adman"
-"WMPrisa_as.com/meristation","prisa","meristation","video","prebid","adman"
-"WMVocento_mujerhoy.es Display Pi","Vocento","mujerhoy","display","passback","adman"
-"WMVocento_mujerhoy.es Intext","Vocento","mujerhoy","video","passback","adman"
-"[HB] WMVocento_mujerhoy.es Video","Vocento","mujerhoy","video","prebid","adman"
-"WMVocento_mujerhoy.es","vocento","mujerhoy","video","prebid","adman"
-"WMGodo_solowrestling.mundodeportivo.com Intext","Godo","mundodeportivo","video","passback","adman"
-"WMGodo_mundodeportivo.com Display Pi","Godo","mundodeportivo","display","passback","adman"
-"WMGodo_mundodeportivo.com Intext","Godo","mundodeportivo","video","passback","adman"
-"[HB] WMGodo_mundodeportivo.com Video","Godo","mundodeportivo","video","prebid","adman"
-"WMGodo_mundodeportivo.com","godo","mundodeportivo","video","prebid","adman"
-"WMGodo_rac1.cat Display Pi","Godo","rac1","display","passback","adman"
-"WMGodo_rac1.cat Intext","Godo","rac1","video","passback","adman"
-"[HB]  WMGodo_rac1.cat Video","Godo","rac1","video","prebid","adman"
-"WMGodo_rac1.cat","godo","rac1","video","prebid","adman"
-"[AMP] WM_tuotrodiario.com Intext","Hola","tuotrodiario","video","passback","adman"
-"WMTuotrodiario.com","hola","tuotrodiario","video","prebid","adman"
-"WM_Tuotrodiario.com Intext","hola","tuotrodiario","video","passback","adman"
-"[HB] WM_tuotrodiario.com Video","hola","tuotrodiario","video","prebid","adman"
-"WMVocento_xlsemanal.com Display Pi","Vocento","xlsemanal","display","passback","adman"
-"WMVocento_xlsemanal.com Intext","Vocento","xlsemanal","video","passback","adman"
-"[HB] WMVocento_xlsemanal.com Video","Vocento","xlsemanal","video","prebid","adman"
-"WMVocento_xlsemanal.com Stop Player","Vocento","xlsemanal","video","passback","adman"
-"WMVocento_xlsemanal.com","vocento","xlsemanal","video","prebid","adman"
-"[HB] WMGodo_mundodeportivo.com","godo","mundodeportivo","video","prebid","adman"
-"WM_lavozdegalicia.es Intext","lavozdegalicia","lavozdegalicia","video","passback","adman"
-"[AMP] WMVocento_diariosur.es Intext","vocento","diariosur","video","passback","adman"
-"[HB] WM_abc.es Display","Vocento","abc","display","prebid","adman"
-"[AMP] WMGodo_lavanguardia.com Intext","godo","lavanguardia","video","passback","adman"
-"[AMP] WMVocento_ideal.es Intext","Vocento","ideal","video","passback","adman"
-"[AMP] WM_canarias7.es Intext","canarias7","canarias7","video","passback","adman"
-"[AMP] WM_hola.com Intext","hola","hola","video","passback","adman"
-"[AMP] WMGodo_mundodeportivo.com Intext","godo","mundodeportivo","video","passback","adman"
-"[AMP] WMVocento_diariovasco.com Intext","vocento","diariovasco","video","passback","adman"
-"[AMP] WMVocento_elcomercio.es Intext","vocento","elcomercio","video","passback","adman"
-"[AMP] WMVocento_elcorreo.com Intext","vocento","elcorreo","video","passback","adman"
-"[AMP] WMVocento_eldiariomontanes.es Intext","vocento","eldiariomontanes","video","passback","adman"
-"[AMP] WMVocento_elnortedecastilla.es","vocento","elnortedecastilla","video","passback","adman"
-"[AMP] WMVocento_hoy.es Intext ","vocento","hoy","video","passback","adman"
-"[AMP] WMVocento_larioja.com Intext","vocento","larioja","video","passback","adman"
-"[AMP] WMVocento_lasprovincias.es Intext","vocento","lasprovincias","video","passback","adman"
-"[AMP] WMVocento_laverdad.es Intext","vocento","laverdad","video","passback","adman"
-"[AMP] WMVocento_leonoticias.com Intext","vocento","leonoticias","video","passback","adman"
-"[AMP] WMVocento_mujerhoy.com Intext","vocento","mujerhoy","video","passback","adman"
-"[AMP] WMVocento_sevilla.abc.es Intext","vocento","abcsevilla","video","passback","adman"
-"[HB] WM_hola.com Display","hola","hola","display","prebid","adman"
-"[HB] WM_lavozdegalicia.es Display","lavozdegalicia","lavozdegalicia","display","prebid","adman"
-"[HB] WMCanarias7_canarias7.es Display","canarias7","canarias7","display","prebid","adman"
-"[HB] WMVocento_lasprovincias.es Display","Vocento","lasprovincias","display","prebid","adman"
-"WM_tuotrodiario.com Display Pi","hola","tuotrodiario","display","passback","adman"
-"WMPrisa_biwenger.as.com Display Pi","prisa","biwenger","display","passback","adman"
-"WMPrisa_ejerciciosencasa.as.com Display Pi","prisa","as_ejerciciosencasa","display","passback","adman"
-"WMPrisa_huffingtonpost.es Surf","prisa","huffingtonpost","video","passback","adman"
-"[AMP] WMVocento_hoy.es Intext","vocento","hoy","video","passback","adman"
-"[AMP] WMVocento_lavozdigital.es Intext","vocento","laverdad","video","passback","adman"
-"[AMP] WMVocento_xlsemanal.com Intext","vocento","xlsemanal","video","passback","adman"
-"[AMP] WMVocento_burgosconecta.es Intext","vocento","burgosconecta","video","passback","adman"
-"[AMP] WMVocento_elbierzonoticias.com Intext","vocento","elbierzonoticias","video","passback","adman"
+coso	publisher	site	medio	type	origen
+[AMP] WM_abc.es Intext	Vocento	abc	video	passback	adman
+WM_abc.es Display Pi	Vocento	abc	display	passback	adman
+WM_abc.es Intext	Vocento	abc	video	passback	adman
+WM_abc.es Stop Player	Vocento	abc	video	passback	adman
+[HB] WM_abc.es Video	Vocento	abc	video	prebid	adman
+WM_abc.es	vocento	abc	video	prebid	adman
+[HB] WMVocento_sevilla.abc.es Display	Vocento	abcsevilla	display	prebid	adman
+WMVocento_sevilla.abc.es Display Pi	Vocento	abcsevilla	display	passback	adman
+WMVocento_sevilla.abc.es Intext	Vocento	abcsevilla	video	passback	adman
+[HB] WMVocento_sevilla.abc.es Video	Vocento	abcsevilla	video	prebid	adman
+WMVocento_sevilla.abc.es	vocento	abcsevilla	video	prebid	adman
+WMPrisa_as.com Display Pi	Prisa	as	display	passback	adman
+WMPrisa_as.com Intext	Prisa	as	video	passback	adman
+[HB] WMPrisa_as.com Video	Prisa	as	video	prebid	adman
+WMPrisa_as.com	prisa	as	video	prebid	adman
+WMPrisa_ejerciciosencasa.as.com Intext	Prisa	as_ejerciciosencasa	video	passback	adman
+[HB] WMPrisa_ejerciciosencasa.as.com Video	Prisa	as_ejerciciosencasa	video	prebid	adman
+WMPrisa_ejerciciosencasa.as.com	prisa	as_ejerciciosencasa	video	prebid	adman
+WMPrisa_esports.as.com Display Pi	Prisa	as_esports	display	passback	adman
+WMPrisa_esports.as.com Intext	Prisa	as_esports	video	passback	adman
+[HB] WMPrisa_esports.as.com Video	Prisa	as_esports	video	prebid	adman
+WMPrisa_esports.as.com	prisa	as_esports	video	prebid	adman
+WMPrisa_AS_Motor Intext	Prisa	as_motor	video	passback	adman
+[HB] WMPrisa_AS_Motor Video	Prisa	as_motor	video	prebid	adman
+WMPrisa_as.com/motor	prisa	as_motor	video	prebid	adman
+WMPrisa_Tikitakas Intext	Prisa	as_tikitakas	video	passback	adman
+[HB] WMPrisa_Tikitakas Video	Prisa	as_tikitakas	video	prebid	adman
+WMPrisa_as.com_Tikitakas	prisa	as_tikitakas	video	prebid	adman
+WMPrisa_biwenger.as.com	prisa	biwenger	video	prebid	adman
+WMPrisa_biwenger.as.com Intext	prisa	biwenger	video	passback	adman
+[HB] WMPrisa_biwenger.as.com Video	prisa	biwenger	video	prebid	adman
+WMVocento_burgosconecta.es Display Pi	Vocento	burgosconecta	display	passback	adman
+WMVocento_burgosconecta.es Intext	Vocento	burgosconecta	video	passback	adman
+[HB] WMVocento_burgosconecta.es Video	Vocento	burgosconecta	video	prebid	adman
+WMVocento_burgosconecta.es	vocento	burgosconecta	video	prebid	adman
+WMPrisa_cadenaser.com Display Pi	Prisa	cadenaser	display	passback	adman
+WMPrisa_cadenaser.com Intext	Prisa	cadenaser	video	passback	adman
+[HB] WMPrisa_cadenaser.com Video	Prisa	cadenaser	video	prebid	adman
+WMPrisa_cadenaser.com	prisa	cadenaser	video	prebid	adman
+WMCanarias7_canarias7.es Display Pi	Canarias7	Canarias7	display	passback	adman
+WMCanarias7_canarias7.es Intext	Canarias7	Canarias7	video	passback	adman
+[HB] WMCanarias7_canarias7.es Video	Canarias7	canarias7	video	prebid	adman
+WMCanarias7_canarias7.es	canarias7	canarias7	video	prebid	adman
+WMVocento_codigounico.com Display Pi	Vocento	codigounico	display	passback	adman
+WMVocento_codigounico.com Intext	Vocento	codigounico	video	passback	adman
+[HB] WMVocento_codigounico.com Video	Vocento	codigounico	video	prebid	adman
+WMVocento_codigounico.com	vocento	codigounico	video	prebid	adman
+WMVocento_diariosur.es Display Pi	Vocento	diariosur	display	passback	adman
+WMVocento_diariosur.es Intext	Vocento	diariosur	video	passback	adman
+[HB] WMVocento_diariosur.es Video	Vocento	diariosur	video	prebid	adman
+WMVocento_diariosur.es	vocento	diariosur	video	prebid	adman
+WMVocento_diariovasco.com Display Pi	Vocento	diariovasco	display	passback	adman
+WMVocento_diariovasco.com Intext	Vocento	diariovasco	video	passback	adman
+[HB] WMVocento_diariovasco.com Video	Vocento	diariovasco	video	prebid	adman
+WMVocento_diariovasco.com	vocento	diariovasco	video	prebid	adman
+WMVocento_elbierzonoticias.com Display Pi	Vocento	elbierzonoticias	display	passback	adman
+WMVocento_elbierzonoticias.com Intext	Vocento	elbierzonoticias	video	passback	adman
+[HB] WMVocento_elbierzonoticias.com Video	Vocento	elbierzonoticias	video	prebid	adman
+WMVocento_elbierzonoticias.com	vocento	elbierzonoticias	video	prebid	adman
+WMVocento_elcomercio.es Display Pi	Vocento	elcomercio	display	passback	adman
+WMVocento_elcomercio.es Intext	Vocento	elcomercio	video	passback	adman
+[HB] WMVocento_elcomercio.es Video	Vocento	elcomercio	video	prebid	adman
+WMVocento_elcomercio.es	vocento	elcomercio	video	prebid	adman
+WMVocento_elcorreo.com Display Pi	Vocento	elcorreo	display	passback	adman
+WMVocento_elcorreo.com Intext	Vocento	elcorreo	video	passback	adman
+[HB] WMVocento_elcorreo.com Video	Vocento	elcorreo	video	prebid	adman
+WMVocento_elcorreo.com	vocento	elcorreo	video	prebid	adman
+WMVocento_eldiariomontanes.es Display Pi	Vocento	eldiariomontanes	display	passback	adman
+WMVocento_eldiariomontanes.es Intext	Vocento	eldiariomontanes	video	passback	adman
+[HB] WMVocento_eldiariomontanes.es Video	Vocento	eldiariomontanes	video	prebid	adman
+WMVocento_eldiariomontanes.es	vocento	eldiariomontanes	video	prebid	adman
+WMVocento_nortecastilla.es Display Pi	Vocento	elnortedecastilla	display	passback	adman
+WMVocento_nortecastilla.es Intext	Vocento	elnortedecastilla	video	passback	adman
+[HB] WMVocento_nortecastilla.es Video	Vocento	elnortedecastilla	video	prebid	adman
+WMVocento_nortecastilla.es	vocento	elnortedecastilla	video	prebid	adman
+Intext_prueba_elpais	Prisa	elpais	video	passback	adman
+WM_Prisa_elpais.com Stop Player	Prisa	elpais	video	passback	adman
+WMPrisa_elpais.com Display Pi	Prisa	elpais	display	passback	adman
+WMPrisa_elpais.com Intext	Prisa	elpais	video	passback	adman
+[HB] WMPrisa_elpais.com Video	Prisa	elpais	video	prebid	adman
+WMPrisa_elpais.com	prisa	elpais	video	prebid	adman
+Prueba_WM-elpais	prisa	elpais	video	passback	adman
+WMPrisa_elpais.com/elpais/buenavida Display Pi	Prisa	elpais_buenavida	display	passback	adman
+WMPrisa_elpais.com/elpais/buenavida Intext	Prisa	elpais_buenavida	video	passback	adman
+[HB] WMPrisa_elpais.com/elpais/buenavida Video	Prisa	elpais_buenavida	video	prebid	adman
+WMPrisa_elpais.com/elpais/buenavida	prisa	elpais_buenavida	video	prebid	adman
+WMPrisa_elpais.com Display Pi (Catalunya)	Prisa	elpais_cat	display	passback	adman
+WMPrisa_elpais.com Intext (Catalunya)	Prisa	elpais_cat	video	passback	adman
+[HB] WMPrisa_elpais.com_Catalunya Video	Prisa	elpais_cat	video	prebid	adman
+WMPrisa_elpais.com_Catalunya	prisa	elpais_cat	video	prebid	adman
+WMPrisa_elcomidista.elpais.com Intext	Prisa	elpais_comidista	video	passback	adman
+[HB] WMPrisa_elcomidista.elpais.com Video	Prisa	elpais_comidista	video	prebid	adman
+WMPrisa_elcomidista.elpais.com	prisa	elpais_comidista	video	prebid	adman
+WMPrisa_elpais.com Display Pi (Cultura)	Prisa	elpais_cultura	display	passback	adman
+WMPrisa_elpais.com Intext (Cultura)	Prisa	elpais_cultura	video	passback	adman
+[HB] WMPrisa_elpais.com_Cultura Video	Prisa	elpais_cultura	video	prebid	adman
+WMPrisa_elpais.com_Cultura	prisa	elpais_cultura	video	prebid	adman
+WMPrisa_elpais.com Display Pi (Deportes)	Prisa	elpais_deportes	display	passback	adman
+WMPrisa_elpais.com Intext (Deportes)	Prisa	elpais_deportes	video	passback	adman
+[HB] WMPrisa_elpais.com_Deportes Video	Prisa	elpais_deportes	video	prebid	adman
+WMPrisa_elpais.com_Deportes	prisa	elpais_deportes	video	prebid	adman
+WMPrisa_elviajero.elpais.com Display Pi	Prisa	elpais_elviajero	display	passback	adman
+WMPrisa_elviajero.elpais.com Intext	Prisa	elpais_elviajero	video	passback	adman
+[HB] WMPrisa_elviajero.elpais.com Video	Prisa	elpais_elviajero	video	prebid	adman
+WMPrisa_elviajero.elpais.com	prisa	elpais_elviajero	video	prebid	adman
+WMPrisa_elpais.com_estilo Display Pi	Prisa	elpais_estilo	display	passback	adman
+WMPrisa_elpais.com_estilo Intext	Prisa	elpais_estilo	video	passback	adman
+[HB] WMPrisa_elpais.com_estilo Video	Prisa	elpais_estilo	video	prebid	adman
+WMPrisa_elpais.com_estilo	prisa	elpais_estilo	video	prebid	adman
+WMPrisa_cincodias.elpais.com Display Pi	Prisa	elpais_finanzas_cincodias	display	passback	adman
+WMPrisa_cincodias.elpais.com Intext	Prisa	elpais_finanzas_cincodias	video	passback	adman
+[HB] WMPrisa_cincodias.elpais.com Video	Prisa	elpais_finanzas_cincodias	video	prebid	adman
+WMPrisa_cincodias.elpais.com	prisa	elpais_finanzas_cincodias	video	prebid	adman
+WMPrisa_elpais.com Display Pi (Econom&iacute;a)	Prisa	elpais_finanzas_economia	display	passback	adman
+WMPrisa_elpais.com Intext (Economia)	Prisa	elpais_finanzas_economia	video	passback	adman
+[HB] WMPrisa_elpais.com_Economia Video	Prisa	elpais_finanzas_economia	video	prebid	adman
+WMPrisa_elpais.com_Economia	prisa	elpais_finanzas_economia	video	prebid	adman
+WMPrisa_retina.elpais.com Display Pi	Prisa	elpais_finanzas_retina	display	passback	adman
+WMPrisa_retina.elpais.com Intext	Prisa	elpais_finanzas_retina	video	passback	adman
+[HB] WMPrisa_retina.elpais.com Video	Prisa	elpais_finanzas_retina	video	prebid	adman
+WMPrisa_retina.elpais.com	prisa	elpais_finanzas_retina	video	prebid	adman
+WMPrisa_elpais.com Display Pi (Gente)	Prisa	elpais_gente	display	passback	adman
+WMPrisa_elpais.com_Gente Intext	Prisa	elpais_gente	video	passback	adman
+[HB] WMPrisa_elpais.com_Gente Video	Prisa	elpais_gente	video	prebid	adman
+WMPrisa_elpais.com_Gente	prisa	elpais_gente	video	prebid	adman
+WMPrisa_elpais.com/elpais/icon Display Pi	Prisa	elpais_icon	display	passback	adman
+WMPrisa_elpais.com/elpais/icon Intext	Prisa	elpais_icon	video	passback	adman
+[HB] WMPrisa_elpais.com/elpais/icon Video	Prisa	elpais_icon	video	prebid	adman
+WMPrisa_elpais.com/elpais/icon	prisa	elpais_icon	video	prebid	adman
+WMPrisa_elpais.com/elpais/icon_design Display Pi	Prisa	elpais_icon_design	display	passback	adman
+WMPrisa_elpais.com/elpais/icon_design Intext	Prisa	elpais_icon_design	video	passback	adman
+[HB] WMPrisa_elpais.com/elpais/icon_design Video	Prisa	elpais_icon_design	video	prebid	adman
+WMPrisa_elpais.com/elpais/icon_design	prisa	elpais_icon_design	video	prebid	adman
+WMPrisa_motor.elpais.com Display Pi	Prisa	elpais_motor	display	passback	adman
+WMPrisa_motor.elpais.com Intext	Prisa	elpais_motor	video	passback	adman
+WMPrisa_motor.elpais.com	prisa	elpais_motor	video	prebid	adman
+[HB] WMPrisa_motor.elpais.com Intext	prisa	elpais_motor	video	prebid	adman
+[HB] WMPrisa_motor.elpais.com Video	prisa	elpais_motor	video	prebid	adman
+WMPrisa_smoda.elpais.com Display Pi	Prisa	elpais_smoda	display	passback	adman
+WMPrisa_smoda.elpais.com Intext	Prisa	elpais_smoda	video	passback	adman
+[HB] WMPrisa_smoda.elpais.com Video	Prisa	elpais_smoda	video	prebid	adman
+WMPrisa_smoda.elpais.com	prisa	elpais_smoda	video	prebid	adman
+WMPrisa_elpais.com Intext (Tecnologia)	Prisa	elpais_tecnologia	video	passback	adman
+[HB] WMPrisa_elpais.com_Tecnologia Video	Prisa	elpais_tecnologia	video	prebid	adman
+WMPrisa_elpais.com_Tecnologia	prisa	elpais_tecnologia	video	prebid	adman
+WMPrisa_elpais.com Display Pi (Tentaciones)	Prisa	elpais_tentaciones	display	passback	adman
+WMPrisa_elpais.com Intext (Tentaciones)	Prisa	elpais_tentaciones	video	passback	adman
+[HB] WMPrisa_elpais.com_Tentaciones Video	Prisa	elpais_tentaciones	video	prebid	adman
+WMPrisa_elpais.com_Tentaciones	prisa	elpais_tentaciones	video	prebid	adman
+WMPrisa_verne.elpais.com Display Pi	Prisa	elpais_verne	display	passback	adman
+WMPrisa_verne.elpais.com Intext	Prisa	elpais_verne	video	passback	adman
+[HB] WMPrisa_verne.elpais.com Video	Prisa	elpais_verne	video	prebid	adman
+WMPrisa_verne.elpais.com	prisa	elpais_verne	video	prebid	adman
+[HB] WM_hola.com Video	Hola	hola	video	prebid	adman
+WM_hola.com Intext	Hola	hola	video	passback	adman
+WM_hola.com Display Pi	Hola	hola	display	passback	adman
+WMHola.com	hola	hola	video	prebid	adman
+WMHola.com Intext	hola	hola	video	passback	adman
+[HB] WMHola.com Video	hola	hola	video	prebid	adman
+WMVocento_hoy.es Display Pi	Vocento	hoy	display	passback	adman
+WMVocento_hoy.es Intext	Vocento	hoy	video	passback	adman
+[HB] WMVocento_hoy.es Video	Vocento	hoy	video	prebid	adman
+WMVocento_hoy.es	vocento	hoy	video	prebid	adman
+WMPrisa_huffingtonpost.es Display Pi	Prisa	huffingtonpost	display	passback	adman
+WMPrisa_huffingtonpost.es Intext	Prisa	huffingtonpost	video	passback	adman
+[HB] WMPrisa_huffingtonpost.es Video	Prisa	huffingtonpost	video	prebid	adman
+WMPrisa_huffingtonpost.es Stop Player	Prisa	huffingtonpost	video	passback	adman
+WMPrisa_huffingtonpost.es	prisa	huffingtonpost	video	prebid	adman
+WMPrisa_strambotic.com Display	Prisa	huffingtonpost_strambotic	display	passback	adman
+WMPrisa_strambotic.com Intext	Prisa	huffingtonpost_strambotic	video	passback	adman
+[HB] WMPrisa_strambotic.com Video	Prisa	huffingtonpost_strambotic	video	prebid	adman
+WMPrisa_strambotic.com	prisa	huffingtonpost_strambotic	video	prebid	adman
+WMVocento_ideal.es Display Pi	Vocento	ideal	display	passback	adman
+WMVocento_ideal.es Intext	Vocento	ideal	video	passback	adman
+[HB]  WMVocento_ideal.es Video	Vocento	ideal	video	prebid	adman
+WMVocento_ideal.es	vocento	ideal	video	prebid	adman
+WMVocento_larioja.com Display Pi	Vocento	larioja	display	passback	adman
+WMVocento_larioja.com Intext	Vocento	larioja	video	passback	adman
+[HB] WMVocento_larioja.com Video	Vocento	larioja	video	prebid	adman
+WMVocento_larioja.com	vocento	larioja	video	prebid	adman
+WMVocento_lasprovincias.es Display Pi	Vocento	lasprovincias	display	passback	adman
+WMVocento_lasprovincias.es Intext	Vocento	lasprovincias	video	passback	adman
+[HB] WMVocento_lasprovincias.es Video	Vocento	lasprovincias	video	prebid	adman
+WMVocento_lasprovincias.es	vocento	lasprovincias	video	prebid	adman
+[HB] WMGodo_lavanguardia.com Display	Godo	lavanguardia	display	prebid	adman
+WMGodo_lavanguardia.com AMP	Godo	lavanguardia	video	passback	adman
+WMGodo_lavanguardia.com Display Pi	Godo	lavanguardia	display	passback	adman
+WMGodo_lavanguardia.com Intext	Godo	lavanguardia	video	passback	adman
+[HB] WMGodo_lavanguardia.com Video	Godo	lavanguardia	video	prebid	adman
+WMGodo_lavanguardia.com Stop Player	Godo	lavanguardia	video	passback	adman
+WMGodo_lavanguardia.com	godo	lavanguardia	video	prebid	adman
+WMVocento_laverdad.es Display Pi	Vocento	laverdad	display	passback	adman
+WMVocento_laverdad.es Intext	Vocento	laverdad	video	passback	adman
+[HB] WMVocento_laverdad.es Video	Vocento	laverdad	video	prebid	adman
+WMVocento_laverdad.es	vocento	laverdad	video	prebid	adman
+[HB] WM_lavozdegalicia.es Video	lavozdegalicia	lavozdegalicia	video	prebid	adman
+WMVocento_lavozdigital.es Display Pi	Vocento	lavozdigital	display	passback	adman
+WMVocento_lavozdigital.es Intext	Vocento	lavozdigital	video	passback	adman
+[HB] WMVocento_lavozdigital.es Video	Vocento	lavozdigital	video	prebid	adman
+WMVocento_lavozdigital.es	vocento	lavozdigital	video	prebid	adman
+WMVocento_leonoticias.com Display Pi	Vocento	leonoticias	display	passback	adman
+WMVocento_leonoticias.com Intext	Vocento	leonoticias	video	passback	adman
+[HB] WMVocento_leonoticias.com Video	Vocento	leonoticias	video	prebid	adman
+WMVocento_leonoticias.com	vocento	leonoticias	video	prebid	adman
+WMPrisa_los40.com Display Pi	Prisa	los40	display	passback	adman
+WMPrisa_los40.com Intext	Prisa	los40	video	passback	adman
+[HB] WMPrisa_los40.com Video	Prisa	los40	video	prebid	adman
+WMPrisa_los40.com	prisa	los40	video	prebid	adman
+WMPrisa_Meristation Intext	Prisa	meristation	video	passback	adman
+[HB] WMPrisa_Meristation Video	Prisa	meristation	video	prebid	adman
+WMPrisa_as.com/meristation	prisa	meristation	video	prebid	adman
+WMVocento_mujerhoy.es Display Pi	Vocento	mujerhoy	display	passback	adman
+WMVocento_mujerhoy.es Intext	Vocento	mujerhoy	video	passback	adman
+[HB] WMVocento_mujerhoy.es Video	Vocento	mujerhoy	video	prebid	adman
+WMVocento_mujerhoy.es	vocento	mujerhoy	video	prebid	adman
+WMGodo_solowrestling.mundodeportivo.com Intext	Godo	mundodeportivo	video	passback	adman
+WMGodo_mundodeportivo.com Display Pi	Godo	mundodeportivo	display	passback	adman
+WMGodo_mundodeportivo.com Intext	Godo	mundodeportivo	video	passback	adman
+[HB] WMGodo_mundodeportivo.com Video	Godo	mundodeportivo	video	prebid	adman
+WMGodo_mundodeportivo.com	godo	mundodeportivo	video	prebid	adman
+WMGodo_rac1.cat Display Pi	Godo	rac1	display	passback	adman
+WMGodo_rac1.cat Intext	Godo	rac1	video	passback	adman
+[HB]  WMGodo_rac1.cat Video	Godo	rac1	video	prebid	adman
+WMGodo_rac1.cat	godo	rac1	video	prebid	adman
+[AMP] WM_tuotrodiario.com Intext	Hola	tuotrodiario	video	passback	adman
+WMTuotrodiario.com	hola	tuotrodiario	video	prebid	adman
+WM_Tuotrodiario.com Intext	hola	tuotrodiario	video	passback	adman
+[HB] WM_tuotrodiario.com Video	hola	tuotrodiario	video	prebid	adman
+WMVocento_xlsemanal.com Display Pi	Vocento	xlsemanal	display	passback	adman
+WMVocento_xlsemanal.com Intext	Vocento	xlsemanal	video	passback	adman
+[HB] WMVocento_xlsemanal.com Video	Vocento	xlsemanal	video	prebid	adman
+WMVocento_xlsemanal.com Stop Player	Vocento	xlsemanal	video	passback	adman
+WMVocento_xlsemanal.com	vocento	xlsemanal	video	prebid	adman
+[HB] WMGodo_mundodeportivo.com	godo	mundodeportivo	video	prebid	adman
+WM_lavozdegalicia.es Intext	lavozdegalicia	lavozdegalicia	video	passback	adman
+[AMP] WMVocento_diariosur.es Intext	vocento	diariosur	video	passback	adman
+[HB] WM_abc.es Display	Vocento	abc	display	prebid	adman
+[AMP] WMGodo_lavanguardia.com Intext	godo	lavanguardia	video	passback	adman
+[AMP] WMVocento_ideal.es Intext	Vocento	ideal	video	passback	adman
+[AMP] WM_canarias7.es Intext	canarias7	canarias7	video	passback	adman
+[AMP] WM_hola.com Intext	hola	hola	video	passback	adman
+[AMP] WMGodo_mundodeportivo.com Intext	godo	mundodeportivo	video	passback	adman
+[AMP] WMVocento_diariovasco.com Intext	vocento	diariovasco	video	passback	adman
+[AMP] WMVocento_elcomercio.es Intext	vocento	elcomercio	video	passback	adman
+[AMP] WMVocento_elcorreo.com Intext	vocento	elcorreo	video	passback	adman
+[AMP] WMVocento_eldiariomontanes.es Intext	vocento	eldiariomontanes	video	passback	adman
+[AMP] WMVocento_elnortedecastilla.es	vocento	elnortedecastilla	video	passback	adman
+[AMP] WMVocento_hoy.es Intext 	vocento	hoy	video	passback	adman
+[AMP] WMVocento_larioja.com Intext	vocento	larioja	video	passback	adman
+[AMP] WMVocento_lasprovincias.es Intext	vocento	lasprovincias	video	passback	adman
+[AMP] WMVocento_laverdad.es Intext	vocento	laverdad	video	passback	adman
+[AMP] WMVocento_leonoticias.com Intext	vocento	leonoticias	video	passback	adman
+[AMP] WMVocento_mujerhoy.com Intext	vocento	mujerhoy	video	passback	adman
+[AMP] WMVocento_sevilla.abc.es Intext	vocento	abcsevilla	video	passback	adman
+[HB] WM_hola.com Display	hola	hola	display	prebid	adman
+[HB] WM_lavozdegalicia.es Display	lavozdegalicia	lavozdegalicia	display	prebid	adman
+[HB] WMCanarias7_canarias7.es Display	canarias7	canarias7	display	prebid	adman
+[HB] WMVocento_lasprovincias.es Display	Vocento	lasprovincias	display	prebid	adman
+WM_tuotrodiario.com Display Pi	hola	tuotrodiario	display	passback	adman
+WMPrisa_biwenger.as.com Display Pi	prisa	biwenger	display	passback	adman
+WMPrisa_ejerciciosencasa.as.com Display Pi	prisa	as_ejerciciosencasa	display	passback	adman
+WMPrisa_huffingtonpost.es Surf	prisa	huffingtonpost	video	passback	adman
+[AMP] WMVocento_hoy.es Intext	vocento	hoy	video	passback	adman
+[AMP] WMVocento_lavozdigital.es Intext	vocento	laverdad	video	passback	adman
+[AMP] WMVocento_xlsemanal.com Intext	vocento	xlsemanal	video	passback	adman
+[AMP] WMVocento_burgosconecta.es Intext	vocento	burgosconecta	video	passback	adman
+[AMP] WMVocento_elbierzonoticias.com Intext	Vocento	elbierzonoticias	video	passback	adman
+[HB] WMVocento_ideal.es Video	vocento	ideal	video	prebid	adman
+[HB] WMGodo_rac1.cat Video	Godo	rac1	video	prebid	adman
+[HB] WMPrisa_euribor.com.es Intext	prisa	elpais_finanzas_cincodias_euribor	video	prebid	adman
+[HB] WMGodo_mundodeportivo.com Display	Godo	mundodeportivo	display	passback	adman

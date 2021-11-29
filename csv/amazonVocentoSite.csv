@@ -1,20 +1,20 @@
-coso,site,origen
-"""lasprovincias.es""","""lasprovincias""","amazonVocentoSite"
-"""diariosur.es""","""diariosur""","amazonVocentoSite"
-"""elcomercio.es""","""elcomercio""","amazonVocentoSite"
-"""abc.es""","""abc""","amazonVocentoSite"
-"""burgosconecta.es""","""burgosconecta""","amazonVocentoSite"
-"""elbierzonoticias.com""","""elbierzonoticias""","amazonVocentoSite"
-"""leonoticias.com""","""leonoticias""","amazonVocentoSite"
-"""laverdad.es""","""laverdad""","amazonVocentoSite"
-"""elnortedecastilla.es""","""elnortedecastilla""","amazonVocentoSite"
-"""mujerhoy.com""","""mujerhoy""","amazonVocentoSite"
-"""eldiariomontanes.es""","""eldiariomontanes""","amazonVocentoSite"
-"""diariovasco.com""","""diariovasco""","amazonVocentoSite"
-"""xlsemanal.com""","""xlsemanal""","amazonVocentoSite"
-"""lavozdigital.es""","""lavozdigital""","amazonVocentoSite"
-"""hoy.es""","""hoy""","amazonVocentoSite"
-"""ideal.es""","""ideal""","amazonVocentoSite"
-"""elcorreo.com""","""elcorreo""","amazonVocentoSite"
-"""larioja.com""","""larioja""","amazonVocentoSite"
-"""canarias7.es""","""canarias7""","amazonVocentoSite"
+coso	site	origen
+lasprovincias.es	lasprovincias	amazonVocentoSite
+diariosur.es	diariosur	amazonVocentoSite
+elcomercio.es	elcomercio	amazonVocentoSite
+abc.es	abc	amazonVocentoSite
+burgosconecta.es	burgosconecta	amazonVocentoSite
+elbierzonoticias.com	elbierzonoticias	amazonVocentoSite
+leonoticias.com	leonoticias	amazonVocentoSite
+laverdad.es	laverdad	amazonVocentoSite
+elnortedecastilla.es	elnortedecastilla	amazonVocentoSite
+mujerhoy.com	mujerhoy	amazonVocentoSite
+eldiariomontanes.es	eldiariomontanes	amazonVocentoSite
+diariovasco.com	diariovasco	amazonVocentoSite
+xlsemanal.com	xlsemanal	amazonVocentoSite
+lavozdigital.es	lavozdigital	amazonVocentoSite
+hoy.es	hoy	amazonVocentoSite
+ideal.es	ideal	amazonVocentoSite
+elcorreo.com	elcorreo	amazonVocentoSite
+larioja.com	larioja	amazonVocentoSite
+canarias7.es	canarias7	amazonVocentoSite

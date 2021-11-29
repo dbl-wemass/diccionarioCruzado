@@ -29,11 +29,12 @@ for (let file of files) {
       }).split("\n"),
       jotason = {},
       headers = false;
-    for (let row of csv) {
+    for (let _row of csv) {
+      let row = _row.replace(/"/g,"");
       if (!headers)
-        headers = row.split(",");
+        headers = row.split("\t");
       else {
-        let values = row.split(","),
+        let values = row.split("\t"),
           value = {},
           index;
         for (let contador = 0; contador < values.length; contador++) {

@@ -1,246 +1,246 @@
 {
- "\"\"\"es_intxt_wemass-abc_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"abc\"\"\""
- },
- "\"\"\"es_intxt_wemass-abcsevilla_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"abcsevilla\"\"\""
- },
- "\"\"\"es_intxt_wemass-as_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"as\"\"\""
- },
- "\"\"\"es_intxt_wemass-as-ejerciciosencasa_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"as_ejerciciosencasa\"\"\""
- },
- "\"\"\"es_intxt_wemass-as-esports_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"as_esports\"\"\""
- },
- "\"\"\"es_intxt_wemass-as-futbol_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"as_futbol\"\"\""
- },
- "\"\"\"es_intxt_wemass-as-motor_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"as_motor\"\"\""
- },
- "\"\"\"es_intxt_wemass-as-tikitakas_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"as_tikitakas\"\"\""
- },
- "\"\"\"es_intxt_wemass_biwenger_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"biwenger\"\"\""
- },
- "\"\"\"es_intxt_wemass-biwenger_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"biwenger\"\"\""
- },
- "\"\"\"es_intxt_wemass-burgosconecta_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"burgosconecta\"\"\""
- },
- "\"\"\"es_intxt_wemass-cadenaser_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"cadenaser\"\"\""
- },
- "\"\"\"es_intxt_wemass-canarias7_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"canarias7\"\"\"",
-  "site": "\"\"\"canarias7\"\"\""
- },
- "\"\"\"es_intxt_wemass-diariosur_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"diariosur\"\"\""
- },
- "\"\"\"es_intxt_wemass-diariovasco_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"diariovasco\"\"\""
- },
- "\"\"\"es_intxt_wemass-elbierzonoticias_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"elbierzonoticias\"\"\""
- },
- "\"\"\"es_intxt_wemass-elcomercio_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"elcomercio\"\"\""
- },
- "\"\"\"es_intxt_wemass-elcorreo_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"elcorreo\"\"\""
- },
- "\"\"\"es_intxt_wemass-diariomontañes_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"eldiariomontanes\"\"\""
- },
- "\"\"\"es_intxt_wemass-elnortedecastilla_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"elnortedecastilla\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais\"\"\""
- },
- "\"\"\"es_intxt_wemass-buenavida_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_buenavida\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-cat_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_cat\"\"\""
- },
- "\"\"\"es_intxt_wemass-elcomidista_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_comidista\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-cultura_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_cultura\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-deportes_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_deportes\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-economia_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_finanzas_economia\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-viajero_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_elviajero\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-eps_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_eps\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-estilo_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_estilo\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-cincodias_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_finanzas_cincodias\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-retina_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_finanzas_retina\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-gente_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_gente\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-icon_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_icon\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-icondesign_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_icon_design\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-motor_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_motor\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-smoda_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_smoda\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-tech_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_tecnologia\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-tentaciones_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_tentaciones\"\"\""
- },
- "\"\"\"es_intxt_wemass-elpais-verne_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"elpais_verne\"\"\""
- },
- "\"\"\"es_intxt_wemass-hola_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"hola\"\"\"",
-  "site": "\"\"\"hola\"\"\""
- },
- "\"\"\"es_intxt_wemass-hoy_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"hoy\"\"\""
- },
- "\"\"\"es_intxt_wemass-huffingtonpost_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"huffingtonpost\"\"\""
- },
- "\"\"\"es_intxt_wemass_strambotic_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"huffingtonpost_strambotic\"\"\""
- },
- "\"\"\"es_intxt_wemass-ideal_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"ideal\"\"\""
- },
- "\"\"\"es_intxt_wemass-larioja_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"larioja\"\"\""
- },
- "\"\"\"es_intxt_wemass-lasprovincias_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"lasprovincias\"\"\""
- },
- "\"\"\"es_intxt_wemass-lavanguardia_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"godo\"\"\"",
-  "site": "\"\"\"lavanguardia\"\"\""
- },
- "\"\"\"es_intxt_wemass-laverdad_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"laverdad\"\"\""
- },
- "\"\"\"es_intxt_wemass-lavozdeasturias_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"lavozdegalicia\"\"\"",
-  "site": "\"\"\"lavozdeasturias\"\"\""
- },
- "\"\"\"es_intxt_wemass-lavozdegalicia_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"lavozdegalicia\"\"\"",
-  "site": "\"\"\"lavozdegalicia\"\"\""
- },
- "\"\"\"es_intxt_wemass-lavozdigital_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"lavozdigital\"\"\""
- },
- "\"\"\"es_intxt_wemass-leonnoticias_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"leonoticias\"\"\""
- },
- "\"\"\"es_intxt_wemass-los40_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"los40\"\"\""
- },
- "\"\"\"es_intxt_wemass_meristation_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"meristation\"\"\""
- },
- "\"\"\"es_intxt_wemass-meristation_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"prisa\"\"\"",
-  "site": "\"\"\"meristation\"\"\""
- },
- "\"\"\"es_intxt_wemass-mujerhoy_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"mujerhoy\"\"\""
- },
- "\"\"\"es_intxt_wemass-mundodeportivo_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"godo\"\"\"",
-  "site": "\"\"\"mundodeportivo\"\"\""
- },
- "\"\"\"es_intxt_wemass-rac1_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"godo\"\"\"",
-  "site": "\"\"\"rac1\"\"\""
- },
- "\"\"\"es_intxt_wemass-tuotrodiario_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"hola\"\"\"",
-  "site": "\"\"\"tuotrodiario\"\"\""
- },
- "\"\"\"es_intxt_wemass-xlsemanal_html5#es002790\"\"\"": {
-  "publisher": "\"\"\"vocento\"\"\"",
-  "site": "\"\"\"xlsemanal\"\"\""
- }
+  "es_intxt_wemass-abc_html5#es002790": {
+      "publisher": "vocento",
+      "site": "abc"
+  },
+  "es_intxt_wemass-abcsevilla_html5#es002790": {
+      "publisher": "vocento",
+      "site": "abcsevilla"
+  },
+  "es_intxt_wemass-as_html5#es002790": {
+      "publisher": "prisa",
+      "site": "as"
+  },
+  "es_intxt_wemass-as-ejerciciosencasa_html5#es002790": {
+      "publisher": "prisa",
+      "site": "as_ejerciciosencasa"
+  },
+  "es_intxt_wemass-as-esports_html5#es002790": {
+      "publisher": "prisa",
+      "site": "as_esports"
+  },
+  "es_intxt_wemass-as-futbol_html5#es002790": {
+      "publisher": "prisa",
+      "site": "as_futbol"
+  },
+  "es_intxt_wemass-as-motor_html5#es002790": {
+      "publisher": "prisa",
+      "site": "as_motor"
+  },
+  "es_intxt_wemass-as-tikitakas_html5#es002790": {
+      "publisher": "prisa",
+      "site": "as_tikitakas"
+  },
+  "es_intxt_wemass_biwenger_html5#es002790": {
+      "publisher": "prisa",
+      "site": "biwenger"
+  },
+  "es_intxt_wemass-biwenger_html5#es002790": {
+      "publisher": "prisa",
+      "site": "biwenger"
+  },
+  "es_intxt_wemass-burgosconecta_html5#es002790": {
+      "publisher": "vocento",
+      "site": "burgosconecta"
+  },
+  "es_intxt_wemass-cadenaser_html5#es002790": {
+      "publisher": "prisa",
+      "site": "cadenaser"
+  },
+  "es_intxt_wemass-canarias7_html5#es002790": {
+      "publisher": "canarias7",
+      "site": "canarias7"
+  },
+  "es_intxt_wemass-diariosur_html5#es002790": {
+      "publisher": "vocento",
+      "site": "diariosur"
+  },
+  "es_intxt_wemass-diariovasco_html5#es002790": {
+      "publisher": "vocento",
+      "site": "diariovasco"
+  },
+  "es_intxt_wemass-elbierzonoticias_html5#es002790": {
+      "publisher": "vocento",
+      "site": "elbierzonoticias"
+  },
+  "es_intxt_wemass-elcomercio_html5#es002790": {
+      "publisher": "vocento",
+      "site": "elcomercio"
+  },
+  "es_intxt_wemass-elcorreo_html5#es002790": {
+      "publisher": "vocento",
+      "site": "elcorreo"
+  },
+  "es_intxt_wemass-diariomontañes_html5#es002790": {
+      "publisher": "vocento",
+      "site": "eldiariomontanes"
+  },
+  "es_intxt_wemass-elnortedecastilla_html5#es002790": {
+      "publisher": "vocento",
+      "site": "elnortedecastilla"
+  },
+  "es_intxt_wemass-elpais_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais"
+  },
+  "es_intxt_wemass-buenavida_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_buenavida"
+  },
+  "es_intxt_wemass-elpais-cat_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_cat"
+  },
+  "es_intxt_wemass-elcomidista_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_comidista"
+  },
+  "es_intxt_wemass-elpais-cultura_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_cultura"
+  },
+  "es_intxt_wemass-elpais-deportes_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_deportes"
+  },
+  "es_intxt_wemass-elpais-economia_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_finanzas_economia"
+  },
+  "es_intxt_wemass-elpais-viajero_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_elviajero"
+  },
+  "es_intxt_wemass-elpais-eps_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_eps"
+  },
+  "es_intxt_wemass-elpais-estilo_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_estilo"
+  },
+  "es_intxt_wemass-elpais-cincodias_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_finanzas_cincodias"
+  },
+  "es_intxt_wemass-elpais-retina_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_finanzas_retina"
+  },
+  "es_intxt_wemass-elpais-gente_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_gente"
+  },
+  "es_intxt_wemass-elpais-icon_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_icon"
+  },
+  "es_intxt_wemass-elpais-icondesign_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_icon_design"
+  },
+  "es_intxt_wemass-elpais-motor_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_motor"
+  },
+  "es_intxt_wemass-elpais-smoda_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_smoda"
+  },
+  "es_intxt_wemass-elpais-tech_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_tecnologia"
+  },
+  "es_intxt_wemass-elpais-tentaciones_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_tentaciones"
+  },
+  "es_intxt_wemass-elpais-verne_html5#es002790": {
+      "publisher": "prisa",
+      "site": "elpais_verne"
+  },
+  "es_intxt_wemass-hola_html5#es002790": {
+      "publisher": "hola",
+      "site": "hola"
+  },
+  "es_intxt_wemass-hoy_html5#es002790": {
+      "publisher": "vocento",
+      "site": "hoy"
+  },
+  "es_intxt_wemass-huffingtonpost_html5#es002790": {
+      "publisher": "prisa",
+      "site": "huffingtonpost"
+  },
+  "es_intxt_wemass_strambotic_html5#es002790": {
+      "publisher": "prisa",
+      "site": "huffingtonpost_strambotic"
+  },
+  "es_intxt_wemass-ideal_html5#es002790": {
+      "publisher": "vocento",
+      "site": "ideal"
+  },
+  "es_intxt_wemass-larioja_html5#es002790": {
+      "publisher": "vocento",
+      "site": "larioja"
+  },
+  "es_intxt_wemass-lasprovincias_html5#es002790": {
+      "publisher": "vocento",
+      "site": "lasprovincias"
+  },
+  "es_intxt_wemass-lavanguardia_html5#es002790": {
+      "publisher": "godo",
+      "site": "lavanguardia"
+  },
+  "es_intxt_wemass-laverdad_html5#es002790": {
+      "publisher": "vocento",
+      "site": "laverdad"
+  },
+  "es_intxt_wemass-lavozdeasturias_html5#es002790": {
+      "publisher": "lavozdegalicia",
+      "site": "lavozdeasturias"
+  },
+  "es_intxt_wemass-lavozdegalicia_html5#es002790": {
+      "publisher": "lavozdegalicia",
+      "site": "lavozdegalicia"
+  },
+  "es_intxt_wemass-lavozdigital_html5#es002790": {
+      "publisher": "vocento",
+      "site": "lavozdigital"
+  },
+  "es_intxt_wemass-leonnoticias_html5#es002790": {
+      "publisher": "vocento",
+      "site": "leonoticias"
+  },
+  "es_intxt_wemass-los40_html5#es002790": {
+      "publisher": "prisa",
+      "site": "los40"
+  },
+  "es_intxt_wemass_meristation_html5#es002790": {
+      "publisher": "prisa",
+      "site": "meristation"
+  },
+  "es_intxt_wemass-meristation_html5#es002790": {
+      "publisher": "prisa",
+      "site": "meristation"
+  },
+  "es_intxt_wemass-mujerhoy_html5#es002790": {
+      "publisher": "vocento",
+      "site": "mujerhoy"
+  },
+  "es_intxt_wemass-mundodeportivo_html5#es002790": {
+      "publisher": "godo",
+      "site": "mundodeportivo"
+  },
+  "es_intxt_wemass-rac1_html5#es002790": {
+      "publisher": "godo",
+      "site": "rac1"
+  },
+  "es_intxt_wemass-tuotrodiario_html5#es002790": {
+      "publisher": "hola",
+      "site": "tuotrodiario"
+  },
+  "es_intxt_wemass-xlsemanal_html5#es002790": {
+      "publisher": "vocento",
+      "site": "xlsemanal"
+  }
 }

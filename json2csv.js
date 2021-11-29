@@ -1,17 +1,17 @@
 const
   headers = {
-    "criteoDomain": "coso,site",
-    "criteoSubid": "coso,site,format,canal",
-    "adman": "coso,publisher,site,medio,type",
-    "amazonGodo": "coso,site",
-    "amazonPrisa": "coso,site,canal",
-    "amazonVocentoSite": "coso,site",
-    "amazonVocentoSlotname": "coso,site,canal",
-    "invibes": "coso,publisher,site,canal,formato",
-    "quantum": "coso,publisher,site,canal,format",
-    "richaudience": "coso,publisher,site,canal,format,position",
-    "smartclip": "coso,publisher,site",
-    "sunmedia": "coso,publisher,site"
+    "criteoDomain": "coso\tsite",
+    "criteoSubid": "coso\tsite\tformat\tcanal",
+    "adman": "coso\tpublisher\tsite\tmedio\ttype",
+    "amazonGodo": "coso\tsite",
+    "amazonPrisa": "coso\tsite\tcanal",
+    "amazonVocentoSite": "coso\tsite",
+    "amazonVocentoSlotname": "coso\tsite\tcanal",
+    "invibes": "coso\tpublisher\tsite\tcanal\tformato",
+    "quantum": "coso\tpublisher\tsite\tcanal\tformat",
+    "richaudience": "coso\tpublisher\tsite\tcanal\tformat\tposition",
+    "smartclip": "coso\tpublisher\tsite",
+    "sunmedia": "coso\tpublisher\tsite"
   },
   {
     existsSync,
@@ -23,8 +23,8 @@ for (let header in headers) {
   if (existsSync(filepath)) {
     let
       json = require(filepath),
-      values = [`${headers[header]},origen`],
-      props = headers[header].replace(/,?coso,?/i, "").split(",");
+      values = [`${headers[header]}\torigen`],
+      props = headers[header].replace(/\t?coso\t?/i, "").split("\t");
     for (let coso in json) {
       let
         row = [coso],
@@ -33,7 +33,7 @@ for (let header in headers) {
         row.push(rowValues[prop] && rowValues[prop] !== "undefined" ? rowValues[prop] : "");
       }
       row.push(header);
-      values.push(`"${row.join('","')}"`);
+      values.push(`${row.join('\t')}`);
     }
     writeFileSync(`./csv/${header}.csv`, values.join("\n"), {
       encoding: "utf-8",

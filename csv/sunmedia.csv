@@ -1,69 +1,69 @@
-coso,publisher,site,origen
-"""40 Principales""","""Prisa""","""los40""","sunmedia"
-"""ABC""","""Vocento""","""abc""","sunmedia"
-"""ABC Sevilla""","""Vocento""","""abcsevilla""","sunmedia"
-"""AS""","""Prisa""","""as""","sunmedia"
-"""AS Esports""","""Prisa""","""as_esports""","sunmedia"
-"""AS Meristation""","""Prisa""","""meristation""","sunmedia"
-"""AS Motor""","""Prisa""","""as_motor""","sunmedia"
-"""AS Tikitakas""","""Prisa""","""as_tikitakas""","sunmedia"
-"""Biwenger""","""Prisa""","""biwenger""","sunmedia"
-"""Burgos Conecta""","""Vocento""","""burgosconecta""","sunmedia"
-"""Cadena Dial""","""Prisa""","""cadenadial""","sunmedia"
-"""Cadena Ser""","""Prisa""","""cadenaser""","sunmedia"
-"""Canarias7""","""Canarias7""","""canarias7""","sunmedia"
-"""Cinco Dias""","""Prisa""","""elpais_finanzas_cincodias""","sunmedia"
-"""Codigo Unico""","""Vocento""","""codigounico""","sunmedia"
-"""Cribeo""","""Godo""","""lavanguardia_cribeo""","sunmedia"
-"""Diario Montanes""","""Vocento""","""eldiariomontanes""","sunmedia"
-"""Diario Sur""","""Vocento""","""diariosur""","sunmedia"
-"""Diario Vasco""","""Vocento""","""diariovasco""","sunmedia"
-"""Ejercicios en Casa""","""Prisa""","""as_ejerciciosencasa""","sunmedia"
-"""El Bierzo Noticias""","""Vocento""","""elbierzonoticias""","sunmedia"
-"""El Comercio""","""Vocento""","""elcomercio""","sunmedia"
-"""El Comidista""","""Prisa""","""elpais_comidista""","sunmedia"
-"""El Correo""","""Vocento""","""elcorreo""","sunmedia"
-"""El Norte de Castilla""","""Vocento""","""elnortedecastilla""","sunmedia"
-"""EL PAIS""","""Prisa""","""elpais""","sunmedia"
-"""EL PAIS Buena Vida""","""Prisa""","""elpais_buenavida""","sunmedia"
-"""EL PAIS Cultura""","""Prisa""","""elpais_cultura""","sunmedia"
-"""EL PAIS Deportes""","""Prisa""","""elpais_deportes""","sunmedia"
-"""EL PAIS Economia""","""Prisa""","""elpais_finanzas_economia""","sunmedia"
-"""EL PAIS en Catalan""","""Prisa""","""elpais_cat""","sunmedia"
-"""EL PAIS EPS""","""Prisa""","""elpais_eps""","sunmedia"
-"""EL PAIS Estilo""","""Prisa""","""elpais_estilo""","sunmedia"
-"""EL PAIS Gente""","""Prisa""","""elpais_gente""","sunmedia"
-"""EL PAIS Icon""","""Prisa""","""elpais_icon""","sunmedia"
-"""EL PAIS Icon Desing""","""Prisa""","""elpais_icon_design""","sunmedia"
-"""EL PAIS Tecnologia""","""Prisa""","""elpais_tecnologia""","sunmedia"
-"""EL PAIS Tentaciones""","""Prisa""","""elpais_tentaciones""","sunmedia"
-"""El Viajero""","""Prisa""","""elpais_elviajero""","sunmedia"
-"""EPS""","""Prisa""","""elpais_eps""","sunmedia"
-"""Esports AS""","""Prisa""","""as_esports""","sunmedia"
-"""Euribor""","""Prisa""","""elpais_finanzas_cincodias_euribor""","sunmedia"
-"""Hoy""","""Vocento""","""hoy""","sunmedia"
-"""Huffingtonpost""","""Prisa""","""huffingtonpost""","sunmedia"
-"""Ideal""","""Vocento""","""ideal""","sunmedia"
-"""Kebuena""","""Prisa""","""kebuena""","sunmedia"
-"""La Rioja""","""Vocento""","""larioja""","sunmedia"
-"""La Vanguardia""","""Godo""","""lavanguardia""","sunmedia"
-"""La Verdad""","""Vocento""","""laverdad""","sunmedia"
-"""La Voz Digital""","""Vocento""","""lavozdigital""","sunmedia"
-"""Las Provincias""","""Vocento""","""lasprovincias""","sunmedia"
-"""Leonoticias""","""Vocento""","""leonoticias""","sunmedia"
-"""Librotea""","""Prisa""","""librotea""","sunmedia"
-"""Maxima FM""","""Prisa""","""maxima""","sunmedia"
-"""Motor""","""Prisa""","""elpais_motor""","sunmedia"
-"""Mujer Hoy""","""Vocento""","""mujerhoy""","sunmedia"
-"""Mundo Deportivo""","""Godo""","""mundodeportivo""","sunmedia"
-"""Rac 1""","""Godo""","""rac1""","sunmedia"
-"""Radio Ole""","""Prisa""","""radiole""","sunmedia"
-"""Retina""","""Prisa""","""elpais_finanzas_retina""","sunmedia"
-"""SModa""","""Prisa""","""elpais_smoda""","sunmedia"
-"""Strambotic""","""Prisa""","""huffingtonpost_strambotic""","sunmedia"
-"""Verne""","""Prisa""","""elpais_verne""","sunmedia"
-"""XL Semanal""","""Vocento""","""xlsemanal""","sunmedia"
-"""Hola""","""hola""","""hola""","sunmedia"
-"""HOLA""","""hola""","""hola""","sunmedia"
-"""Tu otro Diario""","""hola""","""tuotrodiario""","sunmedia"
-"""La voz de Galicia""","""lavozdegalicia""","""lavozdegalicia""","sunmedia"
+coso	publisher	site	origen
+40 Principales	Prisa	los40	sunmedia
+ABC	Vocento	abc	sunmedia
+ABC Sevilla	Vocento	abcsevilla	sunmedia
+AS	Prisa	as	sunmedia
+AS Esports	Prisa	as_esports	sunmedia
+AS Meristation	Prisa	meristation	sunmedia
+AS Motor	Prisa	as_motor	sunmedia
+AS Tikitakas	Prisa	as_tikitakas	sunmedia
+Biwenger	Prisa	biwenger	sunmedia
+Burgos Conecta	Vocento	burgosconecta	sunmedia
+Cadena Dial	Prisa	cadenadial	sunmedia
+Cadena Ser	Prisa	cadenaser	sunmedia
+Canarias7	Canarias7	canarias7	sunmedia
+Cinco Dias	Prisa	elpais_finanzas_cincodias	sunmedia
+Codigo Unico	Vocento	codigounico	sunmedia
+Cribeo	Godo	lavanguardia_cribeo	sunmedia
+Diario Montanes	Vocento	eldiariomontanes	sunmedia
+Diario Sur	Vocento	diariosur	sunmedia
+Diario Vasco	Vocento	diariovasco	sunmedia
+Ejercicios en Casa	Prisa	as_ejerciciosencasa	sunmedia
+El Bierzo Noticias	Vocento	elbierzonoticias	sunmedia
+El Comercio	Vocento	elcomercio	sunmedia
+El Comidista	Prisa	elpais_comidista	sunmedia
+El Correo	Vocento	elcorreo	sunmedia
+El Norte de Castilla	Vocento	elnortedecastilla	sunmedia
+EL PAIS	Prisa	elpais	sunmedia
+EL PAIS Buena Vida	Prisa	elpais_buenavida	sunmedia
+EL PAIS Cultura	Prisa	elpais_cultura	sunmedia
+EL PAIS Deportes	Prisa	elpais_deportes	sunmedia
+EL PAIS Economia	Prisa	elpais_finanzas_economia	sunmedia
+EL PAIS en Catalan	Prisa	elpais_cat	sunmedia
+EL PAIS EPS	Prisa	elpais_eps	sunmedia
+EL PAIS Estilo	Prisa	elpais_estilo	sunmedia
+EL PAIS Gente	Prisa	elpais_gente	sunmedia
+EL PAIS Icon	Prisa	elpais_icon	sunmedia
+EL PAIS Icon Desing	Prisa	elpais_icon_design	sunmedia
+EL PAIS Tecnologia	Prisa	elpais_tecnologia	sunmedia
+EL PAIS Tentaciones	Prisa	elpais_tentaciones	sunmedia
+El Viajero	Prisa	elpais_elviajero	sunmedia
+EPS	Prisa	elpais_eps	sunmedia
+Esports AS	Prisa	as_esports	sunmedia
+Euribor	Prisa	elpais_finanzas_cincodias_euribor	sunmedia
+Hoy	Vocento	hoy	sunmedia
+Huffingtonpost	Prisa	huffingtonpost	sunmedia
+Ideal	Vocento	ideal	sunmedia
+Kebuena	Prisa	kebuena	sunmedia
+La Rioja	Vocento	larioja	sunmedia
+La Vanguardia	Godo	lavanguardia	sunmedia
+La Verdad	Vocento	laverdad	sunmedia
+La Voz Digital	Vocento	lavozdigital	sunmedia
+Las Provincias	Vocento	lasprovincias	sunmedia
+Leonoticias	Vocento	leonoticias	sunmedia
+Librotea	Prisa	librotea	sunmedia
+Maxima FM	Prisa	maxima	sunmedia
+Motor	Prisa	elpais_motor	sunmedia
+Mujer Hoy	Vocento	mujerhoy	sunmedia
+Mundo Deportivo	Godo	mundodeportivo	sunmedia
+Rac 1	Godo	rac1	sunmedia
+Radio Ole	Prisa	radiole	sunmedia
+Retina	Prisa	elpais_finanzas_retina	sunmedia
+SModa	Prisa	elpais_smoda	sunmedia
+Strambotic	Prisa	huffingtonpost_strambotic	sunmedia
+Verne	Prisa	elpais_verne	sunmedia
+XL Semanal	Vocento	xlsemanal	sunmedia
+Hola	hola	hola	sunmedia
+HOLA	hola	hola	sunmedia
+Tu otro Diario	hola	tuotrodiario	sunmedia
+La voz de Galicia	lavozdegalicia	lavozdegalicia	sunmedia

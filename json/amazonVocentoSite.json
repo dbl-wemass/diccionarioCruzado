@@ -1,59 +1,59 @@
 {
- "\"\"\"lasprovincias.es\"\"\"": {
-  "site": "\"\"\"lasprovincias\"\"\""
- },
- "\"\"\"diariosur.es\"\"\"": {
-  "site": "\"\"\"diariosur\"\"\""
- },
- "\"\"\"elcomercio.es\"\"\"": {
-  "site": "\"\"\"elcomercio\"\"\""
- },
- "\"\"\"abc.es\"\"\"": {
-  "site": "\"\"\"abc\"\"\""
- },
- "\"\"\"burgosconecta.es\"\"\"": {
-  "site": "\"\"\"burgosconecta\"\"\""
- },
- "\"\"\"elbierzonoticias.com\"\"\"": {
-  "site": "\"\"\"elbierzonoticias\"\"\""
- },
- "\"\"\"leonoticias.com\"\"\"": {
-  "site": "\"\"\"leonoticias\"\"\""
- },
- "\"\"\"laverdad.es\"\"\"": {
-  "site": "\"\"\"laverdad\"\"\""
- },
- "\"\"\"elnortedecastilla.es\"\"\"": {
-  "site": "\"\"\"elnortedecastilla\"\"\""
- },
- "\"\"\"mujerhoy.com\"\"\"": {
-  "site": "\"\"\"mujerhoy\"\"\""
- },
- "\"\"\"eldiariomontanes.es\"\"\"": {
-  "site": "\"\"\"eldiariomontanes\"\"\""
- },
- "\"\"\"diariovasco.com\"\"\"": {
-  "site": "\"\"\"diariovasco\"\"\""
- },
- "\"\"\"xlsemanal.com\"\"\"": {
-  "site": "\"\"\"xlsemanal\"\"\""
- },
- "\"\"\"lavozdigital.es\"\"\"": {
-  "site": "\"\"\"lavozdigital\"\"\""
- },
- "\"\"\"hoy.es\"\"\"": {
-  "site": "\"\"\"hoy\"\"\""
- },
- "\"\"\"ideal.es\"\"\"": {
-  "site": "\"\"\"ideal\"\"\""
- },
- "\"\"\"elcorreo.com\"\"\"": {
-  "site": "\"\"\"elcorreo\"\"\""
- },
- "\"\"\"larioja.com\"\"\"": {
-  "site": "\"\"\"larioja\"\"\""
- },
- "\"\"\"canarias7.es\"\"\"": {
-  "site": "\"\"\"canarias7\"\"\""
- }
+  "lasprovincias.es": {
+      "site": "lasprovincias"
+  },
+  "diariosur.es": {
+      "site": "diariosur"
+  },
+  "elcomercio.es": {
+      "site": "elcomercio"
+  },
+  "abc.es": {
+      "site": "abc"
+  },
+  "burgosconecta.es": {
+      "site": "burgosconecta"
+  },
+  "elbierzonoticias.com": {
+      "site": "elbierzonoticias"
+  },
+  "leonoticias.com": {
+      "site": "leonoticias"
+  },
+  "laverdad.es": {
+      "site": "laverdad"
+  },
+  "elnortedecastilla.es": {
+      "site": "elnortedecastilla"
+  },
+  "mujerhoy.com": {
+      "site": "mujerhoy"
+  },
+  "eldiariomontanes.es": {
+      "site": "eldiariomontanes"
+  },
+  "diariovasco.com": {
+      "site": "diariovasco"
+  },
+  "xlsemanal.com": {
+      "site": "xlsemanal"
+  },
+  "lavozdigital.es": {
+      "site": "lavozdigital"
+  },
+  "hoy.es": {
+      "site": "hoy"
+  },
+  "ideal.es": {
+      "site": "ideal"
+  },
+  "elcorreo.com": {
+      "site": "elcorreo"
+  },
+  "larioja.com": {
+      "site": "larioja"
+  },
+  "canarias7.es": {
+      "site": "canarias7"
+  }
 }

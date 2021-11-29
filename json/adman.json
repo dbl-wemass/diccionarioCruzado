@@ -1,1604 +1,1628 @@
 {
- "\"[AMP] WM_abc.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abc\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WM_abc.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abc\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WM_abc.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abc\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WM_abc.es Stop Player\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abc\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WM_abc.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abc\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WM_abc.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"abc\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WMVocento_sevilla.abc.es Display\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abcsevilla\"",
-  "medio": "\"display\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_sevilla.abc.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abcsevilla\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_sevilla.abc.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abcsevilla\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_sevilla.abc.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abcsevilla\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_sevilla.abc.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"abcsevilla\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_as.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_as.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_as.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_as.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"as\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_ejerciciosencasa.as.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_ejerciciosencasa\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_ejerciciosencasa.as.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_ejerciciosencasa\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_ejerciciosencasa.as.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"as_ejerciciosencasa\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_esports.as.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_esports\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_esports.as.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_esports\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_esports.as.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_esports\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_esports.as.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"as_esports\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_AS_Motor Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_motor\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_AS_Motor Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_motor\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_as.com/motor\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"as_motor\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_Tikitakas Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_tikitakas\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_Tikitakas Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"as_tikitakas\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_as.com_Tikitakas\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"as_tikitakas\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_biwenger.as.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"biwenger\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_biwenger.as.com Intext\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"biwenger\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_biwenger.as.com Video\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"biwenger\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_burgosconecta.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"burgosconecta\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_burgosconecta.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"burgosconecta\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_burgosconecta.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"burgosconecta\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_burgosconecta.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"burgosconecta\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_cadenaser.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"cadenaser\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_cadenaser.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"cadenaser\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_cadenaser.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"cadenaser\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_cadenaser.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"cadenaser\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMCanarias7_canarias7.es Display Pi\"": {
-  "publisher": "\"Canarias7\"",
-  "site": "\"Canarias7\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMCanarias7_canarias7.es Intext\"": {
-  "publisher": "\"Canarias7\"",
-  "site": "\"Canarias7\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMCanarias7_canarias7.es Video\"": {
-  "publisher": "\"Canarias7\"",
-  "site": "\"canarias7\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMCanarias7_canarias7.es\"": {
-  "publisher": "\"canarias7\"",
-  "site": "\"canarias7\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_codigounico.com Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"codigounico\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_codigounico.com Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"codigounico\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_codigounico.com Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"codigounico\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_codigounico.com\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"codigounico\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_diariosur.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"diariosur\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_diariosur.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"diariosur\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_diariosur.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"diariosur\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_diariosur.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"diariosur\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_diariovasco.com Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"diariovasco\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_diariovasco.com Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"diariovasco\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_diariovasco.com Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"diariovasco\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_diariovasco.com\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"diariovasco\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_elbierzonoticias.com Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elbierzonoticias\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_elbierzonoticias.com Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elbierzonoticias\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_elbierzonoticias.com Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elbierzonoticias\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_elbierzonoticias.com\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"elbierzonoticias\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_elcomercio.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elcomercio\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_elcomercio.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elcomercio\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_elcomercio.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elcomercio\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_elcomercio.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"elcomercio\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_elcorreo.com Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elcorreo\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_elcorreo.com Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elcorreo\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_elcorreo.com Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elcorreo\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_elcorreo.com\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"elcorreo\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_eldiariomontanes.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"eldiariomontanes\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_eldiariomontanes.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"eldiariomontanes\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_eldiariomontanes.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"eldiariomontanes\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_eldiariomontanes.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"eldiariomontanes\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_nortecastilla.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elnortedecastilla\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_nortecastilla.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elnortedecastilla\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_nortecastilla.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"elnortedecastilla\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_nortecastilla.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"elnortedecastilla\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"Intext_prueba_elpais\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WM_Prisa_elpais.com Stop Player\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"Prueba_WM-elpais\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com/elpais/buenavida Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_buenavida\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com/elpais/buenavida Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_buenavida\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com/elpais/buenavida Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_buenavida\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com/elpais/buenavida\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_buenavida\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com Display Pi (Catalunya)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_cat\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com Intext (Catalunya)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_cat\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com_Catalunya Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_cat\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_Catalunya\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_cat\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elcomidista.elpais.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_comidista\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elcomidista.elpais.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_comidista\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elcomidista.elpais.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_comidista\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com Display Pi (Cultura)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_cultura\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com Intext (Cultura)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_cultura\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com_Cultura Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_cultura\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_Cultura\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_cultura\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com Display Pi (Deportes)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_deportes\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com Intext (Deportes)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_deportes\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com_Deportes Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_deportes\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_Deportes\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_deportes\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elviajero.elpais.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_elviajero\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elviajero.elpais.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_elviajero\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elviajero.elpais.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_elviajero\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elviajero.elpais.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_elviajero\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_estilo Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_estilo\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com_estilo Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_estilo\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com_estilo Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_estilo\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_estilo\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_estilo\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_cincodias.elpais.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_cincodias\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_cincodias.elpais.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_cincodias\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_cincodias.elpais.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_cincodias\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_cincodias.elpais.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_finanzas_cincodias\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com Display Pi (Econom&iacute;a)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_economia\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com Intext (Economia)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_economia\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com_Economia Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_economia\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_Economia\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_finanzas_economia\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_retina.elpais.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_retina\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_retina.elpais.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_retina\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_retina.elpais.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_finanzas_retina\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_retina.elpais.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_finanzas_retina\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com Display Pi (Gente)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_gente\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com_Gente Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_gente\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com_Gente Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_gente\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_Gente\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_gente\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com/elpais/icon Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_icon\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com/elpais/icon Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_icon\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com/elpais/icon Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_icon\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com/elpais/icon\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_icon\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com/elpais/icon_design Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_icon_design\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com/elpais/icon_design Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_icon_design\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com/elpais/icon_design Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_icon_design\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com/elpais/icon_design\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_icon_design\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_motor.elpais.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_motor\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_motor.elpais.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_motor\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_motor.elpais.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_motor\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WMPrisa_motor.elpais.com Intext\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_motor\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WMPrisa_motor.elpais.com Video\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_motor\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_smoda.elpais.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_smoda\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_smoda.elpais.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_smoda\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_smoda.elpais.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_smoda\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_smoda.elpais.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_smoda\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com Intext (Tecnologia)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_tecnologia\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com_Tecnologia Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_tecnologia\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_Tecnologia\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_tecnologia\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com Display Pi (Tentaciones)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_tentaciones\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_elpais.com Intext (Tentaciones)\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_tentaciones\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_elpais.com_Tentaciones Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_tentaciones\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_elpais.com_Tentaciones\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_tentaciones\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_verne.elpais.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_verne\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_verne.elpais.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_verne\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_verne.elpais.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"elpais_verne\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_verne.elpais.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"elpais_verne\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WM_hola.com Video\"": {
-  "publisher": "\"Hola\"",
-  "site": "\"hola\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WM_hola.com Intext\"": {
-  "publisher": "\"Hola\"",
-  "site": "\"hola\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WM_hola.com Display Pi\"": {
-  "publisher": "\"Hola\"",
-  "site": "\"hola\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMHola.com\"": {
-  "publisher": "\"hola\"",
-  "site": "\"hola\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMHola.com Intext\"": {
-  "publisher": "\"hola\"",
-  "site": "\"hola\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMHola.com Video\"": {
-  "publisher": "\"hola\"",
-  "site": "\"hola\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_hoy.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"hoy\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_hoy.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"hoy\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_hoy.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"hoy\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_hoy.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"hoy\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_huffingtonpost.es Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"huffingtonpost\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_huffingtonpost.es Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"huffingtonpost\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_huffingtonpost.es Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"huffingtonpost\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_huffingtonpost.es Stop Player\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"huffingtonpost\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_huffingtonpost.es\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"huffingtonpost\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_strambotic.com Display\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"huffingtonpost_strambotic\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_strambotic.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"huffingtonpost_strambotic\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_strambotic.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"huffingtonpost_strambotic\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_strambotic.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"huffingtonpost_strambotic\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_ideal.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"ideal\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_ideal.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"ideal\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB]  WMVocento_ideal.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"ideal\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_ideal.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"ideal\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_larioja.com Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"larioja\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_larioja.com Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"larioja\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_larioja.com Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"larioja\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_larioja.com\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"larioja\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_lasprovincias.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"lasprovincias\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_lasprovincias.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"lasprovincias\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_lasprovincias.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"lasprovincias\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_lasprovincias.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"lasprovincias\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WMGodo_lavanguardia.com Display\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"lavanguardia\"",
-  "medio": "\"display\"",
-  "type": "\"prebid\""
- },
- "\"WMGodo_lavanguardia.com AMP\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"lavanguardia\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMGodo_lavanguardia.com Display Pi\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"lavanguardia\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMGodo_lavanguardia.com Intext\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"lavanguardia\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMGodo_lavanguardia.com Video\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"lavanguardia\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMGodo_lavanguardia.com Stop Player\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"lavanguardia\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMGodo_lavanguardia.com\"": {
-  "publisher": "\"godo\"",
-  "site": "\"lavanguardia\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_laverdad.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"laverdad\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_laverdad.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"laverdad\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_laverdad.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"laverdad\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_laverdad.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"laverdad\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WM_lavozdegalicia.es Video\"": {
-  "publisher": "\"lavozdegalicia\"",
-  "site": "\"lavozdegalicia\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_lavozdigital.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"lavozdigital\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_lavozdigital.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"lavozdigital\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_lavozdigital.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"lavozdigital\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_lavozdigital.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"lavozdigital\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_leonoticias.com Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"leonoticias\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_leonoticias.com Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"leonoticias\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_leonoticias.com Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"leonoticias\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_leonoticias.com\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"leonoticias\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_los40.com Display Pi\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"los40\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_los40.com Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"los40\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_los40.com Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"los40\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_los40.com\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"los40\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_Meristation Intext\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"meristation\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMPrisa_Meristation Video\"": {
-  "publisher": "\"Prisa\"",
-  "site": "\"meristation\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMPrisa_as.com/meristation\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"meristation\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_mujerhoy.es Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"mujerhoy\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_mujerhoy.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"mujerhoy\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_mujerhoy.es Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"mujerhoy\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_mujerhoy.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"mujerhoy\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMGodo_solowrestling.mundodeportivo.com Intext\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"mundodeportivo\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMGodo_mundodeportivo.com Display Pi\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"mundodeportivo\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMGodo_mundodeportivo.com Intext\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"mundodeportivo\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMGodo_mundodeportivo.com Video\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"mundodeportivo\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMGodo_mundodeportivo.com\"": {
-  "publisher": "\"godo\"",
-  "site": "\"mundodeportivo\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMGodo_rac1.cat Display Pi\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"rac1\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMGodo_rac1.cat Intext\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"rac1\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB]  WMGodo_rac1.cat Video\"": {
-  "publisher": "\"Godo\"",
-  "site": "\"rac1\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMGodo_rac1.cat\"": {
-  "publisher": "\"godo\"",
-  "site": "\"rac1\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"[AMP] WM_tuotrodiario.com Intext\"": {
-  "publisher": "\"Hola\"",
-  "site": "\"tuotrodiario\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMTuotrodiario.com\"": {
-  "publisher": "\"hola\"",
-  "site": "\"tuotrodiario\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WM_Tuotrodiario.com Intext\"": {
-  "publisher": "\"hola\"",
-  "site": "\"tuotrodiario\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WM_tuotrodiario.com Video\"": {
-  "publisher": "\"hola\"",
-  "site": "\"tuotrodiario\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_xlsemanal.com Display Pi\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"xlsemanal\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_xlsemanal.com Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"xlsemanal\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WMVocento_xlsemanal.com Video\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"xlsemanal\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WMVocento_xlsemanal.com Stop Player\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"xlsemanal\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"WMVocento_xlsemanal.com\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"xlsemanal\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WMGodo_mundodeportivo.com\"": {
-  "publisher": "\"godo\"",
-  "site": "\"mundodeportivo\"",
-  "medio": "\"video\"",
-  "type": "\"prebid\""
- },
- "\"WM_lavozdegalicia.es Intext\"": {
-  "publisher": "\"lavozdegalicia\"",
-  "site": "\"lavozdegalicia\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_diariosur.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"diariosur\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WM_abc.es Display\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"abc\"",
-  "medio": "\"display\"",
-  "type": "\"prebid\""
- },
- "\"[AMP] WMGodo_lavanguardia.com Intext\"": {
-  "publisher": "\"godo\"",
-  "site": "\"lavanguardia\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_ideal.es Intext\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"ideal\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WM_canarias7.es Intext\"": {
-  "publisher": "\"canarias7\"",
-  "site": "\"canarias7\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WM_hola.com Intext\"": {
-  "publisher": "\"hola\"",
-  "site": "\"hola\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMGodo_mundodeportivo.com Intext\"": {
-  "publisher": "\"godo\"",
-  "site": "\"mundodeportivo\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_diariovasco.com Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"diariovasco\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_elcomercio.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"elcomercio\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_elcorreo.com Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"elcorreo\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_eldiariomontanes.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"eldiariomontanes\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_elnortedecastilla.es\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"elnortedecastilla\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_hoy.es Intext \"": {
-  "publisher": "\"vocento\"",
-  "site": "\"hoy\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_larioja.com Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"larioja\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_lasprovincias.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"lasprovincias\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_laverdad.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"laverdad\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_leonoticias.com Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"leonoticias\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_mujerhoy.com Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"mujerhoy\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_sevilla.abc.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"abcsevilla\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[HB] WM_hola.com Display\"": {
-  "publisher": "\"hola\"",
-  "site": "\"hola\"",
-  "medio": "\"display\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WM_lavozdegalicia.es Display\"": {
-  "publisher": "\"lavozdegalicia\"",
-  "site": "\"lavozdegalicia\"",
-  "medio": "\"display\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WMCanarias7_canarias7.es Display\"": {
-  "publisher": "\"canarias7\"",
-  "site": "\"canarias7\"",
-  "medio": "\"display\"",
-  "type": "\"prebid\""
- },
- "\"[HB] WMVocento_lasprovincias.es Display\"": {
-  "publisher": "\"Vocento\"",
-  "site": "\"lasprovincias\"",
-  "medio": "\"display\"",
-  "type": "\"prebid\""
- },
- "\"WM_tuotrodiario.com Display Pi\"": {
-  "publisher": "\"hola\"",
-  "site": "\"tuotrodiario\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_biwenger.as.com Display Pi\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"biwenger\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_ejerciciosencasa.as.com Display Pi\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"as_ejerciciosencasa\"",
-  "medio": "\"display\"",
-  "type": "\"passback\""
- },
- "\"WMPrisa_huffingtonpost.es Surf\"": {
-  "publisher": "\"prisa\"",
-  "site": "\"huffingtonpost\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_hoy.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"hoy\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_lavozdigital.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"laverdad\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_xlsemanal.com Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"xlsemanal\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_burgosconecta.es Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"burgosconecta\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- },
- "\"[AMP] WMVocento_elbierzonoticias.com Intext\"": {
-  "publisher": "\"vocento\"",
-  "site": "\"elbierzonoticias\"",
-  "medio": "\"video\"",
-  "type": "\"passback\""
- }
+  "[AMP] WM_abc.es Intext": {
+      "publisher": "Vocento",
+      "site": "abc",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WM_abc.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "abc",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WM_abc.es Intext": {
+      "publisher": "Vocento",
+      "site": "abc",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WM_abc.es Stop Player": {
+      "publisher": "Vocento",
+      "site": "abc",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WM_abc.es Video": {
+      "publisher": "Vocento",
+      "site": "abc",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WM_abc.es": {
+      "publisher": "vocento",
+      "site": "abc",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WMVocento_sevilla.abc.es Display": {
+      "publisher": "Vocento",
+      "site": "abcsevilla",
+      "medio": "display",
+      "type": "prebid"
+  },
+  "WMVocento_sevilla.abc.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "abcsevilla",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_sevilla.abc.es Intext": {
+      "publisher": "Vocento",
+      "site": "abcsevilla",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_sevilla.abc.es Video": {
+      "publisher": "Vocento",
+      "site": "abcsevilla",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_sevilla.abc.es": {
+      "publisher": "vocento",
+      "site": "abcsevilla",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_as.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "as",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_as.com Intext": {
+      "publisher": "Prisa",
+      "site": "as",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_as.com Video": {
+      "publisher": "Prisa",
+      "site": "as",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_as.com": {
+      "publisher": "prisa",
+      "site": "as",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_ejerciciosencasa.as.com Intext": {
+      "publisher": "Prisa",
+      "site": "as_ejerciciosencasa",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_ejerciciosencasa.as.com Video": {
+      "publisher": "Prisa",
+      "site": "as_ejerciciosencasa",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_ejerciciosencasa.as.com": {
+      "publisher": "prisa",
+      "site": "as_ejerciciosencasa",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_esports.as.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "as_esports",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_esports.as.com Intext": {
+      "publisher": "Prisa",
+      "site": "as_esports",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_esports.as.com Video": {
+      "publisher": "Prisa",
+      "site": "as_esports",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_esports.as.com": {
+      "publisher": "prisa",
+      "site": "as_esports",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_AS_Motor Intext": {
+      "publisher": "Prisa",
+      "site": "as_motor",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_AS_Motor Video": {
+      "publisher": "Prisa",
+      "site": "as_motor",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_as.com/motor": {
+      "publisher": "prisa",
+      "site": "as_motor",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_Tikitakas Intext": {
+      "publisher": "Prisa",
+      "site": "as_tikitakas",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_Tikitakas Video": {
+      "publisher": "Prisa",
+      "site": "as_tikitakas",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_as.com_Tikitakas": {
+      "publisher": "prisa",
+      "site": "as_tikitakas",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_biwenger.as.com": {
+      "publisher": "prisa",
+      "site": "biwenger",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_biwenger.as.com Intext": {
+      "publisher": "prisa",
+      "site": "biwenger",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_biwenger.as.com Video": {
+      "publisher": "prisa",
+      "site": "biwenger",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_burgosconecta.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "burgosconecta",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_burgosconecta.es Intext": {
+      "publisher": "Vocento",
+      "site": "burgosconecta",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_burgosconecta.es Video": {
+      "publisher": "Vocento",
+      "site": "burgosconecta",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_burgosconecta.es": {
+      "publisher": "vocento",
+      "site": "burgosconecta",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_cadenaser.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "cadenaser",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_cadenaser.com Intext": {
+      "publisher": "Prisa",
+      "site": "cadenaser",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_cadenaser.com Video": {
+      "publisher": "Prisa",
+      "site": "cadenaser",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_cadenaser.com": {
+      "publisher": "prisa",
+      "site": "cadenaser",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMCanarias7_canarias7.es Display Pi": {
+      "publisher": "Canarias7",
+      "site": "Canarias7",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMCanarias7_canarias7.es Intext": {
+      "publisher": "Canarias7",
+      "site": "Canarias7",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMCanarias7_canarias7.es Video": {
+      "publisher": "Canarias7",
+      "site": "canarias7",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMCanarias7_canarias7.es": {
+      "publisher": "canarias7",
+      "site": "canarias7",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_codigounico.com Display Pi": {
+      "publisher": "Vocento",
+      "site": "codigounico",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_codigounico.com Intext": {
+      "publisher": "Vocento",
+      "site": "codigounico",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_codigounico.com Video": {
+      "publisher": "Vocento",
+      "site": "codigounico",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_codigounico.com": {
+      "publisher": "vocento",
+      "site": "codigounico",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_diariosur.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "diariosur",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_diariosur.es Intext": {
+      "publisher": "Vocento",
+      "site": "diariosur",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_diariosur.es Video": {
+      "publisher": "Vocento",
+      "site": "diariosur",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_diariosur.es": {
+      "publisher": "vocento",
+      "site": "diariosur",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_diariovasco.com Display Pi": {
+      "publisher": "Vocento",
+      "site": "diariovasco",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_diariovasco.com Intext": {
+      "publisher": "Vocento",
+      "site": "diariovasco",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_diariovasco.com Video": {
+      "publisher": "Vocento",
+      "site": "diariovasco",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_diariovasco.com": {
+      "publisher": "vocento",
+      "site": "diariovasco",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_elbierzonoticias.com Display Pi": {
+      "publisher": "Vocento",
+      "site": "elbierzonoticias",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_elbierzonoticias.com Intext": {
+      "publisher": "Vocento",
+      "site": "elbierzonoticias",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_elbierzonoticias.com Video": {
+      "publisher": "Vocento",
+      "site": "elbierzonoticias",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_elbierzonoticias.com": {
+      "publisher": "vocento",
+      "site": "elbierzonoticias",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_elcomercio.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "elcomercio",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_elcomercio.es Intext": {
+      "publisher": "Vocento",
+      "site": "elcomercio",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_elcomercio.es Video": {
+      "publisher": "Vocento",
+      "site": "elcomercio",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_elcomercio.es": {
+      "publisher": "vocento",
+      "site": "elcomercio",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_elcorreo.com Display Pi": {
+      "publisher": "Vocento",
+      "site": "elcorreo",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_elcorreo.com Intext": {
+      "publisher": "Vocento",
+      "site": "elcorreo",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_elcorreo.com Video": {
+      "publisher": "Vocento",
+      "site": "elcorreo",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_elcorreo.com": {
+      "publisher": "vocento",
+      "site": "elcorreo",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_eldiariomontanes.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "eldiariomontanes",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_eldiariomontanes.es Intext": {
+      "publisher": "Vocento",
+      "site": "eldiariomontanes",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_eldiariomontanes.es Video": {
+      "publisher": "Vocento",
+      "site": "eldiariomontanes",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_eldiariomontanes.es": {
+      "publisher": "vocento",
+      "site": "eldiariomontanes",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_nortecastilla.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "elnortedecastilla",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_nortecastilla.es Intext": {
+      "publisher": "Vocento",
+      "site": "elnortedecastilla",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_nortecastilla.es Video": {
+      "publisher": "Vocento",
+      "site": "elnortedecastilla",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_nortecastilla.es": {
+      "publisher": "vocento",
+      "site": "elnortedecastilla",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "Intext_prueba_elpais": {
+      "publisher": "Prisa",
+      "site": "elpais",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WM_Prisa_elpais.com Stop Player": {
+      "publisher": "Prisa",
+      "site": "elpais",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com Intext": {
+      "publisher": "Prisa",
+      "site": "elpais",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com Video": {
+      "publisher": "Prisa",
+      "site": "elpais",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com": {
+      "publisher": "prisa",
+      "site": "elpais",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "Prueba_WM-elpais": {
+      "publisher": "prisa",
+      "site": "elpais",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com/elpais/buenavida Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_buenavida",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com/elpais/buenavida Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_buenavida",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com/elpais/buenavida Video": {
+      "publisher": "Prisa",
+      "site": "elpais_buenavida",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com/elpais/buenavida": {
+      "publisher": "prisa",
+      "site": "elpais_buenavida",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com Display Pi (Catalunya)": {
+      "publisher": "Prisa",
+      "site": "elpais_cat",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com Intext (Catalunya)": {
+      "publisher": "Prisa",
+      "site": "elpais_cat",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com_Catalunya Video": {
+      "publisher": "Prisa",
+      "site": "elpais_cat",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_Catalunya": {
+      "publisher": "prisa",
+      "site": "elpais_cat",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elcomidista.elpais.com Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_comidista",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elcomidista.elpais.com Video": {
+      "publisher": "Prisa",
+      "site": "elpais_comidista",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elcomidista.elpais.com": {
+      "publisher": "prisa",
+      "site": "elpais_comidista",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com Display Pi (Cultura)": {
+      "publisher": "Prisa",
+      "site": "elpais_cultura",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com Intext (Cultura)": {
+      "publisher": "Prisa",
+      "site": "elpais_cultura",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com_Cultura Video": {
+      "publisher": "Prisa",
+      "site": "elpais_cultura",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_Cultura": {
+      "publisher": "prisa",
+      "site": "elpais_cultura",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com Display Pi (Deportes)": {
+      "publisher": "Prisa",
+      "site": "elpais_deportes",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com Intext (Deportes)": {
+      "publisher": "Prisa",
+      "site": "elpais_deportes",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com_Deportes Video": {
+      "publisher": "Prisa",
+      "site": "elpais_deportes",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_Deportes": {
+      "publisher": "prisa",
+      "site": "elpais_deportes",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elviajero.elpais.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_elviajero",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elviajero.elpais.com Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_elviajero",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elviajero.elpais.com Video": {
+      "publisher": "Prisa",
+      "site": "elpais_elviajero",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elviajero.elpais.com": {
+      "publisher": "prisa",
+      "site": "elpais_elviajero",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_estilo Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_estilo",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com_estilo Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_estilo",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com_estilo Video": {
+      "publisher": "Prisa",
+      "site": "elpais_estilo",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_estilo": {
+      "publisher": "prisa",
+      "site": "elpais_estilo",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_cincodias.elpais.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_cincodias",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_cincodias.elpais.com Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_cincodias",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_cincodias.elpais.com Video": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_cincodias",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_cincodias.elpais.com": {
+      "publisher": "prisa",
+      "site": "elpais_finanzas_cincodias",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com Display Pi (Econom&iacute;a)": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_economia",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com Intext (Economia)": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_economia",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com_Economia Video": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_economia",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_Economia": {
+      "publisher": "prisa",
+      "site": "elpais_finanzas_economia",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_retina.elpais.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_retina",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_retina.elpais.com Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_retina",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_retina.elpais.com Video": {
+      "publisher": "Prisa",
+      "site": "elpais_finanzas_retina",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_retina.elpais.com": {
+      "publisher": "prisa",
+      "site": "elpais_finanzas_retina",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com Display Pi (Gente)": {
+      "publisher": "Prisa",
+      "site": "elpais_gente",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com_Gente Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_gente",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com_Gente Video": {
+      "publisher": "Prisa",
+      "site": "elpais_gente",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_Gente": {
+      "publisher": "prisa",
+      "site": "elpais_gente",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com/elpais/icon Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_icon",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com/elpais/icon Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_icon",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com/elpais/icon Video": {
+      "publisher": "Prisa",
+      "site": "elpais_icon",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com/elpais/icon": {
+      "publisher": "prisa",
+      "site": "elpais_icon",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com/elpais/icon_design Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_icon_design",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com/elpais/icon_design Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_icon_design",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com/elpais/icon_design Video": {
+      "publisher": "Prisa",
+      "site": "elpais_icon_design",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com/elpais/icon_design": {
+      "publisher": "prisa",
+      "site": "elpais_icon_design",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_motor.elpais.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_motor",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_motor.elpais.com Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_motor",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMPrisa_motor.elpais.com": {
+      "publisher": "prisa",
+      "site": "elpais_motor",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WMPrisa_motor.elpais.com Intext": {
+      "publisher": "prisa",
+      "site": "elpais_motor",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WMPrisa_motor.elpais.com Video": {
+      "publisher": "prisa",
+      "site": "elpais_motor",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_smoda.elpais.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_smoda",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_smoda.elpais.com Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_smoda",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_smoda.elpais.com Video": {
+      "publisher": "Prisa",
+      "site": "elpais_smoda",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_smoda.elpais.com": {
+      "publisher": "prisa",
+      "site": "elpais_smoda",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com Intext (Tecnologia)": {
+      "publisher": "Prisa",
+      "site": "elpais_tecnologia",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com_Tecnologia Video": {
+      "publisher": "Prisa",
+      "site": "elpais_tecnologia",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_Tecnologia": {
+      "publisher": "prisa",
+      "site": "elpais_tecnologia",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com Display Pi (Tentaciones)": {
+      "publisher": "Prisa",
+      "site": "elpais_tentaciones",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_elpais.com Intext (Tentaciones)": {
+      "publisher": "Prisa",
+      "site": "elpais_tentaciones",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_elpais.com_Tentaciones Video": {
+      "publisher": "Prisa",
+      "site": "elpais_tentaciones",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_elpais.com_Tentaciones": {
+      "publisher": "prisa",
+      "site": "elpais_tentaciones",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_verne.elpais.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "elpais_verne",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_verne.elpais.com Intext": {
+      "publisher": "Prisa",
+      "site": "elpais_verne",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_verne.elpais.com Video": {
+      "publisher": "Prisa",
+      "site": "elpais_verne",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_verne.elpais.com": {
+      "publisher": "prisa",
+      "site": "elpais_verne",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WM_hola.com Video": {
+      "publisher": "Hola",
+      "site": "hola",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WM_hola.com Intext": {
+      "publisher": "Hola",
+      "site": "hola",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WM_hola.com Display Pi": {
+      "publisher": "Hola",
+      "site": "hola",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMHola.com": {
+      "publisher": "hola",
+      "site": "hola",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMHola.com Intext": {
+      "publisher": "hola",
+      "site": "hola",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMHola.com Video": {
+      "publisher": "hola",
+      "site": "hola",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_hoy.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "hoy",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_hoy.es Intext": {
+      "publisher": "Vocento",
+      "site": "hoy",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_hoy.es Video": {
+      "publisher": "Vocento",
+      "site": "hoy",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_hoy.es": {
+      "publisher": "vocento",
+      "site": "hoy",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_huffingtonpost.es Display Pi": {
+      "publisher": "Prisa",
+      "site": "huffingtonpost",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_huffingtonpost.es Intext": {
+      "publisher": "Prisa",
+      "site": "huffingtonpost",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_huffingtonpost.es Video": {
+      "publisher": "Prisa",
+      "site": "huffingtonpost",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_huffingtonpost.es Stop Player": {
+      "publisher": "Prisa",
+      "site": "huffingtonpost",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMPrisa_huffingtonpost.es": {
+      "publisher": "prisa",
+      "site": "huffingtonpost",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_strambotic.com Display": {
+      "publisher": "Prisa",
+      "site": "huffingtonpost_strambotic",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_strambotic.com Intext": {
+      "publisher": "Prisa",
+      "site": "huffingtonpost_strambotic",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_strambotic.com Video": {
+      "publisher": "Prisa",
+      "site": "huffingtonpost_strambotic",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_strambotic.com": {
+      "publisher": "prisa",
+      "site": "huffingtonpost_strambotic",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_ideal.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "ideal",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_ideal.es Intext": {
+      "publisher": "Vocento",
+      "site": "ideal",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB]  WMVocento_ideal.es Video": {
+      "publisher": "Vocento",
+      "site": "ideal",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_ideal.es": {
+      "publisher": "vocento",
+      "site": "ideal",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_larioja.com Display Pi": {
+      "publisher": "Vocento",
+      "site": "larioja",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_larioja.com Intext": {
+      "publisher": "Vocento",
+      "site": "larioja",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_larioja.com Video": {
+      "publisher": "Vocento",
+      "site": "larioja",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_larioja.com": {
+      "publisher": "vocento",
+      "site": "larioja",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_lasprovincias.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "lasprovincias",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_lasprovincias.es Intext": {
+      "publisher": "Vocento",
+      "site": "lasprovincias",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_lasprovincias.es Video": {
+      "publisher": "Vocento",
+      "site": "lasprovincias",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_lasprovincias.es": {
+      "publisher": "vocento",
+      "site": "lasprovincias",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WMGodo_lavanguardia.com Display": {
+      "publisher": "Godo",
+      "site": "lavanguardia",
+      "medio": "display",
+      "type": "prebid"
+  },
+  "WMGodo_lavanguardia.com AMP": {
+      "publisher": "Godo",
+      "site": "lavanguardia",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMGodo_lavanguardia.com Display Pi": {
+      "publisher": "Godo",
+      "site": "lavanguardia",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMGodo_lavanguardia.com Intext": {
+      "publisher": "Godo",
+      "site": "lavanguardia",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMGodo_lavanguardia.com Video": {
+      "publisher": "Godo",
+      "site": "lavanguardia",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMGodo_lavanguardia.com Stop Player": {
+      "publisher": "Godo",
+      "site": "lavanguardia",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMGodo_lavanguardia.com": {
+      "publisher": "godo",
+      "site": "lavanguardia",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_laverdad.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "laverdad",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_laverdad.es Intext": {
+      "publisher": "Vocento",
+      "site": "laverdad",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_laverdad.es Video": {
+      "publisher": "Vocento",
+      "site": "laverdad",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_laverdad.es": {
+      "publisher": "vocento",
+      "site": "laverdad",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WM_lavozdegalicia.es Video": {
+      "publisher": "lavozdegalicia",
+      "site": "lavozdegalicia",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_lavozdigital.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "lavozdigital",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_lavozdigital.es Intext": {
+      "publisher": "Vocento",
+      "site": "lavozdigital",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_lavozdigital.es Video": {
+      "publisher": "Vocento",
+      "site": "lavozdigital",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_lavozdigital.es": {
+      "publisher": "vocento",
+      "site": "lavozdigital",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_leonoticias.com Display Pi": {
+      "publisher": "Vocento",
+      "site": "leonoticias",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_leonoticias.com Intext": {
+      "publisher": "Vocento",
+      "site": "leonoticias",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_leonoticias.com Video": {
+      "publisher": "Vocento",
+      "site": "leonoticias",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_leonoticias.com": {
+      "publisher": "vocento",
+      "site": "leonoticias",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_los40.com Display Pi": {
+      "publisher": "Prisa",
+      "site": "los40",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_los40.com Intext": {
+      "publisher": "Prisa",
+      "site": "los40",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_los40.com Video": {
+      "publisher": "Prisa",
+      "site": "los40",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_los40.com": {
+      "publisher": "prisa",
+      "site": "los40",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_Meristation Intext": {
+      "publisher": "Prisa",
+      "site": "meristation",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMPrisa_Meristation Video": {
+      "publisher": "Prisa",
+      "site": "meristation",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMPrisa_as.com/meristation": {
+      "publisher": "prisa",
+      "site": "meristation",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_mujerhoy.es Display Pi": {
+      "publisher": "Vocento",
+      "site": "mujerhoy",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_mujerhoy.es Intext": {
+      "publisher": "Vocento",
+      "site": "mujerhoy",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_mujerhoy.es Video": {
+      "publisher": "Vocento",
+      "site": "mujerhoy",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_mujerhoy.es": {
+      "publisher": "vocento",
+      "site": "mujerhoy",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMGodo_solowrestling.mundodeportivo.com Intext": {
+      "publisher": "Godo",
+      "site": "mundodeportivo",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMGodo_mundodeportivo.com Display Pi": {
+      "publisher": "Godo",
+      "site": "mundodeportivo",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMGodo_mundodeportivo.com Intext": {
+      "publisher": "Godo",
+      "site": "mundodeportivo",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMGodo_mundodeportivo.com Video": {
+      "publisher": "Godo",
+      "site": "mundodeportivo",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMGodo_mundodeportivo.com": {
+      "publisher": "godo",
+      "site": "mundodeportivo",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMGodo_rac1.cat Display Pi": {
+      "publisher": "Godo",
+      "site": "rac1",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMGodo_rac1.cat Intext": {
+      "publisher": "Godo",
+      "site": "rac1",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB]  WMGodo_rac1.cat Video": {
+      "publisher": "Godo",
+      "site": "rac1",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMGodo_rac1.cat": {
+      "publisher": "godo",
+      "site": "rac1",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[AMP] WM_tuotrodiario.com Intext": {
+      "publisher": "Hola",
+      "site": "tuotrodiario",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMTuotrodiario.com": {
+      "publisher": "hola",
+      "site": "tuotrodiario",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WM_Tuotrodiario.com Intext": {
+      "publisher": "hola",
+      "site": "tuotrodiario",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WM_tuotrodiario.com Video": {
+      "publisher": "hola",
+      "site": "tuotrodiario",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_xlsemanal.com Display Pi": {
+      "publisher": "Vocento",
+      "site": "xlsemanal",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMVocento_xlsemanal.com Intext": {
+      "publisher": "Vocento",
+      "site": "xlsemanal",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_xlsemanal.com Video": {
+      "publisher": "Vocento",
+      "site": "xlsemanal",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WMVocento_xlsemanal.com Stop Player": {
+      "publisher": "Vocento",
+      "site": "xlsemanal",
+      "medio": "video",
+      "type": "passback"
+  },
+  "WMVocento_xlsemanal.com": {
+      "publisher": "vocento",
+      "site": "xlsemanal",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WMGodo_mundodeportivo.com": {
+      "publisher": "godo",
+      "site": "mundodeportivo",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "WM_lavozdegalicia.es Intext": {
+      "publisher": "lavozdegalicia",
+      "site": "lavozdegalicia",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_diariosur.es Intext": {
+      "publisher": "vocento",
+      "site": "diariosur",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WM_abc.es Display": {
+      "publisher": "Vocento",
+      "site": "abc",
+      "medio": "display",
+      "type": "prebid"
+  },
+  "[AMP] WMGodo_lavanguardia.com Intext": {
+      "publisher": "godo",
+      "site": "lavanguardia",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_ideal.es Intext": {
+      "publisher": "Vocento",
+      "site": "ideal",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WM_canarias7.es Intext": {
+      "publisher": "canarias7",
+      "site": "canarias7",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WM_hola.com Intext": {
+      "publisher": "hola",
+      "site": "hola",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMGodo_mundodeportivo.com Intext": {
+      "publisher": "godo",
+      "site": "mundodeportivo",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_diariovasco.com Intext": {
+      "publisher": "vocento",
+      "site": "diariovasco",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_elcomercio.es Intext": {
+      "publisher": "vocento",
+      "site": "elcomercio",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_elcorreo.com Intext": {
+      "publisher": "vocento",
+      "site": "elcorreo",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_eldiariomontanes.es Intext": {
+      "publisher": "vocento",
+      "site": "eldiariomontanes",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_elnortedecastilla.es": {
+      "publisher": "vocento",
+      "site": "elnortedecastilla",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_hoy.es Intext ": {
+      "publisher": "vocento",
+      "site": "hoy",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_larioja.com Intext": {
+      "publisher": "vocento",
+      "site": "larioja",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_lasprovincias.es Intext": {
+      "publisher": "vocento",
+      "site": "lasprovincias",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_laverdad.es Intext": {
+      "publisher": "vocento",
+      "site": "laverdad",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_leonoticias.com Intext": {
+      "publisher": "vocento",
+      "site": "leonoticias",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_mujerhoy.com Intext": {
+      "publisher": "vocento",
+      "site": "mujerhoy",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_sevilla.abc.es Intext": {
+      "publisher": "vocento",
+      "site": "abcsevilla",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WM_hola.com Display": {
+      "publisher": "hola",
+      "site": "hola",
+      "medio": "display",
+      "type": "prebid"
+  },
+  "[HB] WM_lavozdegalicia.es Display": {
+      "publisher": "lavozdegalicia",
+      "site": "lavozdegalicia",
+      "medio": "display",
+      "type": "prebid"
+  },
+  "[HB] WMCanarias7_canarias7.es Display": {
+      "publisher": "canarias7",
+      "site": "canarias7",
+      "medio": "display",
+      "type": "prebid"
+  },
+  "[HB] WMVocento_lasprovincias.es Display": {
+      "publisher": "Vocento",
+      "site": "lasprovincias",
+      "medio": "display",
+      "type": "prebid"
+  },
+  "WM_tuotrodiario.com Display Pi": {
+      "publisher": "hola",
+      "site": "tuotrodiario",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_biwenger.as.com Display Pi": {
+      "publisher": "prisa",
+      "site": "biwenger",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_ejerciciosencasa.as.com Display Pi": {
+      "publisher": "prisa",
+      "site": "as_ejerciciosencasa",
+      "medio": "display",
+      "type": "passback"
+  },
+  "WMPrisa_huffingtonpost.es Surf": {
+      "publisher": "prisa",
+      "site": "huffingtonpost",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_hoy.es Intext": {
+      "publisher": "vocento",
+      "site": "hoy",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_lavozdigital.es Intext": {
+      "publisher": "vocento",
+      "site": "laverdad",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_xlsemanal.com Intext": {
+      "publisher": "vocento",
+      "site": "xlsemanal",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_burgosconecta.es Intext": {
+      "publisher": "vocento",
+      "site": "burgosconecta",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[AMP] WMVocento_elbierzonoticias.com Intext": {
+      "publisher": "Vocento",
+      "site": "elbierzonoticias",
+      "medio": "video",
+      "type": "passback"
+  },
+  "[HB] WMVocento_ideal.es Video": {
+      "publisher": "vocento",
+      "site": "ideal",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WMGodo_rac1.cat Video": {
+      "publisher": "Godo",
+      "site": "rac1",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WMPrisa_euribor.com.es Intext": {
+      "publisher": "prisa",
+      "site": "elpais_finanzas_cincodias_euribor",
+      "medio": "video",
+      "type": "prebid"
+  },
+  "[HB] WMGodo_mundodeportivo.com Display": {
+      "publisher": "Godo",
+      "site": "mundodeportivo",
+      "medio": "display",
+      "type": "passback"
+  }
 }
