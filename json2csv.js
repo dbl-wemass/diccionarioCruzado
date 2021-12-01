@@ -6,7 +6,7 @@ const
     "amazonGodo": "coso\tsite",
     "amazonPrisa": "coso\tsite\tcanal",
     "amazonVocentoSite": "coso\tsite",
-    "amazonVocentoSlotname": "coso\tsite\tcanal",
+    "amazonVocentoSlotname": "coso\tsite",
     "invibes": "coso\tpublisher\tsite\tcanal\tformato",
     "quantum": "coso\tpublisher\tsite\tcanal\tformat",
     "richaudience": "coso\tpublisher\tsite\tcanal\tformat\tposition",
