@@ -222,6 +222,7 @@ WMGodo_mundodeportivo.com	godo	mundodeportivo	video	prebid	adman
 WMGodo_rac1.cat Display Pi	Godo	rac1	display	passback	adman
 WMGodo_rac1.cat Intext	Godo	rac1	video	passback	adman
 [HB]  WMGodo_rac1.cat Video	Godo	rac1	video	prebid	adman
+[HB] WMGodo_rac1.cat Video	Godo	rac1	video	prebid	adman
 WMGodo_rac1.cat	godo	rac1	video	prebid	adman
 [AMP] WM_tuotrodiario.com Intext	Hola	tuotrodiario	video	passback	adman
 WMTuotrodiario.com	hola	tuotrodiario	video	prebid	adman
@@ -265,8 +266,7 @@ WMPrisa_huffingtonpost.es Surf	prisa	huffingtonpost	video	passback	adman
 [AMP] WMVocento_lavozdigital.es Intext	vocento	laverdad	video	passback	adman
 [AMP] WMVocento_xlsemanal.com Intext	vocento	xlsemanal	video	passback	adman
 [AMP] WMVocento_burgosconecta.es Intext	vocento	burgosconecta	video	passback	adman
-[AMP] WMVocento_elbierzonoticias.com Intext	Vocento	elbierzonoticias	video	passback	adman
-[HB] WMVocento_ideal.es Video	vocento	ideal	video	prebid	adman
-[HB] WMGodo_rac1.cat Video	Godo	rac1	video	prebid	adman
+[AMP] WMVocento_elbierzonoticias.com Intext	vocento	elbierzonoticias	video	passback	adman
+[HB] WMVocento_ideal.es Video	Vocento	ideal	video	prebid	adman
 [HB] WMPrisa_euribor.com.es Intext	prisa	elpais_finanzas_cincodias_euribor	video	prebid	adman
 [HB] WMGodo_mundodeportivo.com Display	Godo	mundodeportivo	display	passback	adman

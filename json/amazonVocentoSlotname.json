@@ -6186,10 +6186,10 @@
   "site": "laverdad"
  },
  "vocento.lavozdigital-megabanner": {
-  "site": "lavozdigital"
+  "site": "laverdad"
  },
  "vocento.lavozdigital-megabanner_dos": {
-  "site": "lavozdigital"
+  "site": "laverdad"
  },
  "webm.LAVERDAD-megabanner_cinco": {
   "site": "laverdad"
@@ -9391,5 +9391,614 @@
  },
  "webm.XLSEMANAL-robapaginas_tres": {
   "site": "xlsemanal"
+ },
+ "/4900/vocento.abc/elecciones/catalanas": {
+  "site": "abc"
+ },
+ "/4900/vocento.diariosur/portada": {
+  "site": "diariosur"
+ },
+ "/4900/vocento.elcomerciodigital/portada": {
+  "site": "elcomercio"
+ },
+ "/4900/vocento.elcorreodigital/portada": {
+  "site": "elcorreo"
+ },
+ "/4900/vocento.eldiariomontanes/portada": {
+  "site": "eldiariomontanes"
+ },
+ "/4900/vocento.lasprovincias/portada": {
+  "site": "lasprovincias"
+ },
+ "/4900/vocento.laverdad/portada": {
+  "site": "laverdad"
+ },
+ "/4900/webm.ABC/AMP/contacto": {
+  "site": "abc"
+ },
+ "/4900/webm.ABC/AMP/cultura/ruta_quetzal": {
+  "site": "abc"
+ },
+ "/4900/webm.ABC/AMP/familia/atodotren": {
+  "site": "abc"
+ },
+ "/4900/webm.ABC/AMP/loteria-de-navidad": {
+  "site": "abc"
+ },
+ "/4900/webm.ABC/elecciones/catalanas": {
+  "site": "abc"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/deportes/caza": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/deportes/motos": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/gurme/bares-y-restaurantes": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/gurme/recetas": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/gurme/sevilla/bares-y-restaurantes": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/historia": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/viajar/guia-repsol": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.BURGOSCONECTA/AMP/antropia": {
+  "site": "burgosconecta"
+ },
+ "/4900/webm.BURGOSCONECTA/AMP/deportes/futbol/mundial": {
+  "site": "burgosconecta"
+ },
+ "/4900/webm.BURGOSCONECTA/AMP/grupo20": {
+  "site": "burgosconecta"
+ },
+ "/4900/webm.BURGOSCONECTA/AMP/grupo20/debates": {
+  "site": "burgosconecta"
+ },
+ "/4900/webm.CANARIAS7/AMP/asinca": {
+  "site": "canarias7"
+ },
+ "/4900/webm.CANARIAS7/AMP/loteria/el-nino": {
+  "site": "canarias7"
+ },
+ "/4900/webm.DIARIOMONTANES/AMP/elecciones/catalanas": {
+  "site": "eldiariomontanes"
+ },
+ "/4900/webm.DIARIOMONTANES/AMP/elecciones/madrid": {
+  "site": "eldiariomontanes"
+ },
+ "/4900/webm.DIARIOMONTANES/portada": {
+  "site": "eldiariomontanes"
+ },
+ "/4900/webm.DIARIOSUR/AMP/sociedad/cumbre-cambio-climatico-chile-madrid-cop25": {
+  "site": "diariosur"
+ },
+ "/4900/webm.DIARIOVASCO/AMP/concursos/non-gaude": {
+  "site": "diariovasco"
+ },
+ "/4900/webm.DIARIOVASCO/AMP/deportes/laliga": {
+  "site": "diariovasco"
+ },
+ "/4900/webm.DIARIOVASCO/AMP/suplementos/bodas": {
+  "site": "diariovasco"
+ },
+ "/4900/webm.DIARIOVASCO/AMP/suplementos/gipuzkoa-te-necesita": {
+  "site": "diariovasco"
+ },
+ "/4900/webm.ELCOMERCIO/AMP/deportes/futbol/mundial": {
+  "site": "elcomercio"
+ },
+ "/4900/webm.ELCOMERCIO/AMP/elecciones/catalanas": {
+  "site": "elcomercio"
+ },
+ "/4900/webm.ELCOMERCIO/AMP/elecciones/eeuu": {
+  "site": "elcomercio"
+ },
+ "/4900/webm.ELCOMERCIO/AMP/elecciones/madrid": {
+  "site": "elcomercio"
+ },
+ "/4900/webm.ELCOMERCIO/portada": {
+  "site": "elcomercio"
+ },
+ "/4900/webm.ELCORREO/AMP/alaves/centenario-alaves": {
+  "site": "elcorreo"
+ },
+ "/4900/webm.ELCORREO/AMP/bizkaia/especial/adivinas-donde-estamos": {
+  "site": "elcorreo"
+ },
+ "/4900/webm.ELCORREO/AMP/elecciones/europeas": {
+  "site": "elcorreo"
+ },
+ "/4900/webm.ELCORREO/AMP/especial/un-mundo-distinto": {
+  "site": "elcorreo"
+ },
+ "/4900/webm.ELCORREO/AMP/sociedad/cumbre-cambio-climatico-chile-madrid-cop25": {
+  "site": "elcorreo"
+ },
+ "/4900/webm.ELCORREO/portada": {
+  "site": "elcorreo"
+ },
+ "/4900/webm.HOY/AMP/deportes/futbol/mundial": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/deportes/laliga": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/elecciones/catalanas": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/elecciones/eeuu": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/elecciones/madrid": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/extremadura/dia-extremadura": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/hiperlocales/villanueva/deportes": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/quienesquien/asesorias-consultorias-auditorias": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/quienesquien/banca-aseguradoras": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/AMP/quienesquien/comercio-distribucion": {
+  "site": "hoy"
+ },
+ "/4900/webm.HOY/portada": {
+  "site": "hoy"
+ },
+ "/4900/webm.IDEAL/AMP/alcalalareal": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/almanzora": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/antropia": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/churrianadelavega/deportes": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/deportes/futbol/mundial": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/deportes/laliga": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/elecciones/madrid": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/elejido/deportes": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/elejido/ocio": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/granada/lazubia/deportes": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/guadix/deportes": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/huetorvega/fotos": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/levante": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/levante/deportes": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/loja/opinion": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/planes/canal-esqui": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/roquetas/deportes": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/roquetas/ocio": {
+  "site": "ideal"
+ },
+ "/4900/webm.LARIOJA/AMP/deportes/futbol/mundial/rusia-2018": {
+  "site": "larioja"
+ },
+ "/4900/webm.LARIOJA/AMP/digitales": {
+  "site": "larioja"
+ },
+ "/4900/webm.LARIOJA/AMP/economia/economia-riojana": {
+  "site": "larioja"
+ },
+ "/4900/webm.LARIOJA/AMP/elecciones/madrid": {
+  "site": "larioja"
+ },
+ "/4900/webm.LARIOJA/AMP/local": {
+  "site": "larioja"
+ },
+ "/4900/webm.LARIOJA/AMP/loteria": {
+  "site": "larioja"
+ },
+ "/4900/webm.LARIOJA/AMP/loteria/el-nino": {
+  "site": "larioja"
+ },
+ "/4900/webm.LASPROVINCIAS/AMP/deportes/laliga": {
+  "site": "lasprovincias"
+ },
+ "/4900/webm.LASPROVINCIAS/AMP/loteria": {
+  "site": "lasprovincias"
+ },
+ "/4900/webm.LASPROVINCIAS/AMP/planes/viajes/escapadas-guia-repsol": {
+  "site": "lasprovincias"
+ },
+ "/4900/webm.LASPROVINCIAS/AMP/politica/tablero-politico": {
+  "site": "lasprovincias"
+ },
+ "/4900/webm.LAVERDAD/AMP/grupohuertas/hyundai": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/AMP/grupohuertas/toyota": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/AMP/miperiodicodigital": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/AMP/sansilvestrecartagena": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/AMP/sansilvestrecartagena/2019": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/AMP/sansilvestrelorca/2018": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/AMP/sansilvestrelorca/2019": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/AMP/sansilvestremurcia/2019": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/AMP/sociedad/salud": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVERDAD/portada": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/andalucia/huelva": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/canarias": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/catalunya": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/ciencia": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/comunidadvalenciana": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/deportes/ciclismo": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/deportes/juegos-olimpicos": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/estilo/bodas": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/estilo/moda": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/motor": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/natural": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/salud": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/tecnologia": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/toledo": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/colegios/don-bosco": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/deportes/futbol/mundial": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/elecciones/madrid": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/leonycomarcas": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/loteria/el-nino": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/planes/canal-esqui": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/planes/nacionales": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/podcast": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.NORTEDECASTILLA/AMP/deportes/laliga": {
+  "site": "elnortedecastilla"
+ },
+ "/4900/webm.NORTEDECASTILLA/AMP/el_norte": {
+  "site": "elnortedecastilla"
+ },
+ "/4900/webm.NORTEDECASTILLA/AMP/elecciones/eeuu": {
+  "site": "elnortedecastilla"
+ },
+ "/4900/webm.NORTEDECASTILLA/AMP/elecciones/madrid": {
+  "site": "elnortedecastilla"
+ },
+ "/4900/webm.NORTEDECASTILLA/AMP/grupo20/tribunas": {
+  "site": "elnortedecastilla"
+ },
+ "/4900/webm.NORTEDECASTILLA/AMP/loteria": {
+  "site": "elnortedecastilla"
+ },
+ "/4900/webm.NORTEDECASTILLA/AMP/yocompronuestrosvinos": {
+  "site": "elnortedecastilla"
+ },
+ "/4900/webm.XLSEMANAL/AMP/ABC/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/ABC/firmas/carlos-maribona": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/cultura": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/DIARIOSUR/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/DIARIOVASCO/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/ELCOMERCIO/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/ELCORREO/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/ELDIARIOMONTANES/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/ELNORTEDECASTILLA/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/gente": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/HOY/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/IDEAL/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/LASPROVINCIAS/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/LAVERDAD/firmas": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/moda": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/ocio-y-turismo": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.XLSEMANAL/AMP/sin-categoria": {
+  "site": "xlsemanal"
+ },
+ "invalid_slotname": {
+  "site": "sin identificar vocento"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_cinco": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_cinco_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_cuatro": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_cuatro_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_dos": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_dos_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_tres": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-megabanner_tres_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_cinco": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_cinco_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_cuatro": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_cuatro_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_diez": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_diez_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_dos": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_dos_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_nueve": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_ocho": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_ocho_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_seis": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_seis_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_siete": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_siete_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_tres": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-robapaginas_tres_local": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-skyscraper_der": {
+  "site": "xlsemanal"
+ },
+ "vocento.xlsemanal-burgosconecta-skyscraper_izq": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.DIARIOMONTANES/AMP/loteria": {
+  "site": "diariomontañes"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/colegios/virgen-blanca": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.DIARIOVASCO/AMP/zabalik": {
+  "site": "diariovasco"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/elecciones2015": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.ABC/AMP/favorito/bebe": {
+  "site": "abc"
+ },
+ "/4900/webm.XLSEMANAL/AMP/": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/loultimo/portada": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.ABC/AMP/bienestar/consultorio-preguntas-frecuentes": {
+  "site": "abc"
+ },
+ "/4900/webm.IDEAL/AMP/deportes/ciclismo": {
+  "site": "ideal"
+ },
+ "/4900/webm.ABC/AMP/servicios": {
+  "site": "abc"
+ },
+ "/4900/webm.XLSEMANAL/AMP/salud": {
+  "site": "xlsemanal"
+ },
+ "/4900/webm.ELCOMERCIO/AMP/asturias/formacion-profesional": {
+  "site": "elcomercio"
+ },
+ "/4900/webm.NORTEDECASTILLA/AMP/catando-con-cigales": {
+  "site": "nortedecastilla"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/estilo/decoracion": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.BURGOSCONECTA/AMP/deportes/laliga": {
+  "site": "burgosconecta"
+ },
+ "/4900/webm.HOY/AMP/hiperlocales/puebladelacalzada": {
+  "site": "hoy"
+ },
+ "/4900/webm.IDEAL/AMP/baza/cofrade": {
+  "site": "ideal"
+ },
+ "/4900/webm.IDEAL/AMP/guadix/cofrade": {
+  "site": "ideal"
+ },
+ "/4900/webm.HOY/AMP/hiperlocales/talarrubias": {
+  "site": "hoy"
+ },
+ "/4900/webm.ELBIERZONOTICIAS": {
+  "site": "elbierzonoticias"
+ },
+ "/4900/webm.LASPROVINCIAS/AMP/elecciones/madrid": {
+  "site": "lasprovincias"
+ },
+ "/4900/webm.LAVERDAD/AMP/grupohuertas/infiniti": {
+  "site": "laverdad"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/ferias/valenciadedonjuan": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.ABCSEVILLA/AMP/deportes/baloncesto": {
+  "site": "abcsevilla"
+ },
+ "/4900/webm.LEONOTICIAS/portada": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.DIARIOSUR/AMP/deportes/laliga": {
+  "site": "diariosur"
+ },
+ "/4900/webm.ELCOMERCIO/AMP/deportes/laliga": {
+  "site": "elcomercio"
+ },
+ "/4900/webm.IDEAL/AMP/almeria/ual/": {
+  "site": "ideal"
+ },
+ "/4900/webm.LEONOTICIAS/AMP/elecciones/europeas": {
+  "site": "leonoticias"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/deportes/futbol/eurocopa": {
+  "site": "lavozdigital"
+ },
+ "/4900/webm.LAVOZDECADIZ/AMP/andalucia/jaen": {
+  "site": "lavozdigital"
  }
 }

@@ -103,10 +103,6 @@
   "publisher": "prisa",
   "site": "elpais_deportes"
  },
- "es_intxt_wemass-elpais-economia_html5#es002790": {
-  "publisher": "prisa",
-  "site": "elpais_finanzas_economia"
- },
  "es_intxt_wemass-elpais-viajero_html5#es002790": {
   "publisher": "prisa",
   "site": "elpais_elviajero"
@@ -122,6 +118,10 @@
  "es_intxt_wemass-elpais-cincodias_html5#es002790": {
   "publisher": "prisa",
   "site": "elpais_finanzas_cincodias"
+ },
+ "es_intxt_wemass-elpais-economia_html5#es002790": {
+  "publisher": "prisa",
+  "site": "elpais_finanzas_economia"
  },
  "es_intxt_wemass-elpais-retina_html5#es002790": {
   "publisher": "prisa",

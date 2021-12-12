@@ -1337,6 +1337,12 @@
   "medio": "video",
   "type": "prebid"
  },
+ "[HB] WMGodo_rac1.cat Video": {
+  "publisher": "Godo",
+  "site": "rac1",
+  "medio": "video",
+  "type": "prebid"
+ },
  "WMGodo_rac1.cat": {
   "publisher": "godo",
   "site": "rac1",
@@ -1596,20 +1602,14 @@
   "type": "passback"
  },
  "[AMP] WMVocento_elbierzonoticias.com Intext": {
-  "publisher": "Vocento",
+  "publisher": "vocento",
   "site": "elbierzonoticias",
   "medio": "video",
   "type": "passback"
  },
  "[HB] WMVocento_ideal.es Video": {
-  "publisher": "vocento",
+  "publisher": "Vocento",
   "site": "ideal",
-  "medio": "video",
-  "type": "prebid"
- },
- "[HB] WMGodo_rac1.cat Video": {
-  "publisher": "Godo",
-  "site": "rac1",
   "medio": "video",
   "type": "prebid"
  },

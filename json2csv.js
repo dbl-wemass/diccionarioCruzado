@@ -1,15 +1,15 @@
 const
   headers = {
-    "criteoDomain": "coso\tsite",
-    "criteoSubid": "coso\tsite\tformat\tcanal",
     "adman": "coso\tpublisher\tsite\tmedio\ttype",
     "amazonGodo": "coso\tsite",
-    "amazonPrisa": "coso\tsite\tcanal",
+    "amazonPrisa": "coso\tsite\tchannel",
     "amazonVocentoSite": "coso\tsite",
     "amazonVocentoSlotname": "coso\tsite",
-    "invibes": "coso\tpublisher\tsite\tcanal\tformato",
-    "quantum": "coso\tpublisher\tsite\tcanal\tformat",
-    "richaudience": "coso\tpublisher\tsite\tcanal\tformat\tposition",
+    "criteoDomain": "coso\tsite",
+    "criteoSubid": "coso\tsite\tchannel\tformat",
+    "invibes": "coso\tpublisher\tsite\tchannel\tformat",
+    "quantum": "coso\tpublisher\tsite\tchannel\tformat",
+    "richaudience": "coso\tpublisher\tsite\tchannel\tformat\tposition",
     "smartclip": "coso\tpublisher\tsite",
     "sunmedia": "coso\tpublisher\tsite"
   },
