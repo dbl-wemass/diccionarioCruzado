@@ -1,783 +1,782 @@
-coso,site,origen
-"abc.es","abc","criteoDomain"
-"abc.es.","abc","criteoDomain"
-"abcfoto.abc.es","abc","criteoDomain"
-"ciencia.abc.es","abc","criteoDomain"
-"des-www.abc.es","abc","criteoDomain"
-"docker.abc.es","abc","criteoDomain"
-"espana.abc.es","abc","criteoDomain"
-"especiales.abc.es","abc","criteoDomain"
-"hemeroteca.abc.es","abc","criteoDomain"
-"horoscopo.abc.es","abc","criteoDomain"
-"local-www.abc.es","abc","criteoDomain"
-"mejorcoche-2020.abc.es","abc","criteoDomain"
-"pre-mejorcoche-2020.abc.es","abc","criteoDomain"
-"pre-static1.abc.es","abc","criteoDomain"
-"pre-xl.abc.es","abc","criteoDomain"
-"sev.abc.es","abc","criteoDomain"
-"tienda.abc.es","abc","criteoDomain"
-"abcblogs.abc.es","abc","criteoDomain"
-"agencias.abc.es","abc","criteoDomain"
-"cabeceras.abc.es","abc","criteoDomain"
-"des-fibabc.abc.es","abc","criteoDomain"
-"desn.abc.es","abc","criteoDomain"
-"docker-www.abc.es","abc","criteoDomain"
-"fibabc.abc.es","abc","criteoDomain"
-"fibabc2020.abc.es","abc","criteoDomain"
-"fibabc9.abc.es","abc","criteoDomain"
-"hoycinema.abc.es","abc","criteoDomain"
-"interno-guia-restaurantes.abc.es","abc","criteoDomain"
-"laguiatv.abc.es","abc","criteoDomain"
-"mejorcoche.abc.es","abc","criteoDomain"
-"new2-www.abc.es","abc","criteoDomain"
-"new-www.abc.es","abc","criteoDomain"
-"pre2-www.abc.es","abc","criteoDomain"
-"pre3-www.abc.es","abc","criteoDomain"
-"pre-abcblogsv2.abc.es","abc","criteoDomain"
-"pre-mejorcoche.abc.es","abc","criteoDomain"
-"pren.abc.es","abc","criteoDomain"
-"pre-www.abc.es","abc","criteoDomain"
-"secure.abc.es","abc","criteoDomain"
-"ver.abc.es","abc","criteoDomain"
-"www-new.abc.es","abc","criteoDomain"
-"estaticos.sevillasolidaria.abc.es","abcsevilla","criteoDomain"
-"sevilla.abc.es","abcsevilla","criteoDomain"
-"sevilla.abc.es.","abcsevilla","criteoDomain"
-"sevillasolidaria-renew.sevilla.abc.es","abcsevilla","criteoDomain"
-"static-sevilla.abc.es","abcsevilla","criteoDomain"
-"tienda-sevilla.abc.es","abcsevilla","criteoDomain"
-"xl-sevilla.abc.es","abcsevilla","criteoDomain"
-"agronoma.sevilla.abc.es","abcsevilla","criteoDomain"
-"alfinaldelapalmera-origin.sevilla.abc.es","abcsevilla","criteoDomain"
-"docker-sevilla.abc.es","abcsevilla","criteoDomain"
-"gurmehuelva-sevilla.abc.es","abcsevilla","criteoDomain"
-"new2-sevilla.abc.es","abcsevilla","criteoDomain"
-"new-sevilla.abc.es","abcsevilla","criteoDomain"
-"pre2-sevilla.abc.es","abcsevilla","criteoDomain"
-"pre3-sevilla.abc.es","abcsevilla","criteoDomain"
-"pren.sevilla.abc.es","abcsevilla","criteoDomain"
-"pre-sevilla.abc.es","abcsevilla","criteoDomain"
-"sevillasolidaria.sevilla.abc.es","abcsevilla","criteoDomain"
-"static4-sevilla.abc.es","abcsevilla","criteoDomain"
-"argentina.as.com","as","criteoDomain"
-"as.com","as","criteoDomain"
-"as.com.","as","criteoDomain"
-"baloncesto.as.com","as","criteoDomain"
-"ciclismo.as.com","as","criteoDomain"
-"opinion.as.com","as","criteoDomain"
-"parrillatv.int.as.com","as","criteoDomain"
-"resultados.as.com","as","criteoDomain"
-"sa.as.com","as","criteoDomain"
-"servicios.as.com","as","criteoDomain"
-"tenis.as.com","as","criteoDomain"
-"za.as.com","as","criteoDomain"
-"dispatcher.results.as.com","as","criteoDomain"
-"dispatcher.results.dev.as.com","as","criteoDomain"
-"dispatcher.results.int.as.com","as","criteoDomain"
-"en.as.com","as","criteoDomain"
-"entradas.as.com","as","criteoDomain"
-"esports.as.com","as_esports","criteoDomain"
-"local-arc.be.as.com","as","criteoDomain"
-"masdeporte.as.com","as","criteoDomain"
-"movil.as.com","as","criteoDomain"
-"chile.as.com","as","criteoDomain"
-"colombia.as.com","as","criteoDomain"
-"futbol.as.com","as_futbol","criteoDomain"
-"juegos.as.com","as_juegos","criteoDomain"
-"mexico.as.com","as","criteoDomain"
-"motor.as.com","as_motor","criteoDomain"
-"peru.as.com","as","criteoDomain"
-"us.as.com","as","criteoDomain"
-"biwenger.as.com","biwenger","criteoDomain"
-"blogs.burgosconecta.es","burgosconecta","criteoDomain"
-"pre-www.burgosconecta.es","burgosconecta","criteoDomain"
-"proyectos.burgosconecta.es","burgosconecta","criteoDomain"
-"burgosconecta.es","burgosconecta","criteoDomain"
-"burgosconecta.es.","burgosconecta","criteoDomain"
-"dia-de-la-mujer.burgosconecta.es","burgosconecta","criteoDomain"
-"leer.burgosconecta.es","burgosconecta","criteoDomain"
-"local-www.burgosconecta.es","burgosconecta","criteoDomain"
-"loteria.burgosconecta.es","burgosconecta","criteoDomain"
-"new-www.burgosconecta.es","burgosconecta","criteoDomain"
-"play.cadenadial.com","cadenadial","criteoDomain"
-"pre.cadenadial.com","cadenadial","criteoDomain"
-"pre.play.cadenadial.com","cadenadial","criteoDomain"
-"cadenadial.com","cadenadial","criteoDomain"
-"dev.play.cadenadial.com","cadenadial","criteoDomain"
-"local.cadenadial.com","cadenadial","criteoDomain"
-"local.play.cadenadial.com","cadenadial","criteoDomain"
-"cadenaser.com","cadenaser","criteoDomain"
-"play.cadenaser.com","cadenaser","criteoDomain"
-"playser-pre.cadenaser.com","cadenaser","criteoDomain"
-"res.cadenaser.com","cadenaser","criteoDomain"
-"blogs.canarias7.es","canarias7","criteoDomain"
-"canarias7.es","canarias7","criteoDomain"
-"cartelera.canarias7.es","canarias7","criteoDomain"
-"new-www.canarias7.es","canarias7","criteoDomain"
-"local.alacarta.caracol.com.co","caracol","criteoDomain"
-"locarac.caracol.com.co","caracol","criteoDomain"
-"caracol.com.co","caracol","criteoDomain"
-"dev.alacarta.caracol.com.co","caracol","criteoDomain"
-"alacarta.caracol.com.co","caracol","criteoDomain"
-"pre.alacarta.caracol.com.co","caracol","criteoDomain"
-"codigounico.com","codigounico","criteoDomain"
-"local.codigounico.com","codigounico","criteoDomain"
-"pre-www.codigounico.com","codigounico","criteoDomain"
-"elpoderdelquerer.diariosur.es","diariosur","criteoDomain"
-"eventos.diariosur.es","diariosur","criteoDomain"
-"local-www.diariosur.es","diariosur","criteoDomain"
-"loteria.diariosur.es","diariosur","criteoDomain"
-"malagacf.diariosur.es","diariosur","criteoDomain"
-"malagaenlamesa.com","diariosur","criteoDomain"
-"blogs.diariosur.es","diariosur","criteoDomain"
-"blogs-new.diariosur.es","diariosur","criteoDomain"
-"diariosur.es","diariosur","criteoDomain"
-"diariosur.es.","diariosur","criteoDomain"
-"agenda.diariosur.es","diariosur","criteoDomain"
-"app.diariosur.es","diariosur","criteoDomain"
-"areapersonal.diariosur.es","diariosur","criteoDomain"
-"new-www.diariosur.es","diariosur","criteoDomain"
-"podcast.diariosur.es","diariosur","criteoDomain"
-"pre-blogs.diariosur.es","diariosur","criteoDomain"
-"pre-preview-www.diariosur.es","diariosur","criteoDomain"
-"preview-www.diariosur.es","diariosur","criteoDomain"
-"pre-www.diariosur.es","diariosur","criteoDomain"
-"pre-www.malagaenlamesa.com","diariosur","criteoDomain"
-"proyectos.diariosur.es","diariosur","criteoDomain"
-"secure.diariosur.es","diariosur","criteoDomain"
-"unicaja.diariosur.es","diariosur","criteoDomain"
-"foros.diariovasco.com","diariovasco","criteoDomain"
-"fotolector.diariovasco.com","diariovasco","criteoDomain"
-"guiagastronomika.diariovasco.com","diariovasco","criteoDomain"
-"local-real-sociedad.diariovasco.com","diariovasco","criteoDomain"
-"local-www.diariovasco.com","diariovasco","criteoDomain"
-"mendiz-mendi.diariovasco.com","diariovasco","criteoDomain"
-"des-eguraldia.diariovasco.com","diariovasco","criteoDomain"
-"des-mendiz-mendi.diariovasco.com","diariovasco","criteoDomain"
-"des-www.diariovasco.com","diariovasco","criteoDomain"
-"diariovasco.com","diariovasco","criteoDomain"
-"diariovasco.com.","diariovasco","criteoDomain"
-"agenda.diariovasco.com","diariovasco","criteoDomain"
-"app2.diariovasco.com","diariovasco","criteoDomain"
-"areapersonal.diariovasco.com","diariovasco","criteoDomain"
-"blogs.diariovasco.com","diariovasco","criteoDomain"
-"blogs.diariovasco.com.","diariovasco","criteoDomain"
-"blogs-new.diariovasco.com","diariovasco","criteoDomain"
-"cdn.diariovasco.com","diariovasco","criteoDomain"
-"clasica-san-sebastian.diariovasco.com","diariovasco","criteoDomain"
-"concursos.diariovasco.com","diariovasco","criteoDomain"
-"new-clasica-san-sebastian.diariovasco.com","diariovasco","criteoDomain"
-"new-real-sociedad.diariovasco.com","diariovasco","criteoDomain"
-"new-sdeibar.diariovasco.com","diariovasco","criteoDomain"
-"new-tamborrada.diariovasco.com","diariovasco","criteoDomain"
-"new-vueltapaisvasco.diariovasco.com","diariovasco","criteoDomain"
-"new-www.diariovasco.com","diariovasco","criteoDomain"
-"playas.diariovasco.com","diariovasco","criteoDomain"
-"pre-blogs.diariovasco.com","diariovasco","criteoDomain"
-"pre-preview-www.diariovasco.com","diariovasco","criteoDomain"
-"preview-www.diariovasco.com","diariovasco","criteoDomain"
-"pre-www.diariovasco.com","diariovasco","criteoDomain"
-"real-sociedad.diariovasco.com","diariovasco","criteoDomain"
-"sdeibar.diariovasco.com","diariovasco","criteoDomain"
-"tamborrada.diariovasco.com","diariovasco","criteoDomain"
-"vueltapaisvasco.diariovasco.com","diariovasco","criteoDomain"
-"ww.diariovasco.com","diariovasco","criteoDomain"
-"elbierzonoticias.com","elbierzonoticias","criteoDomain"
-"local-www.elbierzonoticias.com","elbierzonoticias","criteoDomain"
-"new-www.elbierzonoticias.com","elbierzonoticias","criteoDomain"
-"elcomercio.es","elcomercio","criteoDomain"
-"elcomercio.es.","elcomercio","criteoDomain"
-"esquelas.elcomercio.es","elcomercio","criteoDomain"
-"hemeroteca.elcomercio.es","elcomercio","criteoDomain"
-"leer.elcomercio.es","elcomercio","criteoDomain"
-"local-hemeroteca.elcomercio.es","elcomercio","criteoDomain"
-"local-www.elcomercio.es","elcomercio","criteoDomain"
-"loteria.elcomercio.es","elcomercio","criteoDomain"
-"mejorweb.elcomercio.es","elcomercio","criteoDomain"
-"blogs.elcomercio.es","elcomercio","criteoDomain"
-"blogs-new.elcomercio.es","elcomercio","criteoDomain"
-"canales.elcomercio.es","elcomercio","criteoDomain"
-"clasificaciones.elcomercio.es","elcomercio","criteoDomain"
-"agenda.elcomercio.es","elcomercio","criteoDomain"
-"app.elcomercio.es","elcomercio","criteoDomain"
-"areapersonal.elcomercio.es","elcomercio","criteoDomain"
-"new-www.elcomercio.es","elcomercio","criteoDomain"
-"pre-blogs.elcomercio.es","elcomercio","criteoDomain"
-"pre-hemeroteca.elcomercio.es","elcomercio","criteoDomain"
-"preview-www.elcomercio.es","elcomercio","criteoDomain"
-"pre-www.elcomercio.es","elcomercio","criteoDomain"
-"proyectos.elcomercio.es","elcomercio","criteoDomain"
-"proyectos-vm.elcomercio.es","elcomercio","criteoDomain"
-"secure.elcomercio.es","elcomercio","criteoDomain"
-"hemeroteca.elcorreo.com","elcorreo","criteoDomain"
-"info.elcorreo.com","elcorreo","criteoDomain"
-"inscripciones.elcorreo.com","elcorreo","criteoDomain"
-"jantour.elcorreo.com","elcorreo","criteoDomain"
-"leer.elcorreo.com","elcorreo","criteoDomain"
-"local-agenda.elcorreo.com","elcorreo","criteoDomain"
-"local-cartelera.elcorreo.com","elcorreo","criteoDomain"
-"local-hemeroteca.elcorreo.com","elcorreo","criteoDomain"
-"local-www.elcorreo.com","elcorreo","criteoDomain"
-"loteria.elcorreo.com","elcorreo","criteoDomain"
-"mirandes.elcorreo.com","elcorreo","criteoDomain"
-"new-alaves.elcorreo.com","elcorreo","criteoDomain"
-"new-athletic.elcorreo.com","elcorreo","criteoDomain"
-"new-baskonia.elcorreo.com","elcorreo","criteoDomain"
-"new-bilbaobasket.elcorreo.com","elcorreo","criteoDomain"
-"new-www.elcorreo.com","elcorreo","criteoDomain"
-"pasatiempos.elcorreo.com","elcorreo","criteoDomain"
-"pre1-www.elcorreo.com","elcorreo","criteoDomain"
-"pre-athletic.elcorreo.com","elcorreo","criteoDomain"
-"pre-hemeroteca.elcorreo.com","elcorreo","criteoDomain"
-"preview-www.elcorreo.com","elcorreo","criteoDomain"
-"pro0-www.elcorreo.com","elcorreo","criteoDomain"
-"rutas.elcorreo.com","elcorreo","criteoDomain"
-"secure.elcorreo.com","elcorreo","criteoDomain"
-"servicios.elcorreo.com","elcorreo","criteoDomain"
-"trafico.elcorreo.com","elcorreo","criteoDomain"
-"agenda.elcorreo.com","elcorreo","criteoDomain"
-"alaves.elcorreo.com","elcorreo","criteoDomain"
-"app.elcorreo.com","elcorreo","criteoDomain"
-"areapersonal.elcorreo.com","elcorreo","criteoDomain"
-"athletic.elcorreo.com","elcorreo","criteoDomain"
-"baskonia.elcorreo.com","elcorreo","criteoDomain"
-"bilbaobasket.elcorreo.com","elcorreo","criteoDomain"
-"blogs.elcorreo.com","elcorreo","criteoDomain"
-"comercios-locales.elcorreo.com","elcorreo","criteoDomain"
-"des-vocuser.elcorreo.com","elcorreo","criteoDomain"
-"agenda-origin.elcorreo.com","elcorreo","criteoDomain"
-"athletic.elcorreo.com.","elcorreo","criteoDomain"
-"blogs-new.elcorreo.com","elcorreo","criteoDomain"
-"concursos.elcorreo.com","elcorreo","criteoDomain"
-"desn.elcorreo.com","elcorreo","criteoDomain"
-"des-www.elcorreo.com","elcorreo","criteoDomain"
-"elcorreo.com","elcorreo","criteoDomain"
-"elcorreo.com.","elcorreo","criteoDomain"
-"especial.elcorreo.com","elcorreo","criteoDomain"
-"esquelas.elcorreo.com","elcorreo","criteoDomain"
-"kioskoymas.elcorreo.com","elcorreo","criteoDomain"
-"local-athletic.elcorreo.com","elcorreo","criteoDomain"
-"local-canalmeteo-v2.elcorreo.com","elcorreo","criteoDomain"
-"new-mirandes.elcorreo.com","elcorreo","criteoDomain"
-"pre2-www.elcorreo.com","elcorreo","criteoDomain"
-"pre3-www.elcorreo.com","elcorreo","criteoDomain"
-"pre-agenda.elcorreo.com","elcorreo","criteoDomain"
-"pre-blogs.elcorreo.com","elcorreo","criteoDomain"
-"pre-cartelera.elcorreo.com","elcorreo","criteoDomain"
-"pre-local.elcorreo.com","elcorreo","criteoDomain"
-"pren.elcorreo.com","elcorreo","criteoDomain"
-"pre-www.elcorreo.com","elcorreo","criteoDomain"
-"pre-xl.elcorreo.com","elcorreo","criteoDomain"
-"sire.elcorreo.com","elcorreo","criteoDomain"
-"eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"eldiariomontanes.es.","eldiariomontanes","criteoDomain"
-"hemeroteca.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"hemeroteca.eldiariomontanes.es.","eldiariomontanes","criteoDomain"
-"local-hemeroteca.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"local-www.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"loteria.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"blogs.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"cabeceras.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"agenda.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"app.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"areapersonal.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"new-www.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"pre-blogs.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"pre-hemeroteca.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"preview-www.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"pre-www.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"secure.eldiariomontanes.es","eldiariomontanes","criteoDomain"
-"elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"elnortedecastilla.es.","elnortedecastilla","criteoDomain"
-"especial.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"hemeroteca.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"leer.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"local-www.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"loteria.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"new-soydearroyo.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"blogs.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"blogs-new.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"agenda.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"app.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"areapersonal.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"new-www.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"pre-blogs.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"preview-www.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"pre-www.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"proyectos.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"realvalladolid.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"secure.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"soydearroyo.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"static-cache.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"tpv.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"vmv.elnortedecastilla.es","elnortedecastilla","criteoDomain"
-"motor.elpais.com","elpais_motor","criteoDomain"
-"pre.motor.elpais.com","elpais_motor","criteoDomain"
-"pre.smoda.elpais.com","elpais_smoda","criteoDomain"
-"arc-sandbox.elpais.com","elpais","criteoDomain"
-"brasil.elpais.com","elpais","criteoDomain"
-"ccaa.elpais.com","elpais","criteoDomain"
-"cultura.elpais.com","elpais_cultura","criteoDomain"
-"deportes.elpais.com","elpais_deportes","criteoDomain"
-"elpais.com","elpais","criteoDomain"
-"elpaissemanal.elpais.com","elpais_eps","criteoDomain"
-"english.elpais.com","elpais","criteoDomain"
-"eskup.elpais.com","elpais","criteoDomain"
-"horoscopo.elpais.com","elpais","criteoDomain"
-"images.inenglish.elpais.com","elpais","criteoDomain"
-"internacional.elpais.com","elpais","criteoDomain"
-"politica.elpais.com","elpais","criteoDomain"
-"resultados.elpais.com","elpais","criteoDomain"
-"servicios.elpais.com","elpais","criteoDomain"
-"static.elpais.com","elpais","criteoDomain"
-"t.newsletter.elpais.com","elpais","criteoDomain"
-"widgets.elpais.com","elpais","criteoDomain"
-"cat.elpais.com","elpais_cat","criteoDomain"
-"euribor.com.es","elpais_finanzas_cincodias_euribor","criteoDomain"
-"elcomidista.elpais.com","elpais_comidista","criteoDomain"
-"elviajero.elpais.com","elpais_elviajero","criteoDomain"
-"cincodias.elpais.com","elpais_finanzas_cincodias","criteoDomain"
-"retina.elpais.com","elpais_finanzas_retina","criteoDomain"
-"verne.elpais.com","elpais_verne","criteoDomain"
-"fregenal.hoy.es","hoy","criteoDomain"
-"fuentedecantos.hoy.es","hoy","criteoDomain"
-"guarena.hoy.es","hoy","criteoDomain"
-"hemeroteca.hoy.es","hoy","criteoDomain"
-"herreradelduque.hoy.es","hoy","criteoDomain"
-"horoscopo.mujerhoy.com","hoy","criteoDomain"
-"hoy.es","hoy","criteoDomain"
-"hoy.es.","hoy","criteoDomain"
-"jaraizdelavera.hoy.es","hoy","criteoDomain"
-"jerezdeloscaballeros.hoy.es","hoy","criteoDomain"
-"lazarza.hoy.es","hoy","criteoDomain"
-"leer.hoy.es","hoy","criteoDomain"
-"llerena.hoy.es","hoy","criteoDomain"
-"local-blogs.mujerhoy.com","hoy","criteoDomain"
-"local-calamonte.hoy.es","hoy","criteoDomain"
-"local-fregenal.hoy.es","hoy","criteoDomain"
-"local-hemeroteca.hoy.es","hoy","criteoDomain"
-"local-navalmoral.hoy.es","hoy","criteoDomain"
-"local-solidario.hoy.es","hoy","criteoDomain"
-"local-www.hoy.es","hoy","criteoDomain"
-"local-www.mujerhoy.com","hoy","criteoDomain"
-"local-zafra.hoy.es","hoy","criteoDomain"
-"lossantosdemaimona.hoy.es","hoy","criteoDomain"
-"loteria.hoy.es","hoy","criteoDomain"
-"malpartidadecaceres.hoy.es","hoy","criteoDomain"
-"miajadas.hoy.es","hoy","criteoDomain"
-"monesterio.hoy.es","hoy","criteoDomain"
-"mujerhoy.com","hoy","criteoDomain"
-"navalmoral.hoy.es","hoy","criteoDomain"
-"new-almendralejo.hoy.es","hoy","criteoDomain"
-"new-arroyodelaluz.hoy.es","hoy","criteoDomain"
-"new-campanario.hoy.es","hoy","criteoDomain"
-"new-donbenito.hoy.es","hoy","criteoDomain"
-"new-fregenal.hoy.es","hoy","criteoDomain"
-"new-jaraizdelavera.hoy.es","hoy","criteoDomain"
-"new-lossantosdemaimona.hoy.es","hoy","criteoDomain"
-"new-navalmoral.hoy.es","hoy","criteoDomain"
-"new-quintana.hoy.es","hoy","criteoDomain"
-"new-solidario.hoy.es","hoy","criteoDomain"
-"new-trujillo.hoy.es","hoy","criteoDomain"
-"new-villafranca.hoy.es","hoy","criteoDomain"
-"new-villanueva.hoy.es","hoy","criteoDomain"
-"blogs.hoy.es","hoy","criteoDomain"
-"blogs-new.hoy.es","hoy","criteoDomain"
-"calamonte.hoy.es","hoy","criteoDomain"
-"campanario.hoy.es","hoy","criteoDomain"
-"casardecaceres.hoy.es","hoy","criteoDomain"
-"castuera.hoy.es","hoy","criteoDomain"
-"coria.hoy.es","hoy","criteoDomain"
-"desnlocal.hoy.es","hoy","criteoDomain"
-"des-vocuser.hoy.es","hoy","criteoDomain"
-"agenda.hoy.es","hoy","criteoDomain"
-"app.hoy.es","hoy","criteoDomain"
-"arroyodelaluz.hoy.es","hoy","criteoDomain"
-"new-www.hoy.es","hoy","criteoDomain"
-"olivenza.hoy.es","hoy","criteoDomain"
-"pre-almendralejo.hoy.es","hoy","criteoDomain"
-"pre-blogs.hoy.es","hoy","criteoDomain"
-"pre-calamonte.hoy.es","hoy","criteoDomain"
-"pre-donbenito.hoy.es","hoy","criteoDomain"
-"pre-hemeroteca.hoy.es","hoy","criteoDomain"
-"preview-www.hoy.es","hoy","criteoDomain"
-"pre-villanueva.hoy.es","hoy","criteoDomain"
-"pre-www.hoy.es","hoy","criteoDomain"
-"puebladelacalzada.hoy.es","hoy","criteoDomain"
-"quienesquien.hoy.es","hoy","criteoDomain"
-"quintana.hoy.es","hoy","criteoDomain"
-"servicios.hoy.es","hoy","criteoDomain"
-"solidario.hoy.es","hoy","criteoDomain"
-"talarrubias.hoy.es","hoy","criteoDomain"
-"talayuela.hoy.es","hoy","criteoDomain"
-"trujillo.hoy.es","hoy","criteoDomain"
-"valverdedeleganes.hoy.es","hoy","criteoDomain"
-"villafranca.hoy.es","hoy","criteoDomain"
-"villanuevadelfresno.hoy.es","hoy","criteoDomain"
-"zafra.hoy.es","hoy","criteoDomain"
-"zalamea.hoy.es","hoy","criteoDomain"
-"huffingtonpost.es","huffingtonpost","criteoDomain"
-"local.www.huffingtonpost.es","huffingtonpost","criteoDomain"
-"dev.www.huffingtonpost.es","huffingtonpost","criteoDomain"
-"beta.www.huffingtonpost.es","huffingtonpost","criteoDomain"
-"qa.www.huffingtonpost.es","huffingtonpost","criteoDomain"
-"qa5.www.huffingtonpost.es","huffingtonpost","criteoDomain"
-"staging.www.huffingtonpost.es","huffingtonpost","criteoDomain"
-"eltelevisero.com","huffingtonpost_eltelevisero","criteoDomain"
-"strambotic.com","huffingtonpost_strambotic","criteoDomain"
-"elejido.ideal.es","ideal","criteoDomain"
-"formacion.ideal.es","ideal","criteoDomain"
-"gasolineras.ideal.es","ideal","criteoDomain"
-"gourmet.ideal.es","ideal","criteoDomain"
-"granadacf.ideal.es","ideal","criteoDomain"
-"guadix.ideal.es","ideal","criteoDomain"
-"hemeroteca.ideal.es","ideal","criteoDomain"
-"huetorvega.ideal.es","ideal","criteoDomain"
-"ideal.es","ideal","criteoDomain"
-"ideal.es.","ideal","criteoDomain"
-"kioskoymas.ideal.es","ideal","criteoDomain"
-"lasgabias.ideal.es","ideal","criteoDomain"
-"lazubia.ideal.es","ideal","criteoDomain"
-"levante.ideal.es","ideal","criteoDomain"
-"linaresdeportivo.ideal.es","ideal","criteoDomain"
-"local-www.ideal.es","ideal","criteoDomain"
-"loja.ideal.es","ideal","criteoDomain"
-"maracena.ideal.es","ideal","criteoDomain"
-"micarrera.ideal.es","ideal","criteoDomain"
-"new-adra.ideal.es","ideal","criteoDomain"
-"new-elejido.ideal.es","ideal","criteoDomain"
-"new-gourmet.ideal.es","ideal","criteoDomain"
-"new-huetorvega.ideal.es","ideal","criteoDomain"
-"new-lasgabias.ideal.es","ideal","criteoDomain"
-"new-levante.ideal.es","ideal","criteoDomain"
-"new-roquetas.ideal.es","ideal","criteoDomain"
-"new-ubeda.ideal.es","ideal","criteoDomain"
-"blogs.ideal.es","ideal","criteoDomain"
-"calendarios.ideal.es","ideal","criteoDomain"
-"cartelera.ideal.es","ideal","criteoDomain"
-"cazorla.ideal.es","ideal","criteoDomain"
-"churrianadelavega.ideal.es","ideal","criteoDomain"
-"adra.ideal.es","ideal","criteoDomain"
-"alcalalareal.ideal.es","ideal","criteoDomain"
-"almanzora.ideal.es","ideal","criteoDomain"
-"alzalapata.ideal.es","ideal","criteoDomain"
-"andujar.ideal.es","ideal","criteoDomain"
-"app.ideal.es","ideal","criteoDomain"
-"areapersonal.ideal.es","ideal","criteoDomain"
-"armilla.ideal.es","ideal","criteoDomain"
-"baza.ideal.es","ideal","criteoDomain"
-"new-www.ideal.es","ideal","criteoDomain"
-"ogijares.ideal.es","ideal","criteoDomain"
-"pre-blogs.ideal.es","ideal","criteoDomain"
-"pre-gourmet.ideal.es","ideal","criteoDomain"
-"pre-www.ideal.es","ideal","criteoDomain"
-"realjaen.ideal.es","ideal","criteoDomain"
-"restaurantes.gourmet.ideal.es","ideal","criteoDomain"
-"roquetas.ideal.es","ideal","criteoDomain"
-"secure.ideal.es","ideal","criteoDomain"
-"sierramagina.ideal.es","ideal","criteoDomain"
-"tools.ideal.es","ideal","criteoDomain"
-"ubeda.ideal.es","ideal","criteoDomain"
-"udalmeria.ideal.es","ideal","criteoDomain"
-"waste.ideal.es","ideal","criteoDomain"
-"escucha.kebuena.com.mx","kebuena","criteoDomain"
-"kebuena.com.mx","kebuena","criteoDomain"
-"nateevo.kebuena.com.mx","kebuena","criteoDomain"
-"pre.kebuena.com.mx","kebuena","criteoDomain"
-"entretenimiento.larioja.com","larioja","criteoDomain"
-"hemeroteca.larioja.com","larioja","criteoDomain"
-"innovando.larioja.com","larioja","criteoDomain"
-"larioja.com","larioja","criteoDomain"
-"larioja.com.","larioja","criteoDomain"
-"local-www.larioja.com","larioja","criteoDomain"
-"local-www.lomejordelvinoderioja.com","larioja","criteoDomain"
-"lomejordelvinoderioja.com","larioja","criteoDomain"
-"loteria.larioja.com","larioja","criteoDomain"
-"blogs.larioja.com","larioja","criteoDomain"
-"blogs-new.larioja.com","larioja","criteoDomain"
-"degustalarioja.com","larioja","criteoDomain"
-"digitales.larioja.com","larioja","criteoDomain"
-"agenda.larioja.com","larioja","criteoDomain"
-"agenda-origin.larioja.com","larioja","criteoDomain"
-"app.larioja.com","larioja","criteoDomain"
-"new-www.degustalarioja.com","larioja","criteoDomain"
-"new-www.larioja.com","larioja","criteoDomain"
-"new-www.lomejordelvinoderioja.com","larioja","criteoDomain"
-"openbttlarioja.es","larioja","criteoDomain"
-"pre-blogs.larioja.com","larioja","criteoDomain"
-"pre-hemeroteca.larioja.com","larioja","criteoDomain"
-"preview-www.larioja.com","larioja","criteoDomain"
-"pre-www.larioja.com","larioja","criteoDomain"
-"pre-www.lomejordelvinoderioja.com","larioja","criteoDomain"
-"lasprovincias.es","lasprovincias","criteoDomain"
-"lasprovincias.es.","lasprovincias","criteoDomain"
-"leer.lasprovincias.es","lasprovincias","criteoDomain"
-"levanteud.lasprovincias.es","lasprovincias","criteoDomain"
-"local-www.lasprovincias.es","lasprovincias","criteoDomain"
-"loteria.lasprovincias.es","lasprovincias","criteoDomain"
-"new-traductor.lasprovincias.es","lasprovincias","criteoDomain"
-"blogs.lasprovincias.es","lasprovincias","criteoDomain"
-"blogs-new.lasprovincias.es","lasprovincias","criteoDomain"
-"comerybeber.lasprovincias.es","lasprovincias","criteoDomain"
-"cosaspracticas.lasprovincias.es","lasprovincias","criteoDomain"
-"des-traductor.lasprovincias.es","lasprovincias","criteoDomain"
-"agenda.lasprovincias.es","lasprovincias","criteoDomain"
-"app2.lasprovincias.es","lasprovincias","criteoDomain"
-"areapersonal.lasprovincias.es","lasprovincias","criteoDomain"
-"bicivalencia.lasprovincias.es","lasprovincias","criteoDomain"
-"new-www.lasprovincias.es","lasprovincias","criteoDomain"
-"pre-blogs.lasprovincias.es","lasprovincias","criteoDomain"
-"preview-www.lasprovincias.es","lasprovincias","criteoDomain"
-"pre-www.lasprovincias.es","lasprovincias","criteoDomain"
-"pruebas.lasprovincias.es","lasprovincias","criteoDomain"
-"secure.lasprovincias.es","lasprovincias","criteoDomain"
-"servicios.lasprovincias.es","lasprovincias","criteoDomain"
-"traductor.lasprovincias.es","lasprovincias","criteoDomain"
-"valenciacf.lasprovincias.es","lasprovincias","criteoDomain"
-"www-origin.lasprovincias.es","lasprovincias","criteoDomain"
-"admin.lavanguardia.biz","lavanguardia","criteoDomain"
-"admin.lavanguardia.com","lavanguardia","criteoDomain"
-"devel.lavanguardia.com","lavanguardia","criteoDomain"
-"hemeroteca.lavanguardia.com","lavanguardia","criteoDomain"
-"horoscopo.lavanguardia.com","lavanguardia","criteoDomain"
-"imghandler.lavanguardia.biz","lavanguardia","criteoDomain"
-"imghandler.lavanguardia.com","lavanguardia","criteoDomain"
-"lavanguardia.biz","lavanguardia","criteoDomain"
-"lavanguardia.com","lavanguardia","criteoDomain"
-"lavanguardia.com.","lavanguardia","criteoDomain"
-"rsc.lavanguardia.com","lavanguardia","criteoDomain"
-"stories.lavanguardia.com","lavanguardia","criteoDomain"
-"temas.lavanguardia.biz","lavanguardia","criteoDomain"
-"widgets.lavanguardia.com","lavanguardia","criteoDomain"
-"fccartagena.laverdad.es","laverdad","criteoDomain"
-"hemeroteca.laverdad.es","laverdad","criteoDomain"
-"laverdad.es","laverdad","criteoDomain"
-"laverdad.es.","laverdad","criteoDomain"
-"leer.laverdad.es","laverdad","criteoDomain"
-"local-hemeroteca.laverdad.es","laverdad","criteoDomain"
-"local-sanjavier.laverdad.es","laverdad","criteoDomain"
-"local-soydecaravaca.laverdad.es","laverdad","criteoDomain"
-"local-www.laverdad.es","laverdad","criteoDomain"
-"loteriadelnino.laverdad.es","laverdad","criteoDomain"
-"loteriadelnino-origin.laverdad.es","laverdad","criteoDomain"
-"loteriadenavidad-origin.laverdad.es","laverdad","criteoDomain"
-"new-soydecaravaca.laverdad.es","laverdad","criteoDomain"
-"blogs.laverdad.es","laverdad","criteoDomain"
-"blogs-new.laverdad.es","laverdad","criteoDomain"
-"cartelera.laverdad.es","laverdad","criteoDomain"
-"des-www.laverdad.es","laverdad","criteoDomain"
-"agenda.laverdad.es","laverdad","criteoDomain"
-"app.laverdad.es","laverdad","criteoDomain"
-"areapersonal.laverdad.es","laverdad","criteoDomain"
-"new-www.laverdad.es","laverdad","criteoDomain"
-"pre1-www.laverdad.es","laverdad","criteoDomain"
-"pre2-www.laverdad.es","laverdad","criteoDomain"
-"pre3-www.laverdad.es","laverdad","criteoDomain"
-"pre-blogs.laverdad.es","laverdad","criteoDomain"
-"pre-hemeroteca.laverdad.es","laverdad","criteoDomain"
-"pre-preview-www.laverdad.es","laverdad","criteoDomain"
-"preview-www.laverdad.es","laverdad","criteoDomain"
-"pre-www.laverdad.es","laverdad","criteoDomain"
-"pro0-www.laverdad.es","laverdad","criteoDomain"
-"realmurcia.laverdad.es","laverdad","criteoDomain"
-"resultados-loteria.laverdad.es","laverdad","criteoDomain"
-"sanjavier.laverdad.es","laverdad","criteoDomain"
-"soydecaravaca.laverdad.es","laverdad","criteoDomain"
-"torrepacheco.laverdad.es","laverdad","criteoDomain"
-"ucamcf.laverdad.es","laverdad","criteoDomain"
-"gateway-test.lavozdeasturias.es","lavozdeasturias","criteoDomain"
-"lavozdeasturias.es","lavozdeasturias","criteoDomain"
-"galego.lavozdegalicia.es","lavozdegalicia","criteoDomain"
-"gateway-test.lavozdegalicia.es","lavozdegalicia","criteoDomain"
-"lavozdegalicia.es","lavozdegalicia","criteoDomain"
-"media.lavozdegalicia.es","lavozdegalicia","criteoDomain"
-"2021.lavozdegalicia.es","lavozdegalicia","criteoDomain"
-"walter.lavozdegalicia.es","lavozdegalicia","criteoDomain"
-"walter-test.lavozdegalicia.es","lavozdegalicia","criteoDomain"
-"lavozdigital.es","lavozdigital","criteoDomain"
-"new2-www.lavozdigital.es","lavozdigital","criteoDomain"
-"cadizsolidaria-origin.www.lavozdigital.es","lavozdigital","criteoDomain"
-"carnaval.lavozdigital.es","lavozdigital","criteoDomain"
-"carnavaldenorteasur.blogspot.com","lavozdigital","criteoDomain"
-"docker-www.lavozdigital.es","lavozdigital","criteoDomain"
-"new-www.lavozdigital.es","lavozdigital","criteoDomain"
-"pre2-www.lavozdigital.es","lavozdigital","criteoDomain"
-"pre3-www.lavozdigital.es","lavozdigital","criteoDomain"
-"pre-carnaval.lavozdigital.es","lavozdigital","criteoDomain"
-"pre-www.lavozdigital.es","lavozdigital","criteoDomain"
-"especial.leonoticias.com","leonoticias","criteoDomain"
-"leonoticias.com","leonoticias","criteoDomain"
-"local-www.leonoticias.com","leonoticias","criteoDomain"
-"loteria.leonoticias.com","leonoticias","criteoDomain"
-"app.leonoticias.com","leonoticias","criteoDomain"
-"blogs.leonoticias.com","leonoticias","criteoDomain"
-"new-www.leonoticias.com","leonoticias","criteoDomain"
-"pre-www.leonoticias.com","leonoticias","criteoDomain"
-"librotea.elpais.com","librotea","criteoDomain"
-"pre.librotea.elpais.com","librotea","criteoDomain"
-"envivo.los40.cl","los40","criteoDomain"
-"escucha.los40.com.mx","los40","criteoDomain"
-"escucha.los40.com.pa","los40","criteoDomain"
-"escuche.los40.com.co","los40","criteoDomain"
-"local.envivo.los40.cl","los40","criteoDomain"
-"local.escucha.los40.com.mx","los40","criteoDomain"
-"local.escuche.los40.com.co","los40","criteoDomain"
-"local.play.los40.com","los40","criteoDomain"
-"local.player.los40.com.ar","los40","criteoDomain"
-"los40.cl","los40","criteoDomain"
-"los40.com","los40","criteoDomain"
-"los40.com.ar","los40","criteoDomain"
-"los40.com.co","los40","criteoDomain"
-"los40.com.mx","los40","criteoDomain"
-"los40.com.pa","los40","criteoDomain"
-"dev.escuche.los40.com.co","los40","criteoDomain"
-"dev.play.los40.com","los40","criteoDomain"
-"play.los40.com","los40","criteoDomain"
-"player.los40.com.ar","los40","criteoDomain"
-"pre.escucha.los40.com.mx","los40","criteoDomain"
-"pre.escuche.los40.com.co","los40","criteoDomain"
-"pre.los40.cl","los40","criteoDomain"
-"pre.play.los40.com","los40","criteoDomain"
-"pre.player.los40.com.ar","los40","criteoDomain"
-"radiotubers.los40.com","los40","criteoDomain"
-"play.maxima.fm","maxima","criteoDomain"
-"meristation.as.com","meristation","criteoDomain"
-"meristation.int.as.com","meristation","criteoDomain"
-"blogs.mujerhoy.com","mujerhoy","criteoDomain"
-"des-www.mujerhoy.com","mujerhoy","criteoDomain"
-"areapersonal.mujerhoy.com","mujerhoy","criteoDomain"
-"areapersonal-predes.mujerhoy.com","mujerhoy","criteoDomain"
-"new-www.mujerhoy.com","mujerhoy","criteoDomain"
-"pre.mujerhoy.com","mujerhoy","criteoDomain"
-"pre2-www.mujerhoy.com","mujerhoy","criteoDomain"
-"pre3-www.mujerhoy.com","mujerhoy","criteoDomain"
-"pre-blogs.mujerhoy.com","mujerhoy","criteoDomain"
-"pre-horoscopo.mujerhoy.com","mujerhoy","criteoDomain"
-"pren.mujerhoy.com","mujerhoy","criteoDomain"
-"pre-www.mujerhoy.com","mujerhoy","criteoDomain"
-"pro0-www.mujerhoy.com","mujerhoy","criteoDomain"
-"recetas.mujerhoy.com","mujerhoy","criteoDomain"
-"www-mujerhoy-com.cdn.ampproject.org","mujerhoy","criteoDomain"
-"www-new.mujerhoy.com","mujerhoy","criteoDomain"
-"imghandler.mundodeportivo.biz","mundodeportivo","criteoDomain"
-"imghandler.mundodeportivo.com","mundodeportivo","criteoDomain"
-"mundodeportivo.biz","mundodeportivo","criteoDomain"
-"mundodeportivo.com","mundodeportivo","criteoDomain"
-"mundodeportivo.com.","mundodeportivo","criteoDomain"
-"devel.mundodeportivo.com","mundodeportivo","criteoDomain"
-"admin.mundodeportivo.biz","mundodeportivo","criteoDomain"
-"admin.mundodeportivo.com","mundodeportivo","criteoDomain"
-"ni.mundodeportivo.biz","mundodeportivo","criteoDomain"
-"ni.mundodeportivo.com","mundodeportivo","criteoDomain"
-"tiendahemeroteca.mundodeportivo.com","mundodeportivo","criteoDomain"
-"dev.play.radiole.com","radiole","criteoDomain"
-"play.radiole.com","radiole","criteoDomain"
-"pre.play.radiole.com","radiole","criteoDomain"
-"pre.radiole.com","radiole","criteoDomain"
-"radiole.com","radiole","criteoDomain"
-"dozz.es","sin identificar","criteoDomain"
-"editor.wix.com","sin identificar","criteoDomain"
-"enlacejudio.com","sin identificar","criteoDomain"
-"es.wix.com","sin identificar","criteoDomain"
-"espana.patobot.com","sin identificar","criteoDomain"
-"euroferroviarios.net","sin identificar","criteoDomain"
-"feedback.wix.com","sin identificar","criteoDomain"
-"feeder.co","sin identificar","criteoDomain"
-"fomny.com","sin identificar","criteoDomain"
-"gerente.com","sin identificar","criteoDomain"
-"grgastronomia.com","sin identificar","criteoDomain"
-"gruporetiro.com","sin identificar","criteoDomain"
-"gstatic.com","sin identificar","criteoDomain"
-"happystyledance.com","sin identificar","criteoDomain"
-"htcmania.com","sin identificar","criteoDomain"
-"ilustracion-upb.blogspot.com","sin identificar","criteoDomain"
-"las2orillas.co","sin identificar","criteoDomain"
-"linkis.com","sin identificar","criteoDomain"
-"linkvalidator.net","sin identificar","criteoDomain"
-"manage.wix.com","sin identificar","criteoDomain"
-"marilynmonroemylittlesecret.blogspot.com","sin identificar","criteoDomain"
-"meneame.net","sin identificar","criteoDomain"
-"msn.com","sin identificar","criteoDomain"
-"mv-bim.com","sin identificar","criteoDomain"
-"netvibes.com","sin identificar","criteoDomain"
-"newslocker.com","sin identificar","criteoDomain"
-"newspapersperiodicos.com","sin identificar","criteoDomain"
-"briangdiaz.weebly.com","sin identificar","criteoDomain"
-"carlosloret.com","sin identificar","criteoDomain"
-"desdelapiquera.com","sin identificar","criteoDomain"
-"destinofinal.blog","sin identificar","criteoDomain"
-"diariodenavarra.es","sin identificar","criteoDomain"
-"accitanosdelaestacion.euroferroviarios.net","sin identificar","criteoDomain"
-"adviewer.adcint.net","sin identificar","criteoDomain"
-"ampaceipvaldemera.blogspot.com","sin identificar","criteoDomain"
-"anpe.es","sin identificar","criteoDomain"
-"audiopill.net","sin identificar","criteoDomain"
-"bolosasturias.com","sin identificar","criteoDomain"
-"notalatina.blogspot.com","sin identificar","criteoDomain"
-"notion.so","sin identificar","criteoDomain"
-"oigahermanohermana.org","sin identificar","criteoDomain"
-"patobot.com","sin identificar","criteoDomain"
-"periodicosespaÃ±oles.es","sin identificar","criteoDomain"
-"printwhatyoulike.com","sin identificar","criteoDomain"
-"pruebaswebup.tk","sin identificar","criteoDomain"
-"radios-emisoras.info","sin identificar","criteoDomain"
-"razonmasfe.com","sin identificar","criteoDomain"
-"Remnant","sin identificar","criteoDomain"
-"responsinator.com","sin identificar","criteoDomain"
-"responsivetesttool.com","sin identificar","criteoDomain"
-"rite.ly","sin identificar","criteoDomain"
-"robinjhair.weebly.com","sin identificar","criteoDomain"
-"rockcolombiadocs.blogspot.com","sin identificar","criteoDomain"
-"rubenolarte.com","sin identificar","criteoDomain"
-"sandrabeltranfansoficial.blogspot.com","sin identificar","criteoDomain"
-"seguimiento.co","sin identificar","criteoDomain"
-"snip.ly","sin identificar","criteoDomain"
-"soros-sehablaespanyol-soros.blogspot.com","sin identificar","criteoDomain"
-"supercontable.com","sin identificar","criteoDomain"
-"syamareyes.com.br","sin identificar","criteoDomain"
-"tabisa.net","sin identificar","criteoDomain"
-"todareceta.es","sin identificar","criteoDomain"
-"translatetheweb.com","sin identificar","criteoDomain"
-"translatoruser-int.com","sin identificar","criteoDomain"
-"tryit.w3schools.com","sin identificar","criteoDomain"
-"ultimahora.es","sin identificar","criteoDomain"
-"valdetorres.es","sin identificar","criteoDomain"
-"w3schools.com","sin identificar","criteoDomain"
-"wix.com","sin identificar","criteoDomain"
-"world-check.com","sin identificar","criteoDomain"
-"www-pulzo-com.cdn.ampproject.org","sin identificar","criteoDomain"
-"xn--periodicosespaoles-00b.es","sin identificar","criteoDomain"
-"zonacero.com","sin identificar","criteoDomain"
-"int.smoda.elpais.com","elpais_smoda","criteoDomain"
-"smoda.elpais.com","elpais_smoda","criteoDomain"
-"local.play.wradio.com.co","wradio","criteoDomain"
-"local.play.wradio.com.mx","wradio","criteoDomain"
-"dev.play.wradio.com.co","wradio","criteoDomain"
-"play.wradio.com.co","wradio","criteoDomain"
-"play.wradio.com.mx","wradio","criteoDomain"
-"pre.play.wradio.com.co","wradio","criteoDomain"
-"pre.play.wradio.com.mx","wradio","criteoDomain"
-"wradio.com.co","wradio","criteoDomain"
-"wradio.com.mx","wradio","criteoDomain"
-"www2.wradio.com.co","wradio","criteoDomain"
-"foros.xlsemanal.com","xlsemanal","criteoDomain"
-"pre-www.xlsemanal.com","xlsemanal","criteoDomain"
-"pre-xlsemanal.abc.es","xlsemanal","criteoDomain"
-"www-origin.xlsemanal.com","xlsemanal","criteoDomain"
-"xlsemanal.abc.es","xlsemanal","criteoDomain"
-"xlsemanal.com","xlsemanal","criteoDomain"
-"xlsemanal.diariosur.es","xlsemanal","criteoDomain"
-"xlsemanal.diariovasco.com","xlsemanal","criteoDomain"
-"xlsemanal.elcomercio.es","xlsemanal","criteoDomain"
-"xlsemanal.elcorreo.com","xlsemanal","criteoDomain"
-"xlsemanal.eldiariomontanes.es","xlsemanal","criteoDomain"
-"xlsemanal.elnortedecastilla.es","xlsemanal","criteoDomain"
-"xlsemanal.hoy.es","xlsemanal","criteoDomain"
-"xlsemanal.ideal.es","xlsemanal","criteoDomain"
-"xlsemanal.larioja.com","xlsemanal","criteoDomain"
-"xlsemanal.lasprovincias.es","xlsemanal","criteoDomain"
-"xlsemanal.laverdad.es","xlsemanal","criteoDomain"
-"local.xlsemanal.com","xlsemanal","criteoDomain"
-"pre-foros.xlsemanal.com","xlsemanal","criteoDomain"
-"xlsemanal.leonoticias.com","xlsemanal","criteoDomain"
-"undefined","","criteoDomain"
+coso	site	origen
+abc.es	abc	criteoDomain
+abc.es.	abc	criteoDomain
+abcfoto.abc.es	abc	criteoDomain
+ciencia.abc.es	abc	criteoDomain
+des-www.abc.es	abc	criteoDomain
+docker.abc.es	abc	criteoDomain
+espana.abc.es	abc	criteoDomain
+especiales.abc.es	abc	criteoDomain
+hemeroteca.abc.es	abc	criteoDomain
+horoscopo.abc.es	abc	criteoDomain
+local-www.abc.es	abc	criteoDomain
+mejorcoche-2020.abc.es	abc	criteoDomain
+pre-mejorcoche-2020.abc.es	abc	criteoDomain
+pre-static1.abc.es	abc	criteoDomain
+pre-xl.abc.es	abc	criteoDomain
+sev.abc.es	abc	criteoDomain
+tienda.abc.es	abc	criteoDomain
+abcblogs.abc.es	abc	criteoDomain
+agencias.abc.es	abc	criteoDomain
+cabeceras.abc.es	abc	criteoDomain
+des-fibabc.abc.es	abc	criteoDomain
+desn.abc.es	abc	criteoDomain
+docker-www.abc.es	abc	criteoDomain
+fibabc.abc.es	abc	criteoDomain
+fibabc2020.abc.es	abc	criteoDomain
+fibabc9.abc.es	abc	criteoDomain
+hoycinema.abc.es	abc	criteoDomain
+interno-guia-restaurantes.abc.es	abc	criteoDomain
+laguiatv.abc.es	abc	criteoDomain
+mejorcoche.abc.es	abc	criteoDomain
+new2-www.abc.es	abc	criteoDomain
+new-www.abc.es	abc	criteoDomain
+pre2-www.abc.es	abc	criteoDomain
+pre3-www.abc.es	abc	criteoDomain
+pre-abcblogsv2.abc.es	abc	criteoDomain
+pre-mejorcoche.abc.es	abc	criteoDomain
+pren.abc.es	abc	criteoDomain
+pre-www.abc.es	abc	criteoDomain
+secure.abc.es	abc	criteoDomain
+ver.abc.es	abc	criteoDomain
+www-new.abc.es	abc	criteoDomain
+estaticos.sevillasolidaria.abc.es	abcsevilla	criteoDomain
+sevilla.abc.es	abcsevilla	criteoDomain
+sevilla.abc.es.	abcsevilla	criteoDomain
+sevillasolidaria-renew.sevilla.abc.es	abcsevilla	criteoDomain
+static-sevilla.abc.es	abcsevilla	criteoDomain
+tienda-sevilla.abc.es	abcsevilla	criteoDomain
+xl-sevilla.abc.es	abcsevilla	criteoDomain
+agronoma.sevilla.abc.es	abcsevilla	criteoDomain
+alfinaldelapalmera-origin.sevilla.abc.es	abcsevilla	criteoDomain
+docker-sevilla.abc.es	abcsevilla	criteoDomain
+gurmehuelva-sevilla.abc.es	abcsevilla	criteoDomain
+new2-sevilla.abc.es	abcsevilla	criteoDomain
+new-sevilla.abc.es	abcsevilla	criteoDomain
+pre2-sevilla.abc.es	abcsevilla	criteoDomain
+pre3-sevilla.abc.es	abcsevilla	criteoDomain
+pren.sevilla.abc.es	abcsevilla	criteoDomain
+pre-sevilla.abc.es	abcsevilla	criteoDomain
+sevillasolidaria.sevilla.abc.es	abcsevilla	criteoDomain
+static4-sevilla.abc.es	abcsevilla	criteoDomain
+argentina.as.com	as	criteoDomain
+as.com	as	criteoDomain
+as.com.	as	criteoDomain
+baloncesto.as.com	as	criteoDomain
+ciclismo.as.com	as	criteoDomain
+opinion.as.com	as	criteoDomain
+parrillatv.int.as.com	as	criteoDomain
+resultados.as.com	as	criteoDomain
+sa.as.com	as	criteoDomain
+servicios.as.com	as	criteoDomain
+tenis.as.com	as	criteoDomain
+za.as.com	as	criteoDomain
+dispatcher.results.as.com	as	criteoDomain
+dispatcher.results.dev.as.com	as	criteoDomain
+dispatcher.results.int.as.com	as	criteoDomain
+en.as.com	as	criteoDomain
+entradas.as.com	as	criteoDomain
+esports.as.com	as_esports	criteoDomain
+local-arc.be.as.com	as	criteoDomain
+masdeporte.as.com	as	criteoDomain
+movil.as.com	as	criteoDomain
+chile.as.com	as	criteoDomain
+colombia.as.com	as	criteoDomain
+futbol.as.com	as_futbol	criteoDomain
+juegos.as.com	as_juegos	criteoDomain
+mexico.as.com	as	criteoDomain
+motor.as.com	as_motor	criteoDomain
+peru.as.com	as	criteoDomain
+us.as.com	as	criteoDomain
+biwenger.as.com	biwenger	criteoDomain
+blogs.burgosconecta.es	burgosconecta	criteoDomain
+pre-www.burgosconecta.es	burgosconecta	criteoDomain
+proyectos.burgosconecta.es	burgosconecta	criteoDomain
+burgosconecta.es	burgosconecta	criteoDomain
+burgosconecta.es.	burgosconecta	criteoDomain
+dia-de-la-mujer.burgosconecta.es	burgosconecta	criteoDomain
+leer.burgosconecta.es	burgosconecta	criteoDomain
+local-www.burgosconecta.es	burgosconecta	criteoDomain
+loteria.burgosconecta.es	burgosconecta	criteoDomain
+new-www.burgosconecta.es	burgosconecta	criteoDomain
+play.cadenadial.com	cadenadial	criteoDomain
+pre.cadenadial.com	cadenadial	criteoDomain
+pre.play.cadenadial.com	cadenadial	criteoDomain
+cadenadial.com	cadenadial	criteoDomain
+dev.play.cadenadial.com	cadenadial	criteoDomain
+local.cadenadial.com	cadenadial	criteoDomain
+local.play.cadenadial.com	cadenadial	criteoDomain
+cadenaser.com	cadenaser	criteoDomain
+play.cadenaser.com	cadenaser	criteoDomain
+playser-pre.cadenaser.com	cadenaser	criteoDomain
+res.cadenaser.com	cadenaser	criteoDomain
+blogs.canarias7.es	canarias7	criteoDomain
+canarias7.es	canarias7	criteoDomain
+cartelera.canarias7.es	canarias7	criteoDomain
+new-www.canarias7.es	canarias7	criteoDomain
+local.alacarta.caracol.com.co	caracol	criteoDomain
+locarac.caracol.com.co	caracol	criteoDomain
+caracol.com.co	caracol	criteoDomain
+dev.alacarta.caracol.com.co	caracol	criteoDomain
+alacarta.caracol.com.co	caracol	criteoDomain
+pre.alacarta.caracol.com.co	caracol	criteoDomain
+codigounico.com	codigounico	criteoDomain
+local.codigounico.com	codigounico	criteoDomain
+pre-www.codigounico.com	codigounico	criteoDomain
+elpoderdelquerer.diariosur.es	diariosur	criteoDomain
+eventos.diariosur.es	diariosur	criteoDomain
+local-www.diariosur.es	diariosur	criteoDomain
+loteria.diariosur.es	diariosur	criteoDomain
+malagacf.diariosur.es	diariosur	criteoDomain
+malagaenlamesa.com	diariosur	criteoDomain
+blogs.diariosur.es	diariosur	criteoDomain
+blogs-new.diariosur.es	diariosur	criteoDomain
+diariosur.es	diariosur	criteoDomain
+diariosur.es.	diariosur	criteoDomain
+agenda.diariosur.es	diariosur	criteoDomain
+app.diariosur.es	diariosur	criteoDomain
+areapersonal.diariosur.es	diariosur	criteoDomain
+new-www.diariosur.es	diariosur	criteoDomain
+podcast.diariosur.es	diariosur	criteoDomain
+pre-blogs.diariosur.es	diariosur	criteoDomain
+pre-preview-www.diariosur.es	diariosur	criteoDomain
+preview-www.diariosur.es	diariosur	criteoDomain
+pre-www.diariosur.es	diariosur	criteoDomain
+pre-www.malagaenlamesa.com	diariosur	criteoDomain
+proyectos.diariosur.es	diariosur	criteoDomain
+secure.diariosur.es	diariosur	criteoDomain
+unicaja.diariosur.es	diariosur	criteoDomain
+foros.diariovasco.com	diariovasco	criteoDomain
+fotolector.diariovasco.com	diariovasco	criteoDomain
+guiagastronomika.diariovasco.com	diariovasco	criteoDomain
+local-real-sociedad.diariovasco.com	diariovasco	criteoDomain
+local-www.diariovasco.com	diariovasco	criteoDomain
+mendiz-mendi.diariovasco.com	diariovasco	criteoDomain
+des-eguraldia.diariovasco.com	diariovasco	criteoDomain
+des-mendiz-mendi.diariovasco.com	diariovasco	criteoDomain
+des-www.diariovasco.com	diariovasco	criteoDomain
+diariovasco.com	diariovasco	criteoDomain
+diariovasco.com.	diariovasco	criteoDomain
+agenda.diariovasco.com	diariovasco	criteoDomain
+app2.diariovasco.com	diariovasco	criteoDomain
+areapersonal.diariovasco.com	diariovasco	criteoDomain
+blogs.diariovasco.com	diariovasco	criteoDomain
+blogs.diariovasco.com.	diariovasco	criteoDomain
+blogs-new.diariovasco.com	diariovasco	criteoDomain
+cdn.diariovasco.com	diariovasco	criteoDomain
+clasica-san-sebastian.diariovasco.com	diariovasco	criteoDomain
+concursos.diariovasco.com	diariovasco	criteoDomain
+new-clasica-san-sebastian.diariovasco.com	diariovasco	criteoDomain
+new-real-sociedad.diariovasco.com	diariovasco	criteoDomain
+new-sdeibar.diariovasco.com	diariovasco	criteoDomain
+new-tamborrada.diariovasco.com	diariovasco	criteoDomain
+new-vueltapaisvasco.diariovasco.com	diariovasco	criteoDomain
+new-www.diariovasco.com	diariovasco	criteoDomain
+playas.diariovasco.com	diariovasco	criteoDomain
+pre-blogs.diariovasco.com	diariovasco	criteoDomain
+pre-preview-www.diariovasco.com	diariovasco	criteoDomain
+preview-www.diariovasco.com	diariovasco	criteoDomain
+pre-www.diariovasco.com	diariovasco	criteoDomain
+real-sociedad.diariovasco.com	diariovasco	criteoDomain
+sdeibar.diariovasco.com	diariovasco	criteoDomain
+tamborrada.diariovasco.com	diariovasco	criteoDomain
+vueltapaisvasco.diariovasco.com	diariovasco	criteoDomain
+ww.diariovasco.com	diariovasco	criteoDomain
+elbierzonoticias.com	elbierzonoticias	criteoDomain
+local-www.elbierzonoticias.com	elbierzonoticias	criteoDomain
+new-www.elbierzonoticias.com	elbierzonoticias	criteoDomain
+elcomercio.es	elcomercio	criteoDomain
+elcomercio.es.	elcomercio	criteoDomain
+esquelas.elcomercio.es	elcomercio	criteoDomain
+hemeroteca.elcomercio.es	elcomercio	criteoDomain
+leer.elcomercio.es	elcomercio	criteoDomain
+local-hemeroteca.elcomercio.es	elcomercio	criteoDomain
+local-www.elcomercio.es	elcomercio	criteoDomain
+loteria.elcomercio.es	elcomercio	criteoDomain
+mejorweb.elcomercio.es	elcomercio	criteoDomain
+blogs.elcomercio.es	elcomercio	criteoDomain
+blogs-new.elcomercio.es	elcomercio	criteoDomain
+canales.elcomercio.es	elcomercio	criteoDomain
+clasificaciones.elcomercio.es	elcomercio	criteoDomain
+agenda.elcomercio.es	elcomercio	criteoDomain
+app.elcomercio.es	elcomercio	criteoDomain
+areapersonal.elcomercio.es	elcomercio	criteoDomain
+new-www.elcomercio.es	elcomercio	criteoDomain
+pre-blogs.elcomercio.es	elcomercio	criteoDomain
+pre-hemeroteca.elcomercio.es	elcomercio	criteoDomain
+preview-www.elcomercio.es	elcomercio	criteoDomain
+pre-www.elcomercio.es	elcomercio	criteoDomain
+proyectos.elcomercio.es	elcomercio	criteoDomain
+proyectos-vm.elcomercio.es	elcomercio	criteoDomain
+secure.elcomercio.es	elcomercio	criteoDomain
+hemeroteca.elcorreo.com	elcorreo	criteoDomain
+info.elcorreo.com	elcorreo	criteoDomain
+inscripciones.elcorreo.com	elcorreo	criteoDomain
+jantour.elcorreo.com	elcorreo	criteoDomain
+leer.elcorreo.com	elcorreo	criteoDomain
+local-agenda.elcorreo.com	elcorreo	criteoDomain
+local-cartelera.elcorreo.com	elcorreo	criteoDomain
+local-hemeroteca.elcorreo.com	elcorreo	criteoDomain
+local-www.elcorreo.com	elcorreo	criteoDomain
+loteria.elcorreo.com	elcorreo	criteoDomain
+mirandes.elcorreo.com	elcorreo	criteoDomain
+new-alaves.elcorreo.com	elcorreo	criteoDomain
+new-athletic.elcorreo.com	elcorreo	criteoDomain
+new-baskonia.elcorreo.com	elcorreo	criteoDomain
+new-bilbaobasket.elcorreo.com	elcorreo	criteoDomain
+new-www.elcorreo.com	elcorreo	criteoDomain
+pasatiempos.elcorreo.com	elcorreo	criteoDomain
+pre1-www.elcorreo.com	elcorreo	criteoDomain
+pre-athletic.elcorreo.com	elcorreo	criteoDomain
+pre-hemeroteca.elcorreo.com	elcorreo	criteoDomain
+preview-www.elcorreo.com	elcorreo	criteoDomain
+pro0-www.elcorreo.com	elcorreo	criteoDomain
+rutas.elcorreo.com	elcorreo	criteoDomain
+secure.elcorreo.com	elcorreo	criteoDomain
+servicios.elcorreo.com	elcorreo	criteoDomain
+trafico.elcorreo.com	elcorreo	criteoDomain
+agenda.elcorreo.com	elcorreo	criteoDomain
+alaves.elcorreo.com	elcorreo	criteoDomain
+app.elcorreo.com	elcorreo	criteoDomain
+areapersonal.elcorreo.com	elcorreo	criteoDomain
+athletic.elcorreo.com	elcorreo	criteoDomain
+baskonia.elcorreo.com	elcorreo	criteoDomain
+bilbaobasket.elcorreo.com	elcorreo	criteoDomain
+blogs.elcorreo.com	elcorreo	criteoDomain
+comercios-locales.elcorreo.com	elcorreo	criteoDomain
+des-vocuser.elcorreo.com	elcorreo	criteoDomain
+agenda-origin.elcorreo.com	elcorreo	criteoDomain
+athletic.elcorreo.com.	elcorreo	criteoDomain
+blogs-new.elcorreo.com	elcorreo	criteoDomain
+concursos.elcorreo.com	elcorreo	criteoDomain
+desn.elcorreo.com	elcorreo	criteoDomain
+des-www.elcorreo.com	elcorreo	criteoDomain
+elcorreo.com	elcorreo	criteoDomain
+elcorreo.com.	elcorreo	criteoDomain
+especial.elcorreo.com	elcorreo	criteoDomain
+esquelas.elcorreo.com	elcorreo	criteoDomain
+kioskoymas.elcorreo.com	elcorreo	criteoDomain
+local-athletic.elcorreo.com	elcorreo	criteoDomain
+local-canalmeteo-v2.elcorreo.com	elcorreo	criteoDomain
+new-mirandes.elcorreo.com	elcorreo	criteoDomain
+pre2-www.elcorreo.com	elcorreo	criteoDomain
+pre3-www.elcorreo.com	elcorreo	criteoDomain
+pre-agenda.elcorreo.com	elcorreo	criteoDomain
+pre-blogs.elcorreo.com	elcorreo	criteoDomain
+pre-cartelera.elcorreo.com	elcorreo	criteoDomain
+pre-local.elcorreo.com	elcorreo	criteoDomain
+pren.elcorreo.com	elcorreo	criteoDomain
+pre-www.elcorreo.com	elcorreo	criteoDomain
+pre-xl.elcorreo.com	elcorreo	criteoDomain
+sire.elcorreo.com	elcorreo	criteoDomain
+eldiariomontanes.es	eldiariomontanes	criteoDomain
+eldiariomontanes.es.	eldiariomontanes	criteoDomain
+hemeroteca.eldiariomontanes.es	eldiariomontanes	criteoDomain
+hemeroteca.eldiariomontanes.es.	eldiariomontanes	criteoDomain
+local-hemeroteca.eldiariomontanes.es	eldiariomontanes	criteoDomain
+local-www.eldiariomontanes.es	eldiariomontanes	criteoDomain
+loteria.eldiariomontanes.es	eldiariomontanes	criteoDomain
+blogs.eldiariomontanes.es	eldiariomontanes	criteoDomain
+cabeceras.eldiariomontanes.es	eldiariomontanes	criteoDomain
+agenda.eldiariomontanes.es	eldiariomontanes	criteoDomain
+app.eldiariomontanes.es	eldiariomontanes	criteoDomain
+areapersonal.eldiariomontanes.es	eldiariomontanes	criteoDomain
+new-www.eldiariomontanes.es	eldiariomontanes	criteoDomain
+pre-blogs.eldiariomontanes.es	eldiariomontanes	criteoDomain
+pre-hemeroteca.eldiariomontanes.es	eldiariomontanes	criteoDomain
+preview-www.eldiariomontanes.es	eldiariomontanes	criteoDomain
+pre-www.eldiariomontanes.es	eldiariomontanes	criteoDomain
+secure.eldiariomontanes.es	eldiariomontanes	criteoDomain
+elnortedecastilla.es	elnortedecastilla	criteoDomain
+elnortedecastilla.es.	elnortedecastilla	criteoDomain
+especial.elnortedecastilla.es	elnortedecastilla	criteoDomain
+hemeroteca.elnortedecastilla.es	elnortedecastilla	criteoDomain
+leer.elnortedecastilla.es	elnortedecastilla	criteoDomain
+local-www.elnortedecastilla.es	elnortedecastilla	criteoDomain
+loteria.elnortedecastilla.es	elnortedecastilla	criteoDomain
+new-soydearroyo.elnortedecastilla.es	elnortedecastilla	criteoDomain
+blogs.elnortedecastilla.es	elnortedecastilla	criteoDomain
+blogs-new.elnortedecastilla.es	elnortedecastilla	criteoDomain
+agenda.elnortedecastilla.es	elnortedecastilla	criteoDomain
+app.elnortedecastilla.es	elnortedecastilla	criteoDomain
+areapersonal.elnortedecastilla.es	elnortedecastilla	criteoDomain
+new-www.elnortedecastilla.es	elnortedecastilla	criteoDomain
+pre-blogs.elnortedecastilla.es	elnortedecastilla	criteoDomain
+preview-www.elnortedecastilla.es	elnortedecastilla	criteoDomain
+pre-www.elnortedecastilla.es	elnortedecastilla	criteoDomain
+proyectos.elnortedecastilla.es	elnortedecastilla	criteoDomain
+realvalladolid.elnortedecastilla.es	elnortedecastilla	criteoDomain
+secure.elnortedecastilla.es	elnortedecastilla	criteoDomain
+soydearroyo.elnortedecastilla.es	elnortedecastilla	criteoDomain
+static-cache.elnortedecastilla.es	elnortedecastilla	criteoDomain
+tpv.elnortedecastilla.es	elnortedecastilla	criteoDomain
+vmv.elnortedecastilla.es	elnortedecastilla	criteoDomain
+motor.elpais.com	elpais_motor	criteoDomain
+pre.motor.elpais.com	elpais_motor	criteoDomain
+pre.smoda.elpais.com	elpais_smoda	criteoDomain
+arc-sandbox.elpais.com	elpais	criteoDomain
+brasil.elpais.com	elpais	criteoDomain
+ccaa.elpais.com	elpais	criteoDomain
+cultura.elpais.com	elpais_cultura	criteoDomain
+deportes.elpais.com	elpais_deportes	criteoDomain
+elpais.com	elpais	criteoDomain
+elpaissemanal.elpais.com	elpais_eps	criteoDomain
+english.elpais.com	elpais	criteoDomain
+eskup.elpais.com	elpais	criteoDomain
+horoscopo.elpais.com	elpais	criteoDomain
+images.inenglish.elpais.com	elpais	criteoDomain
+internacional.elpais.com	elpais	criteoDomain
+politica.elpais.com	elpais	criteoDomain
+resultados.elpais.com	elpais	criteoDomain
+servicios.elpais.com	elpais	criteoDomain
+static.elpais.com	elpais	criteoDomain
+t.newsletter.elpais.com	elpais	criteoDomain
+widgets.elpais.com	elpais	criteoDomain
+cat.elpais.com	elpais_cat	criteoDomain
+euribor.com.es	elpais_finanzas_cincodias_euribor	criteoDomain
+elcomidista.elpais.com	elpais_comidista	criteoDomain
+elviajero.elpais.com	elpais_elviajero	criteoDomain
+cincodias.elpais.com	elpais_finanzas_cincodias	criteoDomain
+retina.elpais.com	elpais_finanzas_retina	criteoDomain
+verne.elpais.com	elpais_verne	criteoDomain
+fregenal.hoy.es	hoy	criteoDomain
+fuentedecantos.hoy.es	hoy	criteoDomain
+guarena.hoy.es	hoy	criteoDomain
+hemeroteca.hoy.es	hoy	criteoDomain
+herreradelduque.hoy.es	hoy	criteoDomain
+horoscopo.mujerhoy.com	hoy	criteoDomain
+hoy.es	hoy	criteoDomain
+hoy.es.	hoy	criteoDomain
+jaraizdelavera.hoy.es	hoy	criteoDomain
+jerezdeloscaballeros.hoy.es	hoy	criteoDomain
+lazarza.hoy.es	hoy	criteoDomain
+leer.hoy.es	hoy	criteoDomain
+llerena.hoy.es	hoy	criteoDomain
+local-blogs.mujerhoy.com	hoy	criteoDomain
+local-calamonte.hoy.es	hoy	criteoDomain
+local-fregenal.hoy.es	hoy	criteoDomain
+local-hemeroteca.hoy.es	hoy	criteoDomain
+local-navalmoral.hoy.es	hoy	criteoDomain
+local-solidario.hoy.es	hoy	criteoDomain
+local-www.hoy.es	hoy	criteoDomain
+local-www.mujerhoy.com	hoy	criteoDomain
+local-zafra.hoy.es	hoy	criteoDomain
+lossantosdemaimona.hoy.es	hoy	criteoDomain
+loteria.hoy.es	hoy	criteoDomain
+malpartidadecaceres.hoy.es	hoy	criteoDomain
+miajadas.hoy.es	hoy	criteoDomain
+monesterio.hoy.es	hoy	criteoDomain
+mujerhoy.com	hoy	criteoDomain
+navalmoral.hoy.es	hoy	criteoDomain
+new-almendralejo.hoy.es	hoy	criteoDomain
+new-arroyodelaluz.hoy.es	hoy	criteoDomain
+new-campanario.hoy.es	hoy	criteoDomain
+new-donbenito.hoy.es	hoy	criteoDomain
+new-fregenal.hoy.es	hoy	criteoDomain
+new-jaraizdelavera.hoy.es	hoy	criteoDomain
+new-lossantosdemaimona.hoy.es	hoy	criteoDomain
+new-navalmoral.hoy.es	hoy	criteoDomain
+new-quintana.hoy.es	hoy	criteoDomain
+new-solidario.hoy.es	hoy	criteoDomain
+new-trujillo.hoy.es	hoy	criteoDomain
+new-villafranca.hoy.es	hoy	criteoDomain
+new-villanueva.hoy.es	hoy	criteoDomain
+blogs.hoy.es	hoy	criteoDomain
+blogs-new.hoy.es	hoy	criteoDomain
+calamonte.hoy.es	hoy	criteoDomain
+campanario.hoy.es	hoy	criteoDomain
+casardecaceres.hoy.es	hoy	criteoDomain
+castuera.hoy.es	hoy	criteoDomain
+coria.hoy.es	hoy	criteoDomain
+desnlocal.hoy.es	hoy	criteoDomain
+des-vocuser.hoy.es	hoy	criteoDomain
+agenda.hoy.es	hoy	criteoDomain
+app.hoy.es	hoy	criteoDomain
+arroyodelaluz.hoy.es	hoy	criteoDomain
+new-www.hoy.es	hoy	criteoDomain
+olivenza.hoy.es	hoy	criteoDomain
+pre-almendralejo.hoy.es	hoy	criteoDomain
+pre-blogs.hoy.es	hoy	criteoDomain
+pre-calamonte.hoy.es	hoy	criteoDomain
+pre-donbenito.hoy.es	hoy	criteoDomain
+pre-hemeroteca.hoy.es	hoy	criteoDomain
+preview-www.hoy.es	hoy	criteoDomain
+pre-villanueva.hoy.es	hoy	criteoDomain
+pre-www.hoy.es	hoy	criteoDomain
+puebladelacalzada.hoy.es	hoy	criteoDomain
+quienesquien.hoy.es	hoy	criteoDomain
+quintana.hoy.es	hoy	criteoDomain
+servicios.hoy.es	hoy	criteoDomain
+solidario.hoy.es	hoy	criteoDomain
+talarrubias.hoy.es	hoy	criteoDomain
+talayuela.hoy.es	hoy	criteoDomain
+trujillo.hoy.es	hoy	criteoDomain
+valverdedeleganes.hoy.es	hoy	criteoDomain
+villafranca.hoy.es	hoy	criteoDomain
+villanuevadelfresno.hoy.es	hoy	criteoDomain
+zafra.hoy.es	hoy	criteoDomain
+zalamea.hoy.es	hoy	criteoDomain
+huffingtonpost.es	huffingtonpost	criteoDomain
+local.www.huffingtonpost.es	huffingtonpost	criteoDomain
+dev.www.huffingtonpost.es	huffingtonpost	criteoDomain
+beta.www.huffingtonpost.es	huffingtonpost	criteoDomain
+qa.www.huffingtonpost.es	huffingtonpost	criteoDomain
+qa5.www.huffingtonpost.es	huffingtonpost	criteoDomain
+staging.www.huffingtonpost.es	huffingtonpost	criteoDomain
+eltelevisero.com	huffingtonpost_eltelevisero	criteoDomain
+strambotic.com	huffingtonpost_strambotic	criteoDomain
+elejido.ideal.es	ideal	criteoDomain
+formacion.ideal.es	ideal	criteoDomain
+gasolineras.ideal.es	ideal	criteoDomain
+gourmet.ideal.es	ideal	criteoDomain
+granadacf.ideal.es	ideal	criteoDomain
+guadix.ideal.es	ideal	criteoDomain
+hemeroteca.ideal.es	ideal	criteoDomain
+huetorvega.ideal.es	ideal	criteoDomain
+ideal.es	ideal	criteoDomain
+ideal.es.	ideal	criteoDomain
+kioskoymas.ideal.es	ideal	criteoDomain
+lasgabias.ideal.es	ideal	criteoDomain
+lazubia.ideal.es	ideal	criteoDomain
+levante.ideal.es	ideal	criteoDomain
+linaresdeportivo.ideal.es	ideal	criteoDomain
+local-www.ideal.es	ideal	criteoDomain
+loja.ideal.es	ideal	criteoDomain
+maracena.ideal.es	ideal	criteoDomain
+micarrera.ideal.es	ideal	criteoDomain
+new-adra.ideal.es	ideal	criteoDomain
+new-elejido.ideal.es	ideal	criteoDomain
+new-gourmet.ideal.es	ideal	criteoDomain
+new-huetorvega.ideal.es	ideal	criteoDomain
+new-lasgabias.ideal.es	ideal	criteoDomain
+new-levante.ideal.es	ideal	criteoDomain
+new-roquetas.ideal.es	ideal	criteoDomain
+new-ubeda.ideal.es	ideal	criteoDomain
+blogs.ideal.es	ideal	criteoDomain
+calendarios.ideal.es	ideal	criteoDomain
+cartelera.ideal.es	ideal	criteoDomain
+cazorla.ideal.es	ideal	criteoDomain
+churrianadelavega.ideal.es	ideal	criteoDomain
+adra.ideal.es	ideal	criteoDomain
+alcalalareal.ideal.es	ideal	criteoDomain
+almanzora.ideal.es	ideal	criteoDomain
+alzalapata.ideal.es	ideal	criteoDomain
+andujar.ideal.es	ideal	criteoDomain
+app.ideal.es	ideal	criteoDomain
+areapersonal.ideal.es	ideal	criteoDomain
+armilla.ideal.es	ideal	criteoDomain
+baza.ideal.es	ideal	criteoDomain
+new-www.ideal.es	ideal	criteoDomain
+ogijares.ideal.es	ideal	criteoDomain
+pre-blogs.ideal.es	ideal	criteoDomain
+pre-gourmet.ideal.es	ideal	criteoDomain
+pre-www.ideal.es	ideal	criteoDomain
+realjaen.ideal.es	ideal	criteoDomain
+restaurantes.gourmet.ideal.es	ideal	criteoDomain
+roquetas.ideal.es	ideal	criteoDomain
+secure.ideal.es	ideal	criteoDomain
+sierramagina.ideal.es	ideal	criteoDomain
+tools.ideal.es	ideal	criteoDomain
+ubeda.ideal.es	ideal	criteoDomain
+udalmeria.ideal.es	ideal	criteoDomain
+waste.ideal.es	ideal	criteoDomain
+escucha.kebuena.com.mx	kebuena	criteoDomain
+kebuena.com.mx	kebuena	criteoDomain
+nateevo.kebuena.com.mx	kebuena	criteoDomain
+pre.kebuena.com.mx	kebuena	criteoDomain
+entretenimiento.larioja.com	larioja	criteoDomain
+hemeroteca.larioja.com	larioja	criteoDomain
+innovando.larioja.com	larioja	criteoDomain
+larioja.com	larioja	criteoDomain
+larioja.com.	larioja	criteoDomain
+local-www.larioja.com	larioja	criteoDomain
+local-www.lomejordelvinoderioja.com	larioja	criteoDomain
+lomejordelvinoderioja.com	larioja	criteoDomain
+loteria.larioja.com	larioja	criteoDomain
+blogs.larioja.com	larioja	criteoDomain
+blogs-new.larioja.com	larioja	criteoDomain
+degustalarioja.com	larioja	criteoDomain
+digitales.larioja.com	larioja	criteoDomain
+agenda.larioja.com	larioja	criteoDomain
+agenda-origin.larioja.com	larioja	criteoDomain
+app.larioja.com	larioja	criteoDomain
+new-www.degustalarioja.com	larioja	criteoDomain
+new-www.larioja.com	larioja	criteoDomain
+new-www.lomejordelvinoderioja.com	larioja	criteoDomain
+openbttlarioja.es	larioja	criteoDomain
+pre-blogs.larioja.com	larioja	criteoDomain
+pre-hemeroteca.larioja.com	larioja	criteoDomain
+preview-www.larioja.com	larioja	criteoDomain
+pre-www.larioja.com	larioja	criteoDomain
+pre-www.lomejordelvinoderioja.com	larioja	criteoDomain
+lasprovincias.es	lasprovincias	criteoDomain
+lasprovincias.es.	lasprovincias	criteoDomain
+leer.lasprovincias.es	lasprovincias	criteoDomain
+levanteud.lasprovincias.es	lasprovincias	criteoDomain
+local-www.lasprovincias.es	lasprovincias	criteoDomain
+loteria.lasprovincias.es	lasprovincias	criteoDomain
+new-traductor.lasprovincias.es	lasprovincias	criteoDomain
+blogs.lasprovincias.es	lasprovincias	criteoDomain
+blogs-new.lasprovincias.es	lasprovincias	criteoDomain
+comerybeber.lasprovincias.es	lasprovincias	criteoDomain
+cosaspracticas.lasprovincias.es	lasprovincias	criteoDomain
+des-traductor.lasprovincias.es	lasprovincias	criteoDomain
+agenda.lasprovincias.es	lasprovincias	criteoDomain
+app2.lasprovincias.es	lasprovincias	criteoDomain
+areapersonal.lasprovincias.es	lasprovincias	criteoDomain
+bicivalencia.lasprovincias.es	lasprovincias	criteoDomain
+new-www.lasprovincias.es	lasprovincias	criteoDomain
+pre-blogs.lasprovincias.es	lasprovincias	criteoDomain
+preview-www.lasprovincias.es	lasprovincias	criteoDomain
+pre-www.lasprovincias.es	lasprovincias	criteoDomain
+pruebas.lasprovincias.es	lasprovincias	criteoDomain
+secure.lasprovincias.es	lasprovincias	criteoDomain
+servicios.lasprovincias.es	lasprovincias	criteoDomain
+traductor.lasprovincias.es	lasprovincias	criteoDomain
+valenciacf.lasprovincias.es	lasprovincias	criteoDomain
+www-origin.lasprovincias.es	lasprovincias	criteoDomain
+admin.lavanguardia.biz	lavanguardia	criteoDomain
+admin.lavanguardia.com	lavanguardia	criteoDomain
+devel.lavanguardia.com	lavanguardia	criteoDomain
+hemeroteca.lavanguardia.com	lavanguardia	criteoDomain
+horoscopo.lavanguardia.com	lavanguardia	criteoDomain
+imghandler.lavanguardia.biz	lavanguardia	criteoDomain
+imghandler.lavanguardia.com	lavanguardia	criteoDomain
+lavanguardia.biz	lavanguardia	criteoDomain
+lavanguardia.com	lavanguardia	criteoDomain
+lavanguardia.com.	lavanguardia	criteoDomain
+rsc.lavanguardia.com	lavanguardia	criteoDomain
+stories.lavanguardia.com	lavanguardia	criteoDomain
+temas.lavanguardia.biz	lavanguardia	criteoDomain
+widgets.lavanguardia.com	lavanguardia	criteoDomain
+fccartagena.laverdad.es	laverdad	criteoDomain
+hemeroteca.laverdad.es	laverdad	criteoDomain
+laverdad.es	laverdad	criteoDomain
+laverdad.es.	laverdad	criteoDomain
+leer.laverdad.es	laverdad	criteoDomain
+local-hemeroteca.laverdad.es	laverdad	criteoDomain
+local-sanjavier.laverdad.es	laverdad	criteoDomain
+local-soydecaravaca.laverdad.es	laverdad	criteoDomain
+local-www.laverdad.es	laverdad	criteoDomain
+loteriadelnino.laverdad.es	laverdad	criteoDomain
+loteriadelnino-origin.laverdad.es	laverdad	criteoDomain
+loteriadenavidad-origin.laverdad.es	laverdad	criteoDomain
+new-soydecaravaca.laverdad.es	laverdad	criteoDomain
+blogs.laverdad.es	laverdad	criteoDomain
+blogs-new.laverdad.es	laverdad	criteoDomain
+cartelera.laverdad.es	laverdad	criteoDomain
+des-www.laverdad.es	laverdad	criteoDomain
+agenda.laverdad.es	laverdad	criteoDomain
+app.laverdad.es	laverdad	criteoDomain
+areapersonal.laverdad.es	laverdad	criteoDomain
+new-www.laverdad.es	laverdad	criteoDomain
+pre1-www.laverdad.es	laverdad	criteoDomain
+pre2-www.laverdad.es	laverdad	criteoDomain
+pre3-www.laverdad.es	laverdad	criteoDomain
+pre-blogs.laverdad.es	laverdad	criteoDomain
+pre-hemeroteca.laverdad.es	laverdad	criteoDomain
+pre-preview-www.laverdad.es	laverdad	criteoDomain
+preview-www.laverdad.es	laverdad	criteoDomain
+pre-www.laverdad.es	laverdad	criteoDomain
+pro0-www.laverdad.es	laverdad	criteoDomain
+realmurcia.laverdad.es	laverdad	criteoDomain
+resultados-loteria.laverdad.es	laverdad	criteoDomain
+sanjavier.laverdad.es	laverdad	criteoDomain
+soydecaravaca.laverdad.es	laverdad	criteoDomain
+torrepacheco.laverdad.es	laverdad	criteoDomain
+ucamcf.laverdad.es	laverdad	criteoDomain
+gateway-test.lavozdeasturias.es	lavozdeasturias	criteoDomain
+lavozdeasturias.es	lavozdeasturias	criteoDomain
+galego.lavozdegalicia.es	lavozdegalicia	criteoDomain
+gateway-test.lavozdegalicia.es	lavozdegalicia	criteoDomain
+lavozdegalicia.es	lavozdegalicia	criteoDomain
+media.lavozdegalicia.es	lavozdegalicia	criteoDomain
+2021.lavozdegalicia.es	lavozdegalicia	criteoDomain
+walter.lavozdegalicia.es	lavozdegalicia	criteoDomain
+walter-test.lavozdegalicia.es	lavozdegalicia	criteoDomain
+lavozdigital.es	lavozdigital	criteoDomain
+new2-www.lavozdigital.es	lavozdigital	criteoDomain
+cadizsolidaria-origin.www.lavozdigital.es	lavozdigital	criteoDomain
+carnaval.lavozdigital.es	lavozdigital	criteoDomain
+carnavaldenorteasur.blogspot.com	lavozdigital	criteoDomain
+docker-www.lavozdigital.es	lavozdigital	criteoDomain
+new-www.lavozdigital.es	lavozdigital	criteoDomain
+pre2-www.lavozdigital.es	lavozdigital	criteoDomain
+pre3-www.lavozdigital.es	lavozdigital	criteoDomain
+pre-carnaval.lavozdigital.es	lavozdigital	criteoDomain
+pre-www.lavozdigital.es	lavozdigital	criteoDomain
+especial.leonoticias.com	leonoticias	criteoDomain
+leonoticias.com	leonoticias	criteoDomain
+local-www.leonoticias.com	leonoticias	criteoDomain
+loteria.leonoticias.com	leonoticias	criteoDomain
+app.leonoticias.com	leonoticias	criteoDomain
+blogs.leonoticias.com	leonoticias	criteoDomain
+new-www.leonoticias.com	leonoticias	criteoDomain
+pre-www.leonoticias.com	leonoticias	criteoDomain
+librotea.elpais.com	librotea	criteoDomain
+pre.librotea.elpais.com	librotea	criteoDomain
+envivo.los40.cl	los40	criteoDomain
+escucha.los40.com.mx	los40	criteoDomain
+escucha.los40.com.pa	los40	criteoDomain
+escuche.los40.com.co	los40	criteoDomain
+local.envivo.los40.cl	los40	criteoDomain
+local.escucha.los40.com.mx	los40	criteoDomain
+local.escuche.los40.com.co	los40	criteoDomain
+local.play.los40.com	los40	criteoDomain
+local.player.los40.com.ar	los40	criteoDomain
+los40.cl	los40	criteoDomain
+los40.com	los40	criteoDomain
+los40.com.ar	los40	criteoDomain
+los40.com.co	los40	criteoDomain
+los40.com.mx	los40	criteoDomain
+los40.com.pa	los40	criteoDomain
+dev.escuche.los40.com.co	los40	criteoDomain
+dev.play.los40.com	los40	criteoDomain
+play.los40.com	los40	criteoDomain
+player.los40.com.ar	los40	criteoDomain
+pre.escucha.los40.com.mx	los40	criteoDomain
+pre.escuche.los40.com.co	los40	criteoDomain
+pre.los40.cl	los40	criteoDomain
+pre.play.los40.com	los40	criteoDomain
+pre.player.los40.com.ar	los40	criteoDomain
+radiotubers.los40.com	los40	criteoDomain
+play.maxima.fm	maxima	criteoDomain
+meristation.as.com	meristation	criteoDomain
+meristation.int.as.com	meristation	criteoDomain
+blogs.mujerhoy.com	mujerhoy	criteoDomain
+des-www.mujerhoy.com	mujerhoy	criteoDomain
+areapersonal.mujerhoy.com	mujerhoy	criteoDomain
+areapersonal-predes.mujerhoy.com	mujerhoy	criteoDomain
+new-www.mujerhoy.com	mujerhoy	criteoDomain
+pre.mujerhoy.com	mujerhoy	criteoDomain
+pre2-www.mujerhoy.com	mujerhoy	criteoDomain
+pre3-www.mujerhoy.com	mujerhoy	criteoDomain
+pre-blogs.mujerhoy.com	mujerhoy	criteoDomain
+pre-horoscopo.mujerhoy.com	mujerhoy	criteoDomain
+pren.mujerhoy.com	mujerhoy	criteoDomain
+pre-www.mujerhoy.com	mujerhoy	criteoDomain
+pro0-www.mujerhoy.com	mujerhoy	criteoDomain
+recetas.mujerhoy.com	mujerhoy	criteoDomain
+www-mujerhoy-com.cdn.ampproject.org	mujerhoy	criteoDomain
+www-new.mujerhoy.com	mujerhoy	criteoDomain
+imghandler.mundodeportivo.biz	mundodeportivo	criteoDomain
+imghandler.mundodeportivo.com	mundodeportivo	criteoDomain
+mundodeportivo.biz	mundodeportivo	criteoDomain
+mundodeportivo.com	mundodeportivo	criteoDomain
+mundodeportivo.com.	mundodeportivo	criteoDomain
+devel.mundodeportivo.com	mundodeportivo	criteoDomain
+admin.mundodeportivo.biz	mundodeportivo	criteoDomain
+admin.mundodeportivo.com	mundodeportivo	criteoDomain
+ni.mundodeportivo.biz	mundodeportivo	criteoDomain
+ni.mundodeportivo.com	mundodeportivo	criteoDomain
+tiendahemeroteca.mundodeportivo.com	mundodeportivo	criteoDomain
+dev.play.radiole.com	radiole	criteoDomain
+play.radiole.com	radiole	criteoDomain
+pre.play.radiole.com	radiole	criteoDomain
+pre.radiole.com	radiole	criteoDomain
+radiole.com	radiole	criteoDomain
+dozz.es	sin identificar	criteoDomain
+editor.wix.com	sin identificar	criteoDomain
+enlacejudio.com	sin identificar	criteoDomain
+es.wix.com	sin identificar	criteoDomain
+espana.patobot.com	sin identificar	criteoDomain
+euroferroviarios.net	sin identificar	criteoDomain
+feedback.wix.com	sin identificar	criteoDomain
+feeder.co	sin identificar	criteoDomain
+fomny.com	sin identificar	criteoDomain
+gerente.com	sin identificar	criteoDomain
+grgastronomia.com	sin identificar	criteoDomain
+gruporetiro.com	sin identificar	criteoDomain
+gstatic.com	sin identificar	criteoDomain
+happystyledance.com	sin identificar	criteoDomain
+htcmania.com	sin identificar	criteoDomain
+ilustracion-upb.blogspot.com	sin identificar	criteoDomain
+las2orillas.co	sin identificar	criteoDomain
+linkis.com	sin identificar	criteoDomain
+linkvalidator.net	sin identificar	criteoDomain
+manage.wix.com	sin identificar	criteoDomain
+marilynmonroemylittlesecret.blogspot.com	sin identificar	criteoDomain
+meneame.net	sin identificar	criteoDomain
+msn.com	sin identificar	criteoDomain
+mv-bim.com	sin identificar	criteoDomain
+netvibes.com	sin identificar	criteoDomain
+newslocker.com	sin identificar	criteoDomain
+newspapersperiodicos.com	sin identificar	criteoDomain
+briangdiaz.weebly.com	sin identificar	criteoDomain
+carlosloret.com	sin identificar	criteoDomain
+desdelapiquera.com	sin identificar	criteoDomain
+destinofinal.blog	sin identificar	criteoDomain
+diariodenavarra.es	sin identificar	criteoDomain
+accitanosdelaestacion.euroferroviarios.net	sin identificar	criteoDomain
+adviewer.adcint.net	sin identificar	criteoDomain
+ampaceipvaldemera.blogspot.com	sin identificar	criteoDomain
+anpe.es	sin identificar	criteoDomain
+audiopill.net	sin identificar	criteoDomain
+bolosasturias.com	sin identificar	criteoDomain
+notalatina.blogspot.com	sin identificar	criteoDomain
+notion.so	sin identificar	criteoDomain
+oigahermanohermana.org	sin identificar	criteoDomain
+patobot.com	sin identificar	criteoDomain
+periodicosespaÃ±oles.es	sin identificar	criteoDomain
+printwhatyoulike.com	sin identificar	criteoDomain
+pruebaswebup.tk	sin identificar	criteoDomain
+radios-emisoras.info	sin identificar	criteoDomain
+razonmasfe.com	sin identificar	criteoDomain
+Remnant	sin identificar	criteoDomain
+responsinator.com	sin identificar	criteoDomain
+responsivetesttool.com	sin identificar	criteoDomain
+rite.ly	sin identificar	criteoDomain
+robinjhair.weebly.com	sin identificar	criteoDomain
+rockcolombiadocs.blogspot.com	sin identificar	criteoDomain
+rubenolarte.com	sin identificar	criteoDomain
+sandrabeltranfansoficial.blogspot.com	sin identificar	criteoDomain
+seguimiento.co	sin identificar	criteoDomain
+snip.ly	sin identificar	criteoDomain
+soros-sehablaespanyol-soros.blogspot.com	sin identificar	criteoDomain
+supercontable.com	sin identificar	criteoDomain
+syamareyes.com.br	sin identificar	criteoDomain
+tabisa.net	sin identificar	criteoDomain
+todareceta.es	sin identificar	criteoDomain
+translatetheweb.com	sin identificar	criteoDomain
+translatoruser-int.com	sin identificar	criteoDomain
+tryit.w3schools.com	sin identificar	criteoDomain
+ultimahora.es	sin identificar	criteoDomain
+valdetorres.es	sin identificar	criteoDomain
+w3schools.com	sin identificar	criteoDomain
+wix.com	sin identificar	criteoDomain
+world-check.com	sin identificar	criteoDomain
+www-pulzo-com.cdn.ampproject.org	sin identificar	criteoDomain
+xn--periodicosespaoles-00b.es	sin identificar	criteoDomain
+zonacero.com	sin identificar	criteoDomain
+int.smoda.elpais.com	elpais_smoda	criteoDomain
+smoda.elpais.com	elpais_smoda	criteoDomain
+local.play.wradio.com.co	wradio	criteoDomain
+local.play.wradio.com.mx	wradio	criteoDomain
+dev.play.wradio.com.co	wradio	criteoDomain
+play.wradio.com.co	wradio	criteoDomain
+play.wradio.com.mx	wradio	criteoDomain
+pre.play.wradio.com.co	wradio	criteoDomain
+pre.play.wradio.com.mx	wradio	criteoDomain
+wradio.com.co	wradio	criteoDomain
+wradio.com.mx	wradio	criteoDomain
+www2.wradio.com.co	wradio	criteoDomain
+foros.xlsemanal.com	xlsemanal	criteoDomain
+pre-www.xlsemanal.com	xlsemanal	criteoDomain
+pre-xlsemanal.abc.es	xlsemanal	criteoDomain
+www-origin.xlsemanal.com	xlsemanal	criteoDomain
+xlsemanal.abc.es	xlsemanal	criteoDomain
+xlsemanal.com	xlsemanal	criteoDomain
+xlsemanal.diariosur.es	xlsemanal	criteoDomain
+xlsemanal.diariovasco.com	xlsemanal	criteoDomain
+xlsemanal.elcomercio.es	xlsemanal	criteoDomain
+xlsemanal.elcorreo.com	xlsemanal	criteoDomain
+xlsemanal.eldiariomontanes.es	xlsemanal	criteoDomain
+xlsemanal.elnortedecastilla.es	xlsemanal	criteoDomain
+xlsemanal.hoy.es	xlsemanal	criteoDomain
+xlsemanal.ideal.es	xlsemanal	criteoDomain
+xlsemanal.larioja.com	xlsemanal	criteoDomain
+xlsemanal.lasprovincias.es	xlsemanal	criteoDomain
+xlsemanal.laverdad.es	xlsemanal	criteoDomain
+local.xlsemanal.com	xlsemanal	criteoDomain
+pre-foros.xlsemanal.com	xlsemanal	criteoDomain
+xlsemanal.leonoticias.com	xlsemanal	criteoDomain
