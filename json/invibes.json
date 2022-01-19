@@ -2,793 +2,661 @@
  "abc.es": {
   "publisher": "vocento",
   "site": "abc",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "adra-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "alaves-elcorreo-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elcorreo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "alcalalareal-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "almanzora-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "andujar-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "armilla-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "arroyodelaluz-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "athletic-elcorreo-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elcorreo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "baskonia-elcorreo-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elcorreo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "baza-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "bilbaobasket-elcorreo-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elcorreo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "blogs-mujerhoy-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "mujerhoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "burgosconecta.es": {
   "publisher": "vocento",
   "site": "burgosconecta",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "calamonte-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "campanario-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "canarias7.es": {
   "publisher": "canarias7",
   "site": "canarias7",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "casardecaceres-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "castuera-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "cazorla-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "churrianadelavega-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "clasica--san--sebastian-diariovasco-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "diariovasco",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "coria-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "cosaspracticas-lasprovincias-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "lasprovincias",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "diariosur.es": {
   "publisher": "vocento",
   "site": "diariosur",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "diariovasco.com": {
   "publisher": "vocento",
   "site": "diariovasco",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "digitales-larioja-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "larioja",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "elbierzonoticias.com": {
   "publisher": "vocento",
   "site": "elbierzonoticias",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "elcomercio.es": {
   "publisher": "vocento",
   "site": "elcomercio",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "elcorreo.com": {
   "publisher": "vocento",
   "site": "elcorreo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "eldiariomontanes.es": {
   "publisher": "vocento",
   "site": "eldiariomontanes",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "elejido-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "elnortedecastilla.es": {
   "publisher": "vocento",
   "site": "elnortedecastilla",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "fashion-hola-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hola",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "fccartagena-laverdad-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "laverdad",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "fregenal-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "fuentedecantos-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "gourmet-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "guadix-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "guarena-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "herreradelduque-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "hola.com": {
   "publisher": "hola",
   "site": "hola",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "hoy.es": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "huetorvega-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "ideal.es": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "innovando-larioja-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "larioja",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "jaraizdelavera-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "jerezdeloscaballeros-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "larioja.com": {
   "publisher": "vocento",
   "site": "larioja",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "lasprovincias.es": {
   "publisher": "vocento",
   "site": "lasprovincias",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "lavanguardia.com": {
   "publisher": "godo",
   "site": "lavanguardia",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "laverdad.es": {
   "publisher": "vocento",
   "site": "laverdad",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "lavozdigital.es": {
   "publisher": "vocento",
   "site": "lavozdigital",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "lazarza-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "lazubia-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "leonoticias.com": {
   "publisher": "vocento",
   "site": "leonoticias",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "levante-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "llerena-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "loja-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "lossantosdemaimona-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "loteria-elcomercio-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elcomercio",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "malagacf-diariosur-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "diariosur",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "malpartidadecaceres-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "maracena-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "miajadas-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "mirandes-elcorreo-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elcorreo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "monesterio-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "mujerhoy.com": {
   "publisher": "vocento",
   "site": "mujerhoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "mundodeportivo.com": {
   "publisher": "godo",
   "site": "mundodeportivo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "navalmoral-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "olivenza-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "puebladelacalzada-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "quienesquien-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "quintana-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "real--sociedad-diariovasco-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "diariovasco",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "roquetas-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "sdeibar-diariovasco-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "diariovasco",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "sevilla.abc.es": {
   "publisher": "vocento",
   "site": "abcsevilla",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "sevilla-abc-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "abcsevilla",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "solidario-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "soydearroyo-elnortedecastilla-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elnortedecastilla",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "soydecaravaca-laverdad-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "laverdad",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "talarrubias-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "talayuela-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "tamborrada-diariovasco-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "diariovasco",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "trujillo-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "tuotrodiario.com": {
   "publisher": "hola",
   "site": "tuotrodiario",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "ubeda-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "valverdedeleganes-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "villafranca-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "villanuevadelfresno-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "vueltapaisvasco-diariovasco-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "diariovasco",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-abc-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "abc",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-burgosconecta-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "burgosconecta",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-canarias7-es.cdn.ampproject.org": {
   "publisher": "canarias7",
   "site": "canarias7",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-degustalarioja-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "larioja",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-diariosur-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "diariosur",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-diariovasco-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "diariovasco",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-elbierzonoticias-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elbierzonoticias",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-elcomercio-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elcomercio",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-elcorreo-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elcorreo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-eldiariomontanes-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "eldiariomontanes",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-elnortedecastilla-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "elnortedecastilla",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-hola-com.cdn.ampproject.org": {
   "publisher": "hola",
   "site": "hola",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-ideal-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "ideal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-larioja-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "larioja",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-lasprovincias-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "lasprovincias",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-lavanguardia-com.cdn.ampproject.org": {
   "publisher": "godo",
   "site": "lavanguardia",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-laverdad-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "laverdad",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-lavozdigital-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "lavozdigital",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-leonoticias-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "leonoticias",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-lomejordelvinoderioja-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "larioja",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-mujerhoy-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "mujerhoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-mundodeportivo-com.cdn.ampproject.org": {
   "publisher": "godo",
   "site": "mundodeportivo",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www--origin-hola-com.cdn.ampproject.org": {
   "publisher": "hola",
   "site": "hola",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-tuotrodiario-com.cdn.ampproject.org": {
   "publisher": "hola",
   "site": "tuotrodiario",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "www-xlsemanal-com.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "xlsemanal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "xlsemanal.com": {
   "publisher": "vocento",
   "site": "xlsemanal",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "zafra-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "zalamea-hoy-es.cdn.ampproject.org": {
   "publisher": "vocento",
   "site": "hoy",
-  "channel": "amp",
-  "formato": "oustream"
+  "channel": "amp"
  },
  "as.com": {
   "publisher": "prisa",
   "site": "as",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "cadenaser.com": {
   "publisher": "prisa",
   "site": "cadenaser",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "elpais.com": {
   "publisher": "prisa",
   "site": "elpais",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "los40.com": {
   "publisher": "prisa",
   "site": "los40",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "huffingtonpost.es": {
   "publisher": "prisa",
   "site": "huffingtonpost",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "as.com/futbol": {
   "publisher": "prisa",
   "site": "as",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "as.com/meristation": {
   "publisher": "prisa",
   "site": "as",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "as.com/motor": {
   "publisher": "prisa",
   "site": "as",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "as.com/tikitakas": {
   "publisher": "prisa",
   "site": "as",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "esports.as.com": {
   "publisher": "prisa",
   "site": "as",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  },
  "ejerciciosencasa.as.com": {
   "publisher": "prisa",
   "site": "as_ejerciciosencasa",
-  "channel": "any",
-  "formato": "oustream"
+  "channel": "any"
  }
 }

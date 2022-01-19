@@ -1,4 +1,5 @@
 coso	publisher	site	channel	format	position	origen
+3	vocento	elcorreo	any	skin	Skin	richaudience
 H2nAA81NqR	canarias7	canarias7	any	display	ldb	richaudience
 tv01pjNpIi	canarias7	canarias7	any	display	ldb.2	richaudience
 mV8Kudono7	canarias7	canarias7	any	display	ldb.3	richaudience
@@ -1014,8 +1015,7 @@ ezTK0Yms1h	error	tropicana	any	instream		richaudience
 D8HSRi9okb	prisa	as	mob	skin	skin	richaudience
 KDP9pr5Mwg	prisa	kebuena	any	outstream	Outv	richaudience
 P6SptUFgNC	prisa	elpais	mob	display	mldb5	richaudience
-coso	publisher	site	channel	format	position	origen
-3	vocento	elcorreo	any	skin	Skin	richaudience
+coso	publisher	site	channel	format	position	richaudience
 ghostery	error	ghostery				richaudience
 nEs4bbWwTR	vocento	xlsemanal	web	display	mpu4	richaudience
 077DeO↓ii3	prisa	as	any	skin	Skin	richaudience

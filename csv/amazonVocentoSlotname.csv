@@ -2061,8 +2061,8 @@ vocento.laverdad-robapaginas_tres	laverdad	amazonVocentoSlotname
 vocento.laverdad-robapaginas_tres_local	laverdad	amazonVocentoSlotname
 vocento.laverdad-skyscraper_der	laverdad	amazonVocentoSlotname
 vocento.laverdad-skyscraper_izq	laverdad	amazonVocentoSlotname
-vocento.lavozdigital-megabanner	lavozdigital	amazonVocentoSlotname
-vocento.lavozdigital-megabanner_dos	lavozdigital	amazonVocentoSlotname
+vocento.lavozdigital-megabanner	laverdad	amazonVocentoSlotname
+vocento.lavozdigital-megabanner_dos	laverdad	amazonVocentoSlotname
 webm.LAVERDAD-megabanner_cinco	laverdad	amazonVocentoSlotname
 webm.LAVERDAD-megabanner_cinco_local	laverdad	amazonVocentoSlotname
 webm.LAVERDAD-megabanner_cuatro	laverdad	amazonVocentoSlotname
@@ -3302,8 +3302,6 @@ vocento.xlsemanal-burgosconecta-robapaginas_tres	xlsemanal	amazonVocentoSlotname
 vocento.xlsemanal-burgosconecta-robapaginas_tres_local	xlsemanal	amazonVocentoSlotname
 vocento.xlsemanal-burgosconecta-skyscraper_der	xlsemanal	amazonVocentoSlotname
 vocento.xlsemanal-burgosconecta-skyscraper_izq	xlsemanal	amazonVocentoSlotname
-vocento.lavozdigital-megabanner	laverdad	amazonVocentoSlotname
-vocento.lavozdigital-megabanner_dos	laverdad	amazonVocentoSlotname
 /4900/webm.DIARIOMONTANES/AMP/loteria	diariomontañes	amazonVocentoSlotname
 /4900/webm.LEONOTICIAS/AMP/colegios/virgen-blanca	leonoticias	amazonVocentoSlotname
 /4900/webm.DIARIOVASCO/AMP/zabalik	diariovasco	amazonVocentoSlotname

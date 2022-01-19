@@ -10,7 +10,7 @@ const
     "invibes": "coso\tpublisher\tsite\tchannel\tformat",
     "quantum": "coso\tpublisher\tsite\tchannel\tformat",
     "richaudience": "coso\tpublisher\tsite\tchannel\tformat\tposition",
-    "smartclip": "coso\tpublisher\tsite",
+    "smartclip": "coso\tpublisher\tsite\tchannel",
     "sunmedia": "coso\tpublisher\tsite"
   },
   {

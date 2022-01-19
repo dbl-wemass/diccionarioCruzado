@@ -7080,15 +7080,13 @@
   "publisher": "error",
   "site": "msn",
   "channel": "any",
-  "format": "instream",
-  "position": ""
+  "format": "instream"
  },
  "ezTK0Yms1h": {
   "publisher": "error",
   "site": "tropicana",
   "channel": "any",
-  "format": "instream",
-  "position": ""
+  "format": "instream"
  },
  "D8HSRi9okb": {
   "publisher": "prisa",
@@ -7120,10 +7118,7 @@
  },
  "ghostery": {
   "publisher": "error",
-  "site": "ghostery",
-  "channel": "",
-  "format": "",
-  "position": ""
+  "site": "ghostery"
  },
  "nEs4bbWwTR": {
   "publisher": "vocento",

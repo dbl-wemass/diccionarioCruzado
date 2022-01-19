@@ -40,7 +40,7 @@ for (let file of files) {
         for (let contador = 0; contador < values.length; contador++) {
           if (headers[contador] === "coso") {
             index = values[contador];
-          } else if (headers[contador] !== "origen")
+          } else if (headers[contador] !== "origen" && values[contador] !=="")
             value[headers[contador]] = values[contador];
         }
         if(index!=="")
